@@ -1,4 +1,5 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { loadCatalog, type CatalogSource } from "./catalog-client";
 import { type PlatformTarget } from "./catalog";
 import { getDownloadAsset, getMarketplaceApps, marketplaceRegistry, type MarketplaceApp, type ReleaseAsset } from "./registry";
 import "./App.css";
@@ -31,9 +32,21 @@ function verificationLabel(verification: MarketplaceApp["verification"]): string
 function App() {
   const [query, setQuery] = useState("");
   const [target, setTarget] = useState<PlatformTarget>(targetOptions[0].target);
+  const [catalogApps, setCatalogApps] = useState<MarketplaceApp[]>(marketplaceRegistry);
+  const [catalogSource, setCatalogSource] = useState<CatalogSource>("bundled");
   const [selectedSlug, setSelectedSlug] = useState(marketplaceRegistry[0].slug);
 
-  const apps = useMemo(() => getMarketplaceApps(target, query), [target, query]);
+  useEffect(() => {
+    let active = true;
+    void loadCatalog().then(({ document, source }) => {
+      if (!active) return;
+      setCatalogApps(document.apps);
+      setCatalogSource(source);
+    }).catch(() => undefined);
+    return () => { active = false; };
+  }, []);
+
+  const apps = useMemo(() => getMarketplaceApps(target, query, catalogApps), [target, query, catalogApps]);
   const selected = apps.find((app) => app.slug === selectedSlug) ?? apps[0];
   const featured = apps.filter((app) => app.featured).slice(0, 3);
   const selectedAsset = selected ? getDownloadAsset(selected, target) : null;
@@ -90,7 +103,7 @@ function App() {
               <h1>Marketplace</h1>
               <p className="lead">Curated open-source desktop software, sourced from published releases.</p>
             </div>
-            <span className="result-count">{apps.length} apps</span>
+            <span className="result-count">{apps.length} apps · {catalogSource === "remote" ? "remote catalog" : "bundled catalog"}</span>
           </div>
 
           <section id="featured" aria-labelledby="featured-heading">
