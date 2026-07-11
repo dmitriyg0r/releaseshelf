@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
-import { selectBestAsset, type PlatformTarget } from "./catalog";
-import { getMarketplaceApps, marketplaceRegistry, type MarketplaceApp } from "./registry";
+import { type PlatformTarget } from "./catalog";
+import { getDownloadAsset, getMarketplaceApps, marketplaceRegistry, type MarketplaceApp, type ReleaseAsset } from "./registry";
 import "./App.css";
 
 const targetOptions: Array<{ label: string; value: string; target: PlatformTarget }> = [
@@ -10,9 +10,9 @@ const targetOptions: Array<{ label: string; value: string; target: PlatformTarge
   { label: "Linux / ARM64", value: "linux:arm64", target: { os: "linux", arch: "arm64" } },
 ];
 
-function packageLabel(asset: string | null): string {
+function packageLabel(asset: ReleaseAsset | null): string {
   if (!asset) return "No compatible package";
-  const name = asset.toLocaleLowerCase();
+  const name = asset.name.toLocaleLowerCase();
   if (name.endsWith(".dmg")) return "macOS disk image";
   if (name.endsWith(".appimage")) return "Linux AppImage";
   if (name.endsWith(".deb")) return "Debian package";
@@ -36,7 +36,7 @@ function App() {
   const apps = useMemo(() => getMarketplaceApps(target, query), [target, query]);
   const selected = apps.find((app) => app.slug === selectedSlug) ?? apps[0];
   const featured = apps.filter((app) => app.featured).slice(0, 3);
-  const selectedAsset = selected ? selectBestAsset(selected.assets, target) : null;
+  const selectedAsset = selected ? getDownloadAsset(selected, target) : null;
 
   return (
     <div className="shell">
@@ -135,13 +135,14 @@ function AppRow({ app, selected, onSelect }: { app: MarketplaceApp; selected: bo
   </button>;
 }
 
-function ReleaseDetails({ app, asset }: { app: MarketplaceApp; asset: string | null }) {
+function ReleaseDetails({ app, asset }: { app: MarketplaceApp; asset: ReleaseAsset | null }) {
   return <>
     <div className="panel-header"><span className="app-avatar" style={{ backgroundColor: app.accent }}>{app.name.slice(0, 1)}</span><div><h2>{app.name}</h2><span className="release-version">Latest release {app.release}</span></div></div>
     <p className="panel-description">{app.description}</p>
-    <div className="package-box"><span className="package-icon">▣</span><div><strong>{packageLabel(asset)}</strong><code>{asset ?? "No compatible asset"}</code></div></div>
-    <a className="github-action" href={app.repositoryUrl} rel="noreferrer" target="_blank"><span>View release on GitHub</span> ↗</a>
-    <div className="trust-box"><strong>◉ {verificationLabel(app.verification)} source</strong><p>ReleaseShelf links to the publisher’s release page. Downloads and installers are not automated in this build.</p></div>
+    <div className="package-box"><span className="package-icon">▣</span><div><strong>{packageLabel(asset)}</strong><code>{asset?.name ?? "No compatible asset"}</code></div></div>
+    {asset ? <a className="download-action" href={asset.url} rel="noreferrer" target="_blank"><span>Download {packageLabel(asset)}</span> ↓</a> : <span className="download-action disabled">No compatible download</span>}
+    <a className="repository-link" href={app.repositoryUrl} rel="noreferrer" target="_blank">View source repository ↗</a>
+    <div className="trust-box"><strong>◉ {verificationLabel(app.verification)} source</strong><p>The download button points directly to the publisher’s GitHub release asset. Installation is not automated in this build.</p></div>
     <dl className="metadata"><div><dt>Category</dt><dd>{app.category}</dd></div><div><dt>Updated</dt><dd>{app.updatedAt}</dd></div><div><dt>Repository</dt><dd>GitHub</dd></div></dl>
   </>;
 }

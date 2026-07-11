@@ -16,6 +16,15 @@ describe("selectBestAsset", () => {
     );
   });
 
+  it("accepts an architecture-specific tarball when no macOS image exists", () => {
+    expect(
+      selectBestAsset(["bat-v0.26.1-aarch64-apple-darwin.tar.gz"], {
+        os: "macos",
+        arch: "arm64",
+      }),
+    ).toBe("bat-v0.26.1-aarch64-apple-darwin.tar.gz");
+  });
+
   it("prefers AppImage over a distro-specific Linux package", () => {
     expect(selectBestAsset(assets, { os: "linux", arch: "x64" })).toBe(
       "Release.AppImage",

@@ -7,14 +7,14 @@ describe("ReleaseShelf catalog", () => {
     render(<App />);
 
     fireEvent.change(screen.getByRole("searchbox"), {
-      target: { value: "signal" },
+      target: { value: "appflowy" },
     });
 
     expect(
-      screen.getAllByRole("button", { name: /Signal Desktop/i }),
+      screen.getAllByRole("button", { name: /AppFlowy/i }),
     ).not.toHaveLength(0);
     expect(
-      screen.queryByRole("button", { name: /Obsidian/i }),
+      screen.queryByRole("button", { name: /LocalSend/i }),
     ).toBeNull();
   });
 });
