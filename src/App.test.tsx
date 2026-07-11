@@ -11,8 +11,8 @@ describe("ReleaseShelf catalog", () => {
     });
 
     expect(
-      screen.getByRole("button", { name: /Signal Desktop/i }),
-    ).toBeTruthy();
+      screen.getAllByRole("button", { name: /Signal Desktop/i }),
+    ).not.toHaveLength(0);
     expect(
       screen.queryByRole("button", { name: /Obsidian/i }),
     ).toBeNull();

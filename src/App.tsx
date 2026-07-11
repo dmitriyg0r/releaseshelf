@@ -1,156 +1,149 @@
 import { useMemo, useState } from "react";
 import { selectBestAsset, type PlatformTarget } from "./catalog";
+import { getMarketplaceApps, marketplaceRegistry, type MarketplaceApp } from "./registry";
 import "./App.css";
 
-type AppEntry = {
-  name: string;
-  description: string;
-  category: string;
-  repositoryUrl: string;
-  release: string;
-  assets: string[];
-  accent: string;
-};
-
-const catalog: AppEntry[] = [
-  {
-    name: "Obsidian",
-    description: "A private, flexible knowledge base that works on local Markdown files.",
-    category: "Productivity",
-    repositoryUrl: "https://github.com/obsidianmd/obsidian-releases",
-    release: "v1.10.6",
-    assets: ["Obsidian-1.10.6-universal.dmg", "Obsidian-1.10.6.AppImage"],
-    accent: "#7c6cff",
-  },
-  {
-    name: "Signal Desktop",
-    description: "Private messaging with end-to-end encryption for desktop.",
-    category: "Communication",
-    repositoryUrl: "https://github.com/signalapp/Signal-Desktop",
-    release: "v7.83.0",
-    assets: ["signal-desktop-mac-arm64.dmg", "signal-desktop-x64.deb"],
-    accent: "#3a76f0",
-  },
-  {
-    name: "GIMP",
-    description: "A cross-platform image editor for creative and technical work.",
-    category: "Creative",
-    repositoryUrl: "https://github.com/GNOME/gimp",
-    release: "v3.0.8",
-    assets: ["GIMP-3.0.8-arm64.dmg", "GIMP-3.0.8-x86_64.AppImage"],
-    accent: "#df8a37",
-  },
+const targetOptions: Array<{ label: string; value: string; target: PlatformTarget }> = [
+  { label: "macOS / Apple Silicon", value: "macos:arm64", target: { os: "macos", arch: "arm64" } },
+  { label: "macOS / Intel", value: "macos:x64", target: { os: "macos", arch: "x64" } },
+  { label: "Linux / x64", value: "linux:x64", target: { os: "linux", arch: "x64" } },
+  { label: "Linux / ARM64", value: "linux:arm64", target: { os: "linux", arch: "arm64" } },
 ];
 
-function labelForAsset(asset: string | null): string {
-  if (!asset) return "No compatible release asset";
-  if (asset.toLowerCase().endsWith(".dmg")) return "macOS disk image";
-  if (asset.toLowerCase().endsWith(".appimage")) return "Linux AppImage";
-  if (asset.toLowerCase().endsWith(".deb")) return "Debian package";
+function packageLabel(asset: string | null): string {
+  if (!asset) return "No compatible package";
+  const name = asset.toLocaleLowerCase();
+  if (name.endsWith(".dmg")) return "macOS disk image";
+  if (name.endsWith(".appimage")) return "Linux AppImage";
+  if (name.endsWith(".deb")) return "Debian package";
+  if (name.endsWith(".rpm")) return "RPM package";
   return "Release asset";
+}
+
+function verificationLabel(verification: MarketplaceApp["verification"]): string {
+  return verification === "verified"
+    ? "Verified"
+    : verification === "community"
+      ? "Community"
+      : "Discovered";
 }
 
 function App() {
   const [query, setQuery] = useState("");
-  const [target, setTarget] = useState<PlatformTarget>({ os: "macos", arch: "arm64" });
-  const [selected, setSelected] = useState(catalog[0]);
+  const [target, setTarget] = useState<PlatformTarget>(targetOptions[0].target);
+  const [selectedSlug, setSelectedSlug] = useState(marketplaceRegistry[0].slug);
 
-  const visibleApps = useMemo(() => {
-    const needle = query.trim().toLocaleLowerCase();
-    if (!needle) return catalog;
-    return catalog.filter((app) =>
-      `${app.name} ${app.description} ${app.category}`.toLocaleLowerCase().includes(needle),
-    );
-  }, [query]);
-
-  const preferredAsset = selectBestAsset(selected.assets, target);
+  const apps = useMemo(() => getMarketplaceApps(target, query), [target, query]);
+  const selected = apps.find((app) => app.slug === selectedSlug) ?? apps[0];
+  const featured = apps.filter((app) => app.featured).slice(0, 3);
+  const selectedAsset = selected ? selectBestAsset(selected.assets, target) : null;
 
   return (
-    <main className="app-shell">
-      <header className="topbar">
-        <div className="brand" aria-label="ReleaseShelf">
-          <span className="brand-mark">R</span>
-          <span>ReleaseShelf</span>
+    <div className="shell">
+      <header className="site-header">
+        <div className="header-inner">
+          <div className="brand" aria-label="ReleaseShelf home">
+            <span className="brand-mark" aria-hidden="true">⌘</span>
+            <span>ReleaseShelf</span>
+          </div>
+          <div className="global-search" role="search">
+            <span aria-hidden="true">⌕</span>
+            <input
+              aria-label="Search applications"
+              placeholder="Search marketplace"
+              type="search"
+              value={query}
+              onChange={(event) => setQuery(event.currentTarget.value)}
+            />
+          </div>
+          <button className="submit-button" type="button">Submit an app</button>
         </div>
-        <span className="beta">MVP · curated catalog</span>
       </header>
 
-      <section className="hero">
-        <p className="eyebrow">OPEN-SOURCE DESKTOP APPS</p>
-        <h1>Find trustworthy GitHub releases for your desktop.</h1>
-        <p className="hero-copy">
-          ReleaseShelf will always show the package type and source before you download anything.
-        </p>
-        <div className="toolbar">
-          <input
-            type="search"
-            aria-label="Search applications"
-            placeholder="Search applications"
-            value={query}
-            onChange={(event) => setQuery(event.currentTarget.value)}
-          />
+      <div className="workspace">
+        <aside className="sidebar" aria-label="Marketplace navigation">
+          <nav>
+            <a className="nav-item active" href="#marketplace">⌂ <span>Marketplace</span></a>
+            <a className="nav-item" href="#featured">◈ <span>Featured</span></a>
+            <a className="nav-item" href="#categories">▦ <span>Categories</span></a>
+            <a className="nav-item" href="#updates">↻ <span>Updates</span></a>
+          </nav>
+          <div className="sidebar-rule" />
+          <p className="sidebar-title">PLATFORM</p>
           <select
             aria-label="Target platform"
             value={`${target.os}:${target.arch}`}
             onChange={(event) => {
-              const [os, arch] = event.currentTarget.value.split(":") as [
-                PlatformTarget["os"],
-                PlatformTarget["arch"],
-              ];
-              setTarget({ os, arch });
+              const option = targetOptions.find((item) => item.value === event.currentTarget.value);
+              if (option) setTarget(option.target);
             }}
           >
-            <option value="macos:arm64">macOS · Apple Silicon</option>
-            <option value="macos:x64">macOS · Intel</option>
-            <option value="linux:x64">Linux · x64</option>
-            <option value="linux:arm64">Linux · ARM64</option>
+            {targetOptions.map((option) => <option key={option.value} value={option.value}>{option.label}</option>)}
           </select>
-        </div>
-      </section>
-
-      <section className="catalog-layout" aria-label="Application catalog">
-        <div className="app-grid">
-          {visibleApps.map((app) => (
-            <button
-              className={`app-card ${selected.name === app.name ? "selected" : ""}`}
-              key={app.name}
-              onClick={() => setSelected(app)}
-              type="button"
-            >
-              <span className="app-icon" style={{ backgroundColor: app.accent }}>
-                {app.name.slice(0, 1)}
-              </span>
-              <span className="app-card-content">
-                <span className="category">{app.category}</span>
-                <strong>{app.name}</strong>
-                <span>{app.description}</span>
-              </span>
-            </button>
-          ))}
-          {visibleApps.length === 0 && <p className="empty">No curated app matches this search.</p>}
-        </div>
-
-        <aside className="details-panel">
-          <span className="category">LATEST RELEASE · {selected.release}</span>
-          <h2>{selected.name}</h2>
-          <p>{selected.description}</p>
-          <div className="release-box">
-            <span className="status-dot" />
-            <div>
-              <strong>{labelForAsset(preferredAsset)}</strong>
-              <p>{preferredAsset ?? "Switch platform or open the source release."}</p>
-            </div>
-          </div>
-          <a className="primary-action" href={selected.repositoryUrl} target="_blank" rel="noreferrer">
-            Open release on GitHub ↗
-          </a>
-          <p className="safety-note">
-            Downloads and installation are intentionally not enabled in this first build. ReleaseShelf will not bypass Gatekeeper or Linux package policies.
-          </p>
+          <p className="sidebar-copy">Only compatible release assets are shown for your selected platform.</p>
         </aside>
-      </section>
-    </main>
+
+        <main className="content" id="marketplace">
+          <div className="title-row">
+            <div>
+              <p className="eyebrow">RELEASESHELF / EXPLORE</p>
+              <h1>Marketplace</h1>
+              <p className="lead">Curated open-source desktop software, sourced from published releases.</p>
+            </div>
+            <span className="result-count">{apps.length} apps</span>
+          </div>
+
+          <section id="featured" aria-labelledby="featured-heading">
+            <div className="section-heading"><h2 id="featured-heading">Featured desktop apps</h2><a href="#categories">Browse categories →</a></div>
+            <div className="featured-grid">
+              {featured.map((app) => <AppCard app={app} key={app.slug} selected={selected?.slug === app.slug} onSelect={setSelectedSlug} />)}
+            </div>
+          </section>
+
+          <section className="list-section" id="updates" aria-labelledby="updates-heading">
+            <div className="section-heading"><h2 id="updates-heading">Recently updated</h2><span>Verified sources prioritized</span></div>
+            <div className="app-list">
+              {apps.map((app) => <AppRow app={app} key={app.slug} selected={selected?.slug === app.slug} onSelect={setSelectedSlug} />)}
+              {apps.length === 0 && <div className="empty-state">No applications match this platform and search. Try another platform or a broader query.</div>}
+            </div>
+          </section>
+        </main>
+
+        <aside className="release-panel" aria-label="Selected application release">
+          {selected ? <ReleaseDetails app={selected} asset={selectedAsset} /> : <div className="empty-state">Select an app to inspect its published release.</div>}
+        </aside>
+      </div>
+    </div>
   );
+}
+
+function AppCard({ app, selected, onSelect }: { app: MarketplaceApp; selected: boolean; onSelect: (slug: string) => void }) {
+  return <button className={`featured-card ${selected ? "selected" : ""}`} onClick={() => onSelect(app.slug)} type="button">
+    <span className="app-avatar" style={{ backgroundColor: app.accent }}>{app.name.slice(0, 1)}</span>
+    <span className="card-copy"><strong>{app.name}</strong><span>{app.description}</span></span>
+    <span className={`verification ${app.verification}`}>● {verificationLabel(app.verification)}</span>
+  </button>;
+}
+
+function AppRow({ app, selected, onSelect }: { app: MarketplaceApp; selected: boolean; onSelect: (slug: string) => void }) {
+  return <button className={`app-row ${selected ? "selected" : ""}`} onClick={() => onSelect(app.slug)} type="button">
+    <span className="app-avatar small" style={{ backgroundColor: app.accent }}>{app.name.slice(0, 1)}</span>
+    <span className="row-main"><strong>{app.name}</strong><span>{app.description}</span></span>
+    <span className="row-category">{app.category}</span>
+    <span className={`verification ${app.verification}`}>● {verificationLabel(app.verification)}</span>
+    <span className="row-updated">{app.updatedAt}</span>
+  </button>;
+}
+
+function ReleaseDetails({ app, asset }: { app: MarketplaceApp; asset: string | null }) {
+  return <>
+    <div className="panel-header"><span className="app-avatar" style={{ backgroundColor: app.accent }}>{app.name.slice(0, 1)}</span><div><h2>{app.name}</h2><span className="release-version">Latest release {app.release}</span></div></div>
+    <p className="panel-description">{app.description}</p>
+    <div className="package-box"><span className="package-icon">▣</span><div><strong>{packageLabel(asset)}</strong><code>{asset ?? "No compatible asset"}</code></div></div>
+    <a className="github-action" href={app.repositoryUrl} rel="noreferrer" target="_blank"><span>View release on GitHub</span> ↗</a>
+    <div className="trust-box"><strong>◉ {verificationLabel(app.verification)} source</strong><p>ReleaseShelf links to the publisher’s release page. Downloads and installers are not automated in this build.</p></div>
+    <dl className="metadata"><div><dt>Category</dt><dd>{app.category}</dd></div><div><dt>Updated</dt><dd>{app.updatedAt}</dd></div><div><dt>Repository</dt><dd>GitHub</dd></div></dl>
+  </>;
 }
 
 export default App;
