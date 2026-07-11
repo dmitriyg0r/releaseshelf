@@ -1,0 +1,46 @@
+name: Refresh marketplace catalog
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-marketplace-catalog
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh published GitHub releases
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out catalog
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Test catalog indexer
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Refresh reviewed release entries
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_catalog.py
+
+      - name: Commit catalog changes
+        run: |
+          if git diff --quiet -- public/catalog.json; then
+            echo "Catalog is already current"
+            exit 0
+          fi
+          git config user.name "releaseshelf-bot[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/catalog.json
+          git commit -m "chore(catalog): refresh GitHub releases"
+          git push
