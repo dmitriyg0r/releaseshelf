@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-11T15:45:00Z",
+  "generatedAt": "2026-07-11T13:01:15Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -9,17 +9,9 @@
       "category": "Productivity",
       "repositoryUrl": "https://github.com/AppFlowy-IO/AppFlowy",
       "release": "0.12.5",
-      "updatedAt": "Latest release 0.12.5",
+      "updatedAt": "2026-06-23T13:46:26Z",
       "verification": "verified",
       "assets": [
-        {
-          "name": "AppFlowy-0.12.5-macos-arm64.dmg",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-macos-arm64.dmg"
-        },
-        {
-          "name": "AppFlowy-0.12.5-macos-x86_64.dmg",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-macos-x86_64.dmg"
-        },
         {
           "name": "AppFlowy-0.12.5-linux-x86_64.AppImage",
           "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-linux-x86_64.AppImage"
@@ -27,6 +19,26 @@
         {
           "name": "AppFlowy-0.12.5-linux-x86_64.deb",
           "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-linux-x86_64.deb"
+        },
+        {
+          "name": "AppFlowy-0.12.5-linux-x86_64.rpm",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-linux-x86_64.rpm"
+        },
+        {
+          "name": "AppFlowy-0.12.5-linux-x86_64.tar.gz",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-linux-x86_64.tar.gz"
+        },
+        {
+          "name": "AppFlowy-0.12.5-macos-arm64.dmg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-macos-arm64.dmg"
+        },
+        {
+          "name": "AppFlowy-0.12.5-macos-universal.dmg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-macos-universal.dmg"
+        },
+        {
+          "name": "AppFlowy-0.12.5-macos-x86_64.dmg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-macos-x86_64.dmg"
         }
       ],
       "accent": "#7856ff",
@@ -39,12 +51,16 @@
       "category": "Utilities",
       "repositoryUrl": "https://github.com/localsend/localsend",
       "release": "v1.17.0",
-      "updatedAt": "Latest release v1.17.0",
+      "updatedAt": "2025-02-20T01:23:55Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "LocalSend-1.17.0.dmg",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0.dmg"
+          "name": "LocalSend-1.17.0-linux-arm-64.deb",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-arm-64.deb"
+        },
+        {
+          "name": "LocalSend-1.17.0-linux-arm-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-arm-64.tar.gz"
         },
         {
           "name": "LocalSend-1.17.0-linux-x86-64.AppImage",
@@ -55,8 +71,12 @@
           "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.deb"
         },
         {
-          "name": "LocalSend-1.17.0-linux-arm-64.deb",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-arm-64.deb"
+          "name": "LocalSend-1.17.0-linux-x86-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.tar.gz"
+        },
+        {
+          "name": "LocalSend-1.17.0.dmg",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0.dmg"
         }
       ],
       "accent": "#35a5e7",
@@ -69,17 +89,9 @@
       "category": "Writing",
       "repositoryUrl": "https://github.com/marktext/marktext",
       "release": "v0.19.1",
-      "updatedAt": "Latest release v0.19.1",
+      "updatedAt": "2026-06-06T05:05:38Z",
       "verification": "verified",
       "assets": [
-        {
-          "name": "marktext-mac-arm64-0.19.1.dmg",
-          "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.dmg"
-        },
-        {
-          "name": "marktext-mac-x64-0.19.1.dmg",
-          "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-x64-0.19.1.dmg"
-        },
         {
           "name": "marktext-linux-0.19.1.AppImage",
           "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.AppImage"
@@ -87,6 +99,22 @@
         {
           "name": "marktext-linux-0.19.1.deb",
           "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.deb"
+        },
+        {
+          "name": "marktext-linux-0.19.1.rpm",
+          "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.rpm"
+        },
+        {
+          "name": "marktext-linux-0.19.1.tar.gz",
+          "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.tar.gz"
+        },
+        {
+          "name": "marktext-mac-arm64-0.19.1.dmg",
+          "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.dmg"
+        },
+        {
+          "name": "marktext-mac-x64-0.19.1.dmg",
+          "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-x64-0.19.1.dmg"
         }
       ],
       "accent": "#4a9eff",
@@ -99,20 +127,28 @@
       "category": "Internet",
       "repositoryUrl": "https://github.com/zen-browser/desktop",
       "release": "1.21.6b",
-      "updatedAt": "Latest release 1.21.6b",
+      "updatedAt": "2026-07-09T10:46:23Z",
       "verification": "community",
       "assets": [
         {
-          "name": "zen.macos-universal.dmg",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.macos-universal.dmg"
+          "name": "zen-aarch64.AppImage",
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen-aarch64.AppImage"
         },
         {
           "name": "zen-x86_64.AppImage",
           "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen-x86_64.AppImage"
         },
         {
-          "name": "zen-aarch64.AppImage",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen-aarch64.AppImage"
+          "name": "zen.linux-aarch64.tar.xz",
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.linux-aarch64.tar.xz"
+        },
+        {
+          "name": "zen.linux-x86_64.tar.xz",
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.linux-x86_64.tar.xz"
+        },
+        {
+          "name": "zen.macos-universal.dmg",
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.macos-universal.dmg"
         }
       ],
       "accent": "#8f6df2"
@@ -124,7 +160,7 @@
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/alacritty/alacritty",
       "release": "v0.17.0",
-      "updatedAt": "Latest release v0.17.0",
+      "updatedAt": "2026-04-06T19:24:18Z",
       "verification": "verified",
       "assets": [
         {
@@ -141,24 +177,80 @@
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/sharkdp/bat",
       "release": "v0.26.1",
-      "updatedAt": "Latest release v0.26.1",
+      "updatedAt": "2025-12-02T20:48:10Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "bat-v0.26.1-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-apple-darwin.tar.gz"
-        },
-        {
-          "name": "bat-v0.26.1-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-apple-darwin.tar.gz"
+          "name": "bat-musl_0.26.1_arm64.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_arm64.deb"
         },
         {
           "name": "bat-musl_0.26.1_musl-linux-amd64.deb",
           "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-amd64.deb"
         },
         {
+          "name": "bat-musl_0.26.1_musl-linux-i686.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-i686.deb"
+        },
+        {
+          "name": "bat-v0.26.1-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-apple-darwin.tar.gz"
+        },
+        {
           "name": "bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz",
           "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-arm-unknown-linux-musleabihf.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-musleabihf.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-i686-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-i686-unknown-linux-musl.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-musl.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-apple-darwin.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz"
+        },
+        {
+          "name": "bat_0.26.1_amd64.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_amd64.deb"
+        },
+        {
+          "name": "bat_0.26.1_arm64.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_arm64.deb"
+        },
+        {
+          "name": "bat_0.26.1_armhf.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_armhf.deb"
+        },
+        {
+          "name": "bat_0.26.1_i686.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_i686.deb"
+        },
+        {
+          "name": "bat_0.26.1_musl-linux-armhf.deb",
+          "url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_musl-linux-armhf.deb"
         }
       ],
       "accent": "#4b8bbd"
@@ -170,7 +262,7 @@
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/jesseduffield/lazygit",
       "release": "v0.63.0",
-      "updatedAt": "Latest release v0.63.0",
+      "updatedAt": "2026-07-04T12:50:57Z",
       "verification": "verified",
       "assets": [
         {
@@ -182,8 +274,32 @@
           "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_darwin_x86_64.tar.gz"
         },
         {
+          "name": "lazygit_0.63.0_freebsd_32-bit.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_32-bit.tar.gz"
+        },
+        {
+          "name": "lazygit_0.63.0_freebsd_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_arm64.tar.gz"
+        },
+        {
+          "name": "lazygit_0.63.0_freebsd_armv6.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_armv6.tar.gz"
+        },
+        {
+          "name": "lazygit_0.63.0_freebsd_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_x86_64.tar.gz"
+        },
+        {
+          "name": "lazygit_0.63.0_linux_32-bit.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_32-bit.tar.gz"
+        },
+        {
           "name": "lazygit_0.63.0_linux_arm64.tar.gz",
           "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_arm64.tar.gz"
+        },
+        {
+          "name": "lazygit_0.63.0_linux_armv6.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_armv6.tar.gz"
         },
         {
           "name": "lazygit_0.63.0_linux_x86_64.tar.gz",
@@ -199,20 +315,80 @@
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/wez/wezterm",
       "release": "20240203-110809-5046fc22",
-      "updatedAt": "Latest published GitHub release",
+      "updatedAt": "2024-02-03T18:32:26Z",
       "verification": "community",
       "assets": [
         {
           "name": "WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage",
-          "url": "https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage"
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage"
         },
         {
-          "name": "wezterm-20240203-110809-5046fc22.Debian12.deb",
-          "url": "https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb"
+          "name": "wezterm-20240203-110809-5046fc22.Debian10.deb",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Debian10.tar.xz",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Debian11.deb",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Debian11.tar.xz",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz"
         },
         {
           "name": "wezterm-20240203-110809-5046fc22.Debian12.arm64.deb",
-          "url": "https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb"
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Debian12.deb",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Debian12.tar.xz",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb"
+        },
+        {
+          "name": "wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz"
+        },
+        {
+          "name": "wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm"
+        },
+        {
+          "name": "wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm"
+        },
+        {
+          "name": "wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm"
+        },
+        {
+          "name": "wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm"
+        },
+        {
+          "name": "wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm",
+          "url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm"
         }
       ],
       "accent": "#6c71c4"
@@ -224,16 +400,24 @@
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/junegunn/fzf",
       "release": "v0.74.0",
-      "updatedAt": "Latest release v0.74.0",
+      "updatedAt": "2026-07-06T13:33:58Z",
       "verification": "verified",
       "assets": [
+        {
+          "name": "fzf-0.74.0-android_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-android_arm64.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-darwin_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-darwin_amd64.tar.gz"
+        },
         {
           "name": "fzf-0.74.0-darwin_arm64.tar.gz",
           "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-darwin_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.0-darwin_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-darwin_amd64.tar.gz"
+          "name": "fzf-0.74.0-freebsd_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-freebsd_amd64.tar.gz"
         },
         {
           "name": "fzf-0.74.0-linux_amd64.tar.gz",
@@ -242,6 +426,38 @@
         {
           "name": "fzf-0.74.0-linux_arm64.tar.gz",
           "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_arm64.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_armv5.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_armv5.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_armv6.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_armv6.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_armv7.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_armv7.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_loong64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_loong64.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_ppc64le.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_ppc64le.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_riscv64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_riscv64.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-linux_s390x.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_s390x.tar.gz"
+        },
+        {
+          "name": "fzf-0.74.0-openbsd_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-openbsd_amd64.tar.gz"
         }
       ],
       "accent": "#ff79c6"
