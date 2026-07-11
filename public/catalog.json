@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-11T13:10:47Z",
+  "generatedAt": "2026-07-11T13:18:25Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -461,6 +461,1143 @@
         }
       ],
       "accent": "#ff79c6"
+    },
+    {
+      "slug": "farion1231--cc-switch",
+      "name": "cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/farion1231/cc-switch",
+      "release": "v3.16.5",
+      "updatedAt": "2026-07-01T16:17:54Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "CC-Switch-v3.16.5-Linux-arm64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-arm64.AppImage"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-Linux-arm64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-arm64.deb"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-Linux-arm64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-arm64.rpm"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-Linux-x86_64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-x86_64.AppImage"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-Linux-x86_64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-x86_64.deb"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-Linux-x86_64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-x86_64.rpm"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-macOS.dmg",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-macOS.dmg"
+        },
+        {
+          "name": "CC-Switch-v3.16.5-macOS.tar.gz",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-macOS.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "nexu-io--open-design",
+      "name": "open-design",
+      "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/nexu-io/open-design",
+      "release": "open-design-v0.14.1",
+      "updatedAt": "2026-07-10T13:51:17Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "open-design-0.14.1-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.14.1/open-design-0.14.1-mac-arm64.dmg"
+        },
+        {
+          "name": "open-design-0.14.1-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.14.1/open-design-0.14.1-mac-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "lencx--chatgpt",
+      "name": "ChatGPT",
+      "description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/lencx/ChatGPT",
+      "release": "v1.1.0",
+      "updatedAt": "2023-08-03T13:51:20Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ChatGPT_1.1.0_linux_x86_64.AppImage.tar.gz",
+          "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_linux_x86_64.AppImage.tar.gz"
+        },
+        {
+          "name": "ChatGPT_1.1.0_linux_x86_64.deb",
+          "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_linux_x86_64.deb"
+        },
+        {
+          "name": "ChatGPT_1.1.0_macos_aarch64.app.tar.gz",
+          "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_aarch64.app.tar.gz"
+        },
+        {
+          "name": "ChatGPT_1.1.0_macos_aarch64.dmg",
+          "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_aarch64.dmg"
+        },
+        {
+          "name": "ChatGPT_1.1.0_macos_x86_64.app.tar.gz",
+          "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_x86_64.app.tar.gz"
+        },
+        {
+          "name": "ChatGPT_1.1.0_macos_x86_64.dmg",
+          "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_x86_64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "pear-devs--pear-desktop",
+      "name": "pear-desktop",
+      "description": "Pear \ud83c\udf50 is extension for music player",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/pear-devs/pear-desktop",
+      "release": "v3.12.0",
+      "updatedAt": "2026-06-28T15:43:30Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "YouTube-Music-3.12.0-arm64.AppImage",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0-arm64.AppImage"
+        },
+        {
+          "name": "YouTube-Music-3.12.0-arm64.dmg",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0-arm64.dmg"
+        },
+        {
+          "name": "youtube-music-3.12.0-arm64.tar.gz",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0-arm64.tar.gz"
+        },
+        {
+          "name": "YouTube-Music-3.12.0-armv7l.AppImage",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0-armv7l.AppImage"
+        },
+        {
+          "name": "youtube-music-3.12.0-armv7l.tar.gz",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0-armv7l.tar.gz"
+        },
+        {
+          "name": "youtube-music-3.12.0.aarch64.rpm",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.aarch64.rpm"
+        },
+        {
+          "name": "YouTube-Music-3.12.0.AppImage",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0.AppImage"
+        },
+        {
+          "name": "YouTube-Music-3.12.0.dmg",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/YouTube-Music-3.12.0.dmg"
+        },
+        {
+          "name": "youtube-music-3.12.0.tar.gz",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.tar.gz"
+        },
+        {
+          "name": "youtube-music-3.12.0.x86_64.rpm",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.x86_64.rpm"
+        },
+        {
+          "name": "youtube-music_3.12.0_amd64.deb",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music_3.12.0_amd64.deb"
+        },
+        {
+          "name": "youtube-music_3.12.0_arm64.deb",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music_3.12.0_arm64.deb"
+        },
+        {
+          "name": "youtube-music_3.12.0_armv7l.deb",
+          "url": "https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music_3.12.0_armv7l.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "ayangweb--bongocat",
+      "name": "BongoCat",
+      "description": "\ud83d\udc31 \u8de8\u5e73\u53f0\u4e92\u52a8\u684c\u5ba0 BongoCat\uff0c\u4e3a\u684c\u9762\u589e\u6dfb\u4e50\u8da3\uff01",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/ayangweb/BongoCat",
+      "release": "v1.1.0",
+      "updatedAt": "2026-04-20T01:08:51Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "BongoCat-1.1.0-1.aarch64.rpm",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat-1.1.0-1.aarch64.rpm"
+        },
+        {
+          "name": "BongoCat-1.1.0-1.x86_64.rpm",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat-1.1.0-1.x86_64.rpm"
+        },
+        {
+          "name": "BongoCat_1.1.0_aarch64.AppImage",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_1.1.0_aarch64.AppImage"
+        },
+        {
+          "name": "BongoCat_1.1.0_aarch64.dmg",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_1.1.0_aarch64.dmg"
+        },
+        {
+          "name": "BongoCat_1.1.0_amd64.AppImage",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_1.1.0_amd64.AppImage"
+        },
+        {
+          "name": "BongoCat_1.1.0_amd64.deb",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_1.1.0_amd64.deb"
+        },
+        {
+          "name": "BongoCat_1.1.0_arm64.deb",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_1.1.0_arm64.deb"
+        },
+        {
+          "name": "BongoCat_1.1.0_x64.dmg",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_1.1.0_x64.dmg"
+        },
+        {
+          "name": "BongoCat_aarch64.app.tar.gz",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_aarch64.app.tar.gz"
+        },
+        {
+          "name": "BongoCat_x64.app.tar.gz",
+          "url": "https://github.com/ayangweb/BongoCat/releases/download/v1.1.0/BongoCat_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "nukeop--nuclear",
+      "name": "nuclear",
+      "description": "Streaming music player that finds free music for you",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/nukeop/nuclear",
+      "release": "player@1.42.2",
+      "updatedAt": "2026-07-08T11:39:42Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Nuclear-1.42.2-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear-1.42.2-1.x86_64.rpm"
+        },
+        {
+          "name": "Nuclear_1.42.2_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_aarch64.dmg"
+        },
+        {
+          "name": "Nuclear_1.42.2_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_amd64.AppImage"
+        },
+        {
+          "name": "Nuclear_1.42.2_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_amd64.deb"
+        },
+        {
+          "name": "Nuclear_1.42.2_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_x64.dmg"
+        },
+        {
+          "name": "Nuclear_aarch64.app.tar.gz",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_aarch64.app.tar.gz"
+        },
+        {
+          "name": "Nuclear_x64.app.tar.gz",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "amir1376--ab-download-manager",
+      "name": "ab-download-manager",
+      "description": "A Download Manager that speeds up your downloads",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/amir1376/ab-download-manager",
+      "release": "v1.9.2",
+      "updatedAt": "2026-06-21T12:18:17Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ABDownloadManager_1.9.2_linux_arm64.tar.gz",
+          "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.9.2/ABDownloadManager_1.9.2_linux_arm64.tar.gz"
+        },
+        {
+          "name": "ABDownloadManager_1.9.2_linux_x64.tar.gz",
+          "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.9.2/ABDownloadManager_1.9.2_linux_x64.tar.gz"
+        },
+        {
+          "name": "ABDownloadManager_1.9.2_mac_arm64.dmg",
+          "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.9.2/ABDownloadManager_1.9.2_mac_arm64.dmg"
+        },
+        {
+          "name": "ABDownloadManager_1.9.2_mac_arm64.tar.gz",
+          "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.9.2/ABDownloadManager_1.9.2_mac_arm64.tar.gz"
+        },
+        {
+          "name": "ABDownloadManager_1.9.2_mac_x64.dmg",
+          "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.9.2/ABDownloadManager_1.9.2_mac_x64.dmg"
+        },
+        {
+          "name": "ABDownloadManager_1.9.2_mac_x64.tar.gz",
+          "url": "https://github.com/amir1376/ab-download-manager/releases/download/v1.9.2/ABDownloadManager_1.9.2_mac_x64.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "ai-shifu--chatall",
+      "name": "ChatALL",
+      "description": " Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, \u8baf\u98de\u661f\u706b, \u6587\u5fc3\u4e00\u8a00 and more, discover the best answers",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/ai-shifu/ChatALL",
+      "release": "v1.85.110",
+      "updatedAt": "2025-05-22T16:34:21Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ChatALL-1.85.110-linux-amd64.deb",
+          "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-amd64.deb"
+        },
+        {
+          "name": "ChatALL-1.85.110-linux-arm64.AppImage",
+          "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.AppImage"
+        },
+        {
+          "name": "ChatALL-1.85.110-linux-arm64.deb",
+          "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.deb"
+        },
+        {
+          "name": "ChatALL-1.85.110-linux-x86_64.AppImage",
+          "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-x86_64.AppImage"
+        },
+        {
+          "name": "ChatALL-1.85.110-mac-arm64.dmg",
+          "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg"
+        },
+        {
+          "name": "ChatALL-1.85.110-mac-x64.dmg",
+          "url": "https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "superset-sh--superset",
+      "name": "superset",
+      "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/superset-sh/superset",
+      "release": "desktop-v1.14.3",
+      "updatedAt": "2026-07-10T22:52:22Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Superset-1.14.3-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.14.3/Superset-1.14.3-arm64.dmg"
+        },
+        {
+          "name": "superset-1.14.3-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.14.3/superset-1.14.3-x86_64.AppImage"
+        },
+        {
+          "name": "Superset-1.14.3.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.14.3/Superset-1.14.3.dmg"
+        },
+        {
+          "name": "Superset-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.14.3/Superset-arm64.dmg"
+        },
+        {
+          "name": "Superset-x64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.14.3/Superset-x64.dmg"
+        },
+        {
+          "name": "Superset-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.14.3/Superset-x86_64.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "listen1--listen1_desktop",
+      "name": "listen1_desktop",
+      "description": "one for all free music in china (Windows, Mac, Linux desktop)",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/listen1/listen1_desktop",
+      "release": "v2.33.0",
+      "updatedAt": "2025-06-17T13:48:54Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "listen1_2.33.0_linux_amd64.deb",
+          "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_amd64.deb"
+        },
+        {
+          "name": "listen1_2.33.0_linux_x64.tar.gz",
+          "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_x64.tar.gz"
+        },
+        {
+          "name": "listen1_2.33.0_linux_x86_64.AppImage",
+          "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_x86_64.AppImage"
+        },
+        {
+          "name": "listen1_2.33.0_mac_arm64.dmg",
+          "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_arm64.dmg"
+        },
+        {
+          "name": "listen1_2.33.0_mac_universal.dmg",
+          "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_universal.dmg"
+        },
+        {
+          "name": "listen1_2.33.0_mac_x64.dmg",
+          "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "hbai-ltd--toonflow-app",
+      "name": "Toonflow-app",
+      "description": "Toonflow \u662f\u5f00\u6e90\u4e00\u7ad9\u5f0f AI \u77ed\u5267\u521b\u4f5c\u5de5\u5177\uff0c\u5c06\u5c0f\u8bf4\u3001\u5267\u672c\u5feb\u901f\u8f6c\u5316\u4e3a\u52a8\u753b\u77ed\u5267\u3002\u96c6\u6210 AI \u7f16\u5267\u3001\u667a\u80fd\u5206\u955c\u3001\u89d2\u8272\u4e0e\u89c6\u9891\u751f\u6210\uff0c\u8de8\u5e73\u53f0\u684c\u9762\u7aef\u8f7b\u91cf\u90e8\u7f72\uff0c\u52a9\u529b\u521b\u4f5c\u8005\u4f4e\u6210\u672c\u6279\u91cf\u4ea7\u51fa\u89c6\u89c9\u5185\u5bb9\u3002Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "release": "v1.1.8",
+      "updatedAt": "2026-06-08T12:58:02Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ToonFlow-1.1.8-linux-arm64.AppImage",
+          "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v1.1.8/ToonFlow-1.1.8-linux-arm64.AppImage"
+        },
+        {
+          "name": "ToonFlow-1.1.8-linux-x86_64.AppImage",
+          "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v1.1.8/ToonFlow-1.1.8-linux-x86_64.AppImage"
+        },
+        {
+          "name": "ToonFlow-1.1.8-mac-arm64.dmg",
+          "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v1.1.8/ToonFlow-1.1.8-mac-arm64.dmg"
+        },
+        {
+          "name": "ToonFlow-1.1.8-mac-x64.dmg",
+          "url": "https://github.com/HBAI-Ltd/Toonflow-app/releases/download/v1.1.8/ToonFlow-1.1.8-mac-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "reactide--reactide",
+      "name": "reactide",
+      "description": "Reactide is the first dedicated IDE for React web application development.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/reactide/reactide",
+      "release": "v3.0-beta",
+      "updatedAt": "2019-08-13T13:19:19Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Reactide-3.0.0.dmg",
+          "url": "https://github.com/reactide/reactide/releases/download/v3.0-beta/Reactide-3.0.0.dmg"
+        },
+        {
+          "name": "Reactide.3.0.0.AppImage",
+          "url": "https://github.com/reactide/reactide/releases/download/v3.0-beta/Reactide.3.0.0.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "rubickcenter--rubick",
+      "name": "rubick",
+      "description": "\ud83d\udd27  Electron based open source toolbox, free integration of rich plug-ins. \u57fa\u4e8e electron \u7684\u5f00\u6e90\u5de5\u5177\u7bb1\uff0c\u81ea\u7531\u96c6\u6210\u4e30\u5bcc\u63d2\u4ef6\u3002",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/rubickCenter/rubick",
+      "release": "v4.3.8",
+      "updatedAt": "2026-01-14T03:25:16Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "rubick-4.3.8-arm64.dmg",
+          "url": "https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-arm64.dmg"
+        },
+        {
+          "name": "rubick-4.3.8-x64.dmg",
+          "url": "https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-x64.dmg"
+        },
+        {
+          "name": "rubick_4.3.8_amd64.deb",
+          "url": "https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick_4.3.8_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "dice2o--binggpt",
+      "name": "BingGPT",
+      "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/dice2o/BingGPT",
+      "release": "v0.3.7",
+      "updatedAt": "2023-07-02T04:57:45Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "BingGPT-0.3.7-darwin-arm64.dmg",
+          "url": "https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-darwin-arm64.dmg"
+        },
+        {
+          "name": "BingGPT-0.3.7-darwin-x64.dmg",
+          "url": "https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-darwin-x64.dmg"
+        },
+        {
+          "name": "BingGPT-0.3.7-linux-arm64.deb",
+          "url": "https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-arm64.deb"
+        },
+        {
+          "name": "BingGPT-0.3.7-linux-arm64.rpm",
+          "url": "https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-arm64.rpm"
+        },
+        {
+          "name": "BingGPT-0.3.7-linux-x64.deb",
+          "url": "https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-x64.deb"
+        },
+        {
+          "name": "BingGPT-0.3.7-linux-x64.rpm",
+          "url": "https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-x64.rpm"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "tonyantony300--alt-sendme",
+      "name": "alt-sendme",
+      "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/tonyantony300/alt-sendme",
+      "release": "v0.5.0",
+      "updatedAt": "2026-07-09T04:26:02Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "AltSendme-0.5.0-1.aarch64.rpm",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme-0.5.0-1.aarch64.rpm"
+        },
+        {
+          "name": "AltSendme-0.5.0-1.x86_64.rpm",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme-0.5.0-1.x86_64.rpm"
+        },
+        {
+          "name": "AltSendme_0.5.0_aarch64.AppImage",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_aarch64.AppImage"
+        },
+        {
+          "name": "AltSendme_0.5.0_aarch64.dmg",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_aarch64.dmg"
+        },
+        {
+          "name": "AltSendme_0.5.0_amd64.AppImage",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_amd64.AppImage"
+        },
+        {
+          "name": "AltSendme_0.5.0_amd64.deb",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_amd64.deb"
+        },
+        {
+          "name": "AltSendme_0.5.0_arm64.deb",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_arm64.deb"
+        },
+        {
+          "name": "AltSendme_0.5.0_universal.dmg",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_universal.dmg"
+        },
+        {
+          "name": "AltSendme_0.5.0_x64.dmg",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_x64.dmg"
+        },
+        {
+          "name": "AltSendme_aarch64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_aarch64.app.tar.gz"
+        },
+        {
+          "name": "AltSendme_universal.app.tar.gz",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_universal.app.tar.gz"
+        },
+        {
+          "name": "AltSendme_x64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "opencoworkai--open-codesign",
+      "name": "open-codesign",
+      "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt \u2192 prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/OpenCoworkAI/open-codesign",
+      "release": "v0.2.1",
+      "updatedAt": "2026-05-23T18:12:05Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "open-codesign-0.2.1-arm64.dmg",
+          "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.2.1/open-codesign-0.2.1-arm64.dmg"
+        },
+        {
+          "name": "open-codesign-0.2.1-x64.AppImage",
+          "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.2.1/open-codesign-0.2.1-x64.AppImage"
+        },
+        {
+          "name": "open-codesign-0.2.1-x64.deb",
+          "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.2.1/open-codesign-0.2.1-x64.deb"
+        },
+        {
+          "name": "open-codesign-0.2.1-x64.dmg",
+          "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.2.1/open-codesign-0.2.1-x64.dmg"
+        },
+        {
+          "name": "open-codesign-0.2.1-x64.rpm",
+          "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.2.1/open-codesign-0.2.1-x64.rpm"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "ecopastehub--ecopaste",
+      "name": "EcoPaste",
+      "description": "\ud83c\udf89\u8de8\u5e73\u53f0\u7684\u526a\u8d34\u677f\u7ba1\u7406\u5de5\u5177 | Cross-platform clipboard management tool",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/EcoPasteHub/EcoPaste",
+      "release": "v1.0.0",
+      "updatedAt": "2026-07-03T09:58:13Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "EcoPaste_1.0.0_aarch64.app.tar.gz",
+          "url": "https://github.com/EcoPasteHub/EcoPaste/releases/download/v1.0.0/EcoPaste_1.0.0_aarch64.app.tar.gz"
+        },
+        {
+          "name": "EcoPaste_1.0.0_aarch64.dmg",
+          "url": "https://github.com/EcoPasteHub/EcoPaste/releases/download/v1.0.0/EcoPaste_1.0.0_aarch64.dmg"
+        },
+        {
+          "name": "EcoPaste_1.0.0_x64.app.tar.gz",
+          "url": "https://github.com/EcoPasteHub/EcoPaste/releases/download/v1.0.0/EcoPaste_1.0.0_x64.app.tar.gz"
+        },
+        {
+          "name": "EcoPaste_1.0.0_x64.dmg",
+          "url": "https://github.com/EcoPasteHub/EcoPaste/releases/download/v1.0.0/EcoPaste_1.0.0_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "tonhowtf--omniget",
+      "name": "omniget",
+      "description": "Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media downloads via yt-dlp (1.800+ sites). Extensible plugin system.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/tonhowtf/omniget",
+      "release": "v0.7.2",
+      "updatedAt": "2026-07-10T04:46:32Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "omniget-0.7.2-1.aarch64.rpm",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget-0.7.2-1.aarch64.rpm"
+        },
+        {
+          "name": "omniget-0.7.2-1.x86_64.rpm",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget-0.7.2-1.x86_64.rpm"
+        },
+        {
+          "name": "omniget_0.7.2_aarch64.AppImage",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_0.7.2_aarch64.AppImage"
+        },
+        {
+          "name": "omniget_0.7.2_aarch64.dmg",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_0.7.2_aarch64.dmg"
+        },
+        {
+          "name": "omniget_0.7.2_amd64.AppImage",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_0.7.2_amd64.AppImage"
+        },
+        {
+          "name": "omniget_0.7.2_amd64.deb",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_0.7.2_amd64.deb"
+        },
+        {
+          "name": "omniget_0.7.2_arm64.deb",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_0.7.2_arm64.deb"
+        },
+        {
+          "name": "omniget_0.7.2_x64.dmg",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_0.7.2_x64.dmg"
+        },
+        {
+          "name": "omniget_aarch64.app.tar.gz",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_aarch64.app.tar.gz"
+        },
+        {
+          "name": "omniget_x64.app.tar.gz",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.2/omniget_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "reqable--reqable-app",
+      "name": "reqable-app",
+      "description": "Reqable issue track repo",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/reqable/reqable-app",
+      "release": "3.2.7",
+      "updatedAt": "2026-07-10T01:46:21Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "reqable-app-linux-x86_64.AppImage",
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-linux-x86_64.AppImage"
+        },
+        {
+          "name": "reqable-app-linux-x86_64.deb",
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-linux-x86_64.deb"
+        },
+        {
+          "name": "reqable-app-macos-arm64.dmg",
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-macos-arm64.dmg"
+        },
+        {
+          "name": "reqable-app-macos-x86_64.dmg",
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-macos-x86_64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "sylinko--everywhere",
+      "name": "Everywhere",
+      "description": "On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Sylinko/Everywhere",
+      "release": "v0.8.0",
+      "updatedAt": "2026-06-19T05:23:23Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Everywhere-macOS-arm64-v0.8.0.pkg",
+          "url": "https://github.com/Sylinko/Everywhere/releases/download/v0.8.0/Everywhere-macOS-arm64-v0.8.0.pkg"
+        },
+        {
+          "name": "Everywhere-macOS-x64-v0.8.0.pkg",
+          "url": "https://github.com/Sylinko/Everywhere/releases/download/v0.8.0/Everywhere-macOS-x64-v0.8.0.pkg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "beyonddimension--steamtools",
+      "name": "SteamTools",
+      "description": "\ud83d\udee0\u300cWatt Toolkit\u300d\u662f\u4e00\u4e2a\u5f00\u6e90\u8de8\u5e73\u53f0\u7684\u591a\u529f\u80fd Steam \u5de5\u5177\u7bb1\u3002",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/BeyondDimension/SteamTools",
+      "release": "3.1.0",
+      "updatedAt": "2026-03-11T18:03:11Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Steam++_v3.1.0_macos.dmg",
+          "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "beekeeper-studio--beekeeper-studio",
+      "name": "beekeeper-studio",
+      "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/beekeeper-studio/beekeeper-studio",
+      "release": "v5.9.2",
+      "updatedAt": "2026-07-10T20:47:06Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Beekeeper-Studio-5.9.2-arm64.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2-arm64.AppImage"
+        },
+        {
+          "name": "Beekeeper-Studio-5.9.2-arm64.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2-arm64.dmg"
+        },
+        {
+          "name": "beekeeper-studio-5.9.2.aarch64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio-5.9.2.aarch64.rpm"
+        },
+        {
+          "name": "Beekeeper-Studio-5.9.2.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2.AppImage"
+        },
+        {
+          "name": "Beekeeper-Studio-5.9.2.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2.dmg"
+        },
+        {
+          "name": "beekeeper-studio-5.9.2.x86_64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio-5.9.2.x86_64.rpm"
+        },
+        {
+          "name": "beekeeper-studio_5.9.2_amd64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio_5.9.2_amd64.deb"
+        },
+        {
+          "name": "beekeeper-studio_5.9.2_arm64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio_5.9.2_arm64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "yorukot--superfile",
+      "name": "superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/yorukot/superfile",
+      "release": "v1.6.0",
+      "updatedAt": "2026-06-07T17:54:13Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "superfile-darwin-v1.6.0-amd64.tar.gz",
+          "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-amd64.tar.gz"
+        },
+        {
+          "name": "superfile-darwin-v1.6.0-arm64.tar.gz",
+          "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-arm64.tar.gz"
+        },
+        {
+          "name": "superfile-linux-v1.6.0-amd64.tar.gz",
+          "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-amd64.tar.gz"
+        },
+        {
+          "name": "superfile-linux-v1.6.0-arm64.tar.gz",
+          "url": "https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-arm64.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "moonlight-stream--moonlight-qt",
+      "name": "moonlight-qt",
+      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/moonlight-stream/moonlight-qt",
+      "release": "v6.1.0",
+      "updatedAt": "2024-09-17T03:56:03Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Moonlight-6.1.0-x86_64.AppImage",
+          "url": "https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage"
+        },
+        {
+          "name": "Moonlight-6.1.0.dmg",
+          "url": "https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0.dmg"
+        },
+        {
+          "name": "MoonlightSrc-6.1.0.tar.gz",
+          "url": "https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/MoonlightSrc-6.1.0.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "electerm--electerm",
+      "name": "electerm",
+      "description": "\ud83d\udcfbTerminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/electerm/electerm",
+      "release": "v3.15.120",
+      "updatedAt": "2026-07-11T08:45:47Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "electerm-3.15.120-linux-aarch64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-aarch64-legacy.rpm"
+        },
+        {
+          "name": "electerm-3.15.120-linux-aarch64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-aarch64.rpm"
+        },
+        {
+          "name": "electerm-3.15.120-linux-amd64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-amd64-legacy.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-amd64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-amd64.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-arm64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-arm64-legacy.AppImage"
+        },
+        {
+          "name": "electerm-3.15.120-linux-arm64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-arm64-legacy.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-arm64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-arm64-legacy.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-arm64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-arm64.AppImage"
+        },
+        {
+          "name": "electerm-3.15.120-linux-arm64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-arm64.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-arm64.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l-legacy.AppImage"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l-legacy.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l-legacy.rpm"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l-legacy.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l.AppImage"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l.rpm"
+        },
+        {
+          "name": "electerm-3.15.120-linux-armv7l.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-armv7l.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-loong64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-loong64-legacy.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-loong64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-loong64-legacy.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-loong64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-loong64.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-loong64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-loong64.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-loongarch64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-loongarch64-legacy.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-loongarch64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-loongarch64.deb"
+        },
+        {
+          "name": "electerm-3.15.120-linux-x64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-x64-legacy.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-x64.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-linux-x86_64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-x86_64-legacy.AppImage"
+        },
+        {
+          "name": "electerm-3.15.120-linux-x86_64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-x86_64-legacy.rpm"
+        },
+        {
+          "name": "electerm-3.15.120-linux-x86_64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-x86_64.AppImage"
+        },
+        {
+          "name": "electerm-3.15.120-linux-x86_64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-linux-x86_64.rpm"
+        },
+        {
+          "name": "electerm-3.15.120-mac-arm64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-mac-arm64.dmg"
+        },
+        {
+          "name": "electerm-3.15.120-mac-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-mac-x64.dmg"
+        },
+        {
+          "name": "electerm-3.15.120-mac10-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-mac10-x64.dmg"
+        },
+        {
+          "name": "electerm-3.15.120-win-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-win-arm64.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-win-x64-loose.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-win-x64-loose.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-win-x64-portable.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-win-x64-portable.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-win-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-win-x64.tar.gz"
+        },
+        {
+          "name": "electerm-3.15.120-win7.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.120/electerm-3.15.120-win7.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "aandrew-me--ytdownloader",
+      "name": "ytDownloader",
+      "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/aandrew-me/ytDownloader",
+      "release": "v3.20.3",
+      "updatedAt": "2026-06-11T12:01:14Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "YTDownloader_Linux.AppImage",
+          "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.3/YTDownloader_Linux.AppImage"
+        },
+        {
+          "name": "YTDownloader_Linux.deb",
+          "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.3/YTDownloader_Linux.deb"
+        },
+        {
+          "name": "YTDownloader_Linux.rpm",
+          "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.3/YTDownloader_Linux.rpm"
+        },
+        {
+          "name": "YTDownloader_Mac_arm64.dmg",
+          "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.3/YTDownloader_Mac_arm64.dmg"
+        },
+        {
+          "name": "YTDownloader_Mac_x64.dmg",
+          "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.3/YTDownloader_Mac_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "appimage--appimagekit",
+      "name": "AppImageKit",
+      "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/AppImage/AppImageKit",
+      "release": "13",
+      "updatedAt": "2020-12-31T12:13:29Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "obsolete-appimagetool-aarch64.AppImage",
+          "url": "https://github.com/AppImage/AppImageKit/releases/download/13/obsolete-appimagetool-aarch64.AppImage"
+        },
+        {
+          "name": "obsolete-appimagetool-armhf.AppImage",
+          "url": "https://github.com/AppImage/AppImageKit/releases/download/13/obsolete-appimagetool-armhf.AppImage"
+        },
+        {
+          "name": "obsolete-appimagetool-i686.AppImage",
+          "url": "https://github.com/AppImage/AppImageKit/releases/download/13/obsolete-appimagetool-i686.AppImage"
+        },
+        {
+          "name": "obsolete-appimagetool-x86_64.AppImage",
+          "url": "https://github.com/AppImage/AppImageKit/releases/download/13/obsolete-appimagetool-x86_64.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "meowtec--imagine",
+      "name": "Imagine",
+      "description": "\ud83d\uddbc\ufe0f PNG/JPEG optimization app for macOS, Windows and Linux.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/meowtec/Imagine",
+      "release": "v0.7.5",
+      "updatedAt": "2023-08-07T09:53:26Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Imagine-0.7.5-arm64.dmg",
+          "url": "https://github.com/meowtec/Imagine/releases/download/v0.7.5/Imagine-0.7.5-arm64.dmg"
+        },
+        {
+          "name": "Imagine-0.7.5.AppImage",
+          "url": "https://github.com/meowtec/Imagine/releases/download/v0.7.5/Imagine-0.7.5.AppImage"
+        },
+        {
+          "name": "Imagine-0.7.5.dmg",
+          "url": "https://github.com/meowtec/Imagine/releases/download/v0.7.5/Imagine-0.7.5.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "taiko2k--tauon",
+      "name": "Tauon",
+      "description": "The music player of today! :city_sunrise:",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Taiko2k/Tauon",
+      "release": "v10.0.1",
+      "updatedAt": "2026-05-29T03:41:06Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Tauon-signed.dmg",
+          "url": "https://github.com/Taiko2k/Tauon/releases/download/v10.0.1/Tauon-signed.dmg"
+        },
+        {
+          "name": "Tauon.dmg",
+          "url": "https://github.com/Taiko2k/Tauon/releases/download/v10.0.1/Tauon.dmg"
+        }
+      ],
+      "accent": "#6e7681"
     }
   ]
 }

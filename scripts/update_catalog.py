@@ -55,17 +55,77 @@ def repository_from_url(url: str) -> str:
     return match.group(1)
 
 
-def fetch_latest_release(repository: str) -> dict:
+def fetch_json(url: str) -> dict:
     headers = {"Accept": "application/vnd.github+json", "User-Agent": "ReleaseShelf-catalog-indexer"}
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    request = Request(f"https://api.github.com/repos/{repository}/releases/latest", headers=headers)
+    request = Request(url, headers=headers)
     with urlopen(request, timeout=30) as response:
         return json.load(response)
 
 
-def refresh_catalog(catalog: dict) -> tuple[dict, list[str]]:
+def fetch_latest_release(repository: str) -> dict:
+    return fetch_json(f"https://api.github.com/repos/{repository}/releases/latest")
+
+
+def search_repositories(limit: int) -> list[dict]:
+    """Return a bounded candidate pool; release checks decide actual inclusion."""
+    queries = (
+        "topic:desktop-app archived:false",
+        "topic:linux-app archived:false",
+        "appimage in:readme archived:false",
+        "desktop application in:description archived:false",
+    )
+    repositories: list[dict] = []
+    seen: set[str] = set()
+    for query in queries:
+        encoded_query = query.replace(" ", "+").replace(":", "%3A")
+        result = fetch_json(
+            f"https://api.github.com/search/repositories?q={encoded_query}&sort=stars&order=desc&per_page=25"
+        )
+        for repository in result.get("items", []):
+            name = repository.get("full_name")
+            if isinstance(name, str) and name not in seen:
+                seen.add(name)
+                repositories.append(repository)
+                if len(repositories) >= limit:
+                    return repositories
+    return repositories
+
+
+def discover_apps(repositories: list[dict], release_fetcher, existing_repositories: set[str]) -> list[dict]:
+    """Create unreviewed marketplace records only when a release ships a desktop package."""
+    discovered: list[dict] = []
+    for repository in repositories:
+        full_name = repository.get("full_name")
+        if not isinstance(full_name, str) or full_name in existing_repositories:
+            continue
+        try:
+            release = release_fetcher(full_name)
+        except (HTTPError, URLError, TimeoutError, ValueError):
+            continue
+        if not release:
+            continue
+        assets = select_release_assets(release.get("assets", []))
+        if not assets:
+            continue
+        discovered.append({
+            "slug": full_name.lower().replace("/", "--"),
+            "name": repository.get("name") or full_name,
+            "description": repository.get("description") or "GitHub project discovered from a desktop release.",
+            "category": "Uncategorized",
+            "repositoryUrl": repository.get("html_url") or f"https://github.com/{full_name}",
+            "release": release["tag_name"],
+            "updatedAt": release["published_at"],
+            "verification": "discovered",
+            "assets": assets,
+            "accent": "#6e7681",
+        })
+    return discovered
+
+
+def refresh_catalog(catalog: dict, discover: bool = False, discovery_limit: int = 40) -> tuple[dict, list[str]]:
     refreshed = copy.deepcopy(catalog)
     changed: list[str] = []
     apps: list[dict] = []
@@ -86,6 +146,17 @@ def refresh_catalog(catalog: dict) -> tuple[dict, list[str]]:
             print(f"SKIP {app['slug']}: {error}", file=sys.stderr)
             apps.append(app)
 
+    if discover:
+        try:
+            existing_repositories = {repository_from_url(app["repositoryUrl"]) for app in apps}
+            candidates = search_repositories(discovery_limit)
+            additions = discover_apps(candidates, fetch_latest_release, existing_repositories)
+            apps.extend(additions)
+            changed.extend(app["slug"] for app in additions)
+            print(f"DISCOVERED {len(additions)} app(s) from {len(candidates)} GitHub candidates", file=sys.stderr)
+        except (HTTPError, URLError, TimeoutError, ValueError) as error:
+            print(f"DISCOVERY SKIP: {error}", file=sys.stderr)
+
     refreshed["apps"] = apps
     refreshed["generatedAt"] = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     return refreshed, changed
@@ -100,13 +171,15 @@ def write_json(path: Path, content: dict) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Refresh a reviewed ReleaseShelf GitHub-release catalog.")
+    parser = argparse.ArgumentParser(description="Refresh and discover ReleaseShelf GitHub-release catalog entries.")
     parser.add_argument("--catalog", type=Path, default=Path("public/catalog.json"))
+    parser.add_argument("--discover", action="store_true", help="Append unreviewed repositories that publish desktop release assets")
+    parser.add_argument("--discovery-limit", type=int, default=40, help="Maximum GitHub search candidates to inspect")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and report changes without writing the catalog")
     args = parser.parse_args()
 
     catalog = json.loads(args.catalog.read_text(encoding="utf-8"))
-    refreshed, changed = refresh_catalog(catalog)
+    refreshed, changed = refresh_catalog(catalog, discover=args.discover, discovery_limit=args.discovery_limit)
     if args.dry_run:
         print(f"Dry run: {len(changed)} app(s) would update: {', '.join(changed) or 'none'}")
         return 0

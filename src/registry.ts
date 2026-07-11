@@ -187,15 +187,14 @@ export function getDownloadAsset(
 }
 
 export function getMarketplaceApps(
-  target: PlatformTarget,
+  _target: PlatformTarget,
   query = "",
   apps: MarketplaceApp[] = marketplaceRegistry,
 ): MarketplaceApp[] {
   const needle = query.trim().toLocaleLowerCase();
 
   return apps.filter((app) => {
-    const isCompatible = getDownloadAsset(app, target) !== null;
     const haystack = `${app.name} ${app.description} ${app.category}`.toLocaleLowerCase();
-    return isCompatible && (!needle || haystack.includes(needle));
+    return !needle || haystack.includes(needle);
   });
 }

@@ -1,6 +1,6 @@
 import unittest
 
-from scripts.update_catalog import apply_release, select_release_assets
+from scripts.update_catalog import apply_release, discover_apps, select_release_assets
 
 
 class CatalogIndexerTests(unittest.TestCase):
@@ -40,6 +40,36 @@ class CatalogIndexerTests(unittest.TestCase):
         self.assertEqual(updated["assets"], [{"name": "example.dmg", "url": "https://example/dmg"}])
         self.assertEqual(updated["category"], "Utilities")
         self.assertEqual(updated["verification"], "verified")
+    def test_discover_apps_adds_unreviewed_repositories_with_desktop_release_assets(self):
+        repositories = [
+            {
+                "full_name": "owner/desktop-app",
+                "name": "Desktop App",
+                "description": "A useful desktop application",
+                "html_url": "https://github.com/owner/desktop-app",
+            },
+            {
+                "full_name": "owner/library",
+                "name": "Library",
+                "description": "No binary release",
+                "html_url": "https://github.com/owner/library",
+            },
+        ]
+        releases = {
+            "owner/desktop-app": {
+                "tag_name": "v2.0.0",
+                "published_at": "2026-07-11T15:00:00Z",
+                "assets": [{"name": "desktop-app.AppImage", "browser_download_url": "https://example/appimage"}],
+            },
+            "owner/library": {"tag_name": "v1.0.0", "published_at": "2026-07-11T15:00:00Z", "assets": []},
+        }
+
+        discovered = discover_apps(repositories, releases.get, {"owner/existing"})
+
+        self.assertEqual([app["slug"] for app in discovered], ["owner--desktop-app"])
+        self.assertEqual(discovered[0]["verification"], "discovered")
+        self.assertEqual(discovered[0]["category"], "Uncategorized")
+        self.assertEqual(discovered[0]["assets"][0]["url"], "https://example/appimage")
 
 
 if __name__ == "__main__":

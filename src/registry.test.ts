@@ -2,11 +2,11 @@ import { describe, expect, it } from "vitest";
 import { getDownloadAsset, getMarketplaceApps, marketplaceRegistry } from "./registry";
 
 describe("getMarketplaceApps", () => {
-  it("returns only applications compatible with the selected platform", () => {
+  it("shows every catalog application regardless of the selected platform", () => {
     const results = getMarketplaceApps({ os: "linux", arch: "x64" });
 
     expect(results.map((app) => app.slug)).toContain("appflowy");
-    expect(results.map((app) => app.slug)).not.toContain("alacritty");
+    expect(results.map((app) => app.slug)).toContain("alacritty");
   });
 
   it("returns the direct GitHub release download URL for the preferred asset", () => {

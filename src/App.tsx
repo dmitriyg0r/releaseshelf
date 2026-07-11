@@ -93,7 +93,7 @@ function App() {
           >
             {targetOptions.map((option) => <option key={option.value} value={option.value}>{option.label}</option>)}
           </select>
-          <p className="sidebar-copy">Only compatible release assets are shown for your selected platform.</p>
+          <p className="sidebar-copy">All catalog applications are shown. Your platform selects the preferred download when one is available.</p>
         </aside>
 
         <main className="content" id="marketplace">
