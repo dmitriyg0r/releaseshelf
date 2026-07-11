@@ -82,7 +82,7 @@ def search_repositories(limit: int) -> list[dict]:
     for query in queries:
         encoded_query = query.replace(" ", "+").replace(":", "%3A")
         result = fetch_json(
-            f"https://api.github.com/search/repositories?q={encoded_query}&sort=stars&order=desc&per_page=25"
+            f"https://api.github.com/search/repositories?q={encoded_query}&sort=stars&order=desc&per_page=100"
         )
         for repository in result.get("items", []):
             name = repository.get("full_name")
@@ -125,7 +125,7 @@ def discover_apps(repositories: list[dict], release_fetcher, existing_repositori
     return discovered
 
 
-def refresh_catalog(catalog: dict, discover: bool = False, discovery_limit: int = 40) -> tuple[dict, list[str]]:
+def refresh_catalog(catalog: dict, discover: bool = False, discovery_limit: int = 100) -> tuple[dict, list[str]]:
     refreshed = copy.deepcopy(catalog)
     changed: list[str] = []
     apps: list[dict] = []
@@ -174,7 +174,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Refresh and discover ReleaseShelf GitHub-release catalog entries.")
     parser.add_argument("--catalog", type=Path, default=Path("public/catalog.json"))
     parser.add_argument("--discover", action="store_true", help="Append unreviewed repositories that publish desktop release assets")
-    parser.add_argument("--discovery-limit", type=int, default=40, help="Maximum GitHub search candidates to inspect")
+    parser.add_argument("--discovery-limit", type=int, default=100, help="Maximum GitHub search candidates to inspect")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and report changes without writing the catalog")
     args = parser.parse_args()
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-11T13:18:25Z",
+  "generatedAt": "2026-07-11T13:22:50Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -1595,6 +1595,1530 @@
         {
           "name": "Tauon.dmg",
           "url": "https://github.com/Taiko2k/Tauon/releases/download/v10.0.1/Tauon.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "op7418--codepilot",
+      "name": "CodePilot",
+      "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/op7418/CodePilot",
+      "release": "v0.58.0",
+      "updatedAt": "2026-07-07T18:06:15Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "CodePilot-0.58.0-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.0/CodePilot-0.58.0-arm64.dmg"
+        },
+        {
+          "name": "CodePilot-0.58.0-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.0/CodePilot-0.58.0-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "netease-youdao--lobsterai",
+      "name": "LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done \u2014 data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/netease-youdao/LobsterAI",
+      "release": "2026.7.10",
+      "updatedAt": "2026-07-11T01:07:01Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "LobsterAI--mac-arm64.dmg",
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.10/LobsterAI--mac-arm64.dmg"
+        },
+        {
+          "name": "LobsterAI--mac-x64.dmg",
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.10/LobsterAI--mac-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "soundnode--soundnode-app",
+      "name": "soundnode-app",
+      "description": "Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Soundnode/soundnode-app",
+      "release": "7.0.0",
+      "updatedAt": "2018-01-05T11:26:59Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Soundnode-darwin-x64.tar.xz",
+          "url": "https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-darwin-x64.tar.xz"
+        },
+        {
+          "name": "Soundnode-linux-x64.tar.xz",
+          "url": "https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-linux-x64.tar.xz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "lightningpixel--modly",
+      "name": "modly",
+      "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/lightningpixel/modly",
+      "release": "v0.4.0",
+      "updatedAt": "2026-06-21T17:33:31Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Modly-0.4.0.AppImage",
+          "url": "https://github.com/lightningpixel/modly/releases/download/v0.4.0/Modly-0.4.0.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "irbis-sh--zen-desktop",
+      "name": "zen-desktop",
+      "description": "Ad-blocker and privacy guard for Windows, macOS and Linux.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/irbis-sh/zen-desktop",
+      "release": "v0.24.0",
+      "updatedAt": "2026-06-27T22:28:49Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Zen-amd64.dmg",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen-amd64.dmg"
+        },
+        {
+          "name": "Zen-arm64.dmg",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen-arm64.dmg"
+        },
+        {
+          "name": "Zen_darwin_amd64.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_darwin_amd64.tar.gz"
+        },
+        {
+          "name": "Zen_darwin_amd64_noselfupdate.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_darwin_amd64_noselfupdate.tar.gz"
+        },
+        {
+          "name": "Zen_darwin_arm64.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_darwin_arm64.tar.gz"
+        },
+        {
+          "name": "Zen_darwin_arm64_noselfupdate.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_darwin_arm64_noselfupdate.tar.gz"
+        },
+        {
+          "name": "Zen_linux_amd64.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_linux_amd64.tar.gz"
+        },
+        {
+          "name": "Zen_linux_amd64_noselfupdate.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_linux_amd64_noselfupdate.tar.gz"
+        },
+        {
+          "name": "Zen_linux_arm64.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_linux_arm64.tar.gz"
+        },
+        {
+          "name": "Zen_linux_arm64_noselfupdate.tar.gz",
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.0/Zen_linux_arm64_noselfupdate.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "golutra--golutra",
+      "name": "golutra",
+      "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/golutra/golutra",
+      "release": "v0.3.0",
+      "updatedAt": "2026-06-29T02:29:55Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "golutra_darwin_aarch64.app.tar.gz",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_darwin_aarch64.app.tar.gz"
+        },
+        {
+          "name": "golutra_darwin_aarch64.dmg",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_darwin_aarch64.dmg"
+        },
+        {
+          "name": "golutra_darwin_x86_64.app.tar.gz",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_darwin_x86_64.app.tar.gz"
+        },
+        {
+          "name": "golutra_darwin_x86_64.dmg",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_darwin_x86_64.dmg"
+        },
+        {
+          "name": "golutra_linux_aarch64.AppImage",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_linux_aarch64.AppImage"
+        },
+        {
+          "name": "golutra_linux_aarch64.deb",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_linux_aarch64.deb"
+        },
+        {
+          "name": "golutra_linux_aarch64.rpm",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_linux_aarch64.rpm"
+        },
+        {
+          "name": "golutra_linux_x86_64.AppImage",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_linux_x86_64.AppImage"
+        },
+        {
+          "name": "golutra_linux_x86_64.deb",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_linux_x86_64.deb"
+        },
+        {
+          "name": "golutra_linux_x86_64.rpm",
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.0/golutra_linux_x86_64.rpm"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "matt1398--claude-devtools",
+      "name": "claude-devtools",
+      "description": "The missing DevTools for Claude Code \u2014 inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/matt1398/claude-devtools",
+      "release": "v0.5.0",
+      "updatedAt": "2026-05-13T09:10:52Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "claude-devtools-0.5.0-amd64.deb",
+          "url": "https://github.com/matt1398/claude-devtools/releases/download/v0.5.0/claude-devtools-0.5.0-amd64.deb"
+        },
+        {
+          "name": "claude-devtools-0.5.0-arm64.dmg",
+          "url": "https://github.com/matt1398/claude-devtools/releases/download/v0.5.0/claude-devtools-0.5.0-arm64.dmg"
+        },
+        {
+          "name": "claude-devtools-0.5.0-x64.dmg",
+          "url": "https://github.com/matt1398/claude-devtools/releases/download/v0.5.0/claude-devtools-0.5.0-x64.dmg"
+        },
+        {
+          "name": "claude-devtools-0.5.0-x86_64.AppImage",
+          "url": "https://github.com/matt1398/claude-devtools/releases/download/v0.5.0/claude-devtools-0.5.0-x86_64.AppImage"
+        },
+        {
+          "name": "claude-devtools-0.5.0-x86_64.rpm",
+          "url": "https://github.com/matt1398/claude-devtools/releases/download/v0.5.0/claude-devtools-0.5.0-x86_64.rpm"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "melvin-abraham--google-assistant-unofficial-desktop-client",
+      "name": "Google-Assistant-Unofficial-Desktop-Client",
+      "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+      "release": "v1.1.0",
+      "updatedAt": "2022-10-29T16:17:28Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Google-Assistant-1.1.0.dmg",
+          "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-1.1.0.dmg"
+        },
+        {
+          "name": "Google-Assistant-Setup-1.1.0-amd64.deb",
+          "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-amd64.deb"
+        },
+        {
+          "name": "Google-Assistant-Setup-1.1.0-x86_64.AppImage",
+          "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-x86_64.AppImage"
+        },
+        {
+          "name": "Google-Assistant-Setup-1.1.0-x86_64.rpm",
+          "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-x86_64.rpm"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "therealaleph--masterhttprelayvpn-rust",
+      "name": "MasterHttpRelayVPN-RUST",
+      "description": "Rust port of @masterking32's MasterHttpRelayVPN \u2014 all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+      "release": "v1.9.36",
+      "updatedAt": "2026-05-28T15:46:16Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "mhrv-rs-linux-amd64.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-linux-amd64.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-linux-arm64.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-linux-arm64.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-linux-musl-amd64.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-linux-musl-amd64.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-linux-musl-arm64.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-linux-musl-arm64.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-macos-amd64.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-macos-amd64.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-macos-arm64.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-macos-arm64.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-openwrt-mipsel-softfloat.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-openwrt-mipsel-softfloat.tar.gz"
+        },
+        {
+          "name": "mhrv-rs-raspbian-armhf.tar.gz",
+          "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-raspbian-armhf.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "ruben2776--picview",
+      "name": "PicView",
+      "description": "Fast, free and customizable picture viewer",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Ruben2776/PicView",
+      "release": "4.2.0",
+      "updatedAt": "2026-03-29T13:24:16Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "PicView-4.2.0-macOS-arm64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/4.2.0/PicView-4.2.0-macOS-arm64.dmg"
+        },
+        {
+          "name": "PicView-4.2.0-macOS-x64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/4.2.0/PicView-4.2.0-macOS-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "udarajay--pile",
+      "name": "Pile",
+      "description": "Desktop app for digital journaling. ",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/UdaraJay/Pile",
+      "release": "v0.9.9",
+      "updatedAt": "2024-07-26T16:44:59Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Pile-0.9.9-arm64.dmg",
+          "url": "https://github.com/UdaraJay/Pile/releases/download/v0.9.9/Pile-0.9.9-arm64.dmg"
+        },
+        {
+          "name": "Pile-0.9.9.dmg",
+          "url": "https://github.com/UdaraJay/Pile/releases/download/v0.9.9/Pile-0.9.9.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "qingchencloud--clawpanel",
+      "name": "clawpanel",
+      "description": "\ud83e\udd9e OpenClaw & Hermes Agent \u591a\u5f15\u64ce AI \u7ba1\u7406\u9762\u677f \u2014 \u5185\u7f6e AI \u52a9\u624b\uff08\u5de5\u5177\u8c03\u7528 + \u56fe\u7247\u8bc6\u522b + \u591a\u6a21\u6001\uff09\uff0c\u4e00\u952e\u5b89\u88c5 | Tauri v2 \u8de8\u5e73\u53f0\u684c\u9762\u5e94\u7528 | 11 \u79cd\u8bed\u8a00",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/qingchencloud/clawpanel",
+      "release": "v0.18.5",
+      "updatedAt": "2026-06-15T08:28:51Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ClawPanel-0.18.5-1.x86_64.rpm",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel-0.18.5-1.x86_64.rpm"
+        },
+        {
+          "name": "ClawPanel_0.18.5_aarch64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_aarch64.dmg"
+        },
+        {
+          "name": "ClawPanel_0.18.5_amd64.AppImage",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_amd64.AppImage"
+        },
+        {
+          "name": "ClawPanel_0.18.5_amd64.deb",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_amd64.deb"
+        },
+        {
+          "name": "ClawPanel_0.18.5_x64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_x64.dmg"
+        },
+        {
+          "name": "ClawPanel_aarch64.app.tar.gz",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_aarch64.app.tar.gz"
+        },
+        {
+          "name": "ClawPanel_x64.app.tar.gz",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "antares-sql--antares",
+      "name": "antares",
+      "description": "A modern, fast and productivity driven SQL client with a focus in UX",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/antares-sql/antares",
+      "release": "v0.7.35",
+      "updatedAt": "2025-06-20T07:32:20Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Antares-0.7.35-linux_amd64.deb",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_amd64.deb"
+        },
+        {
+          "name": "Antares-0.7.35-linux_arm64.AppImage",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_arm64.AppImage"
+        },
+        {
+          "name": "Antares-0.7.35-linux_arm64.deb",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_arm64.deb"
+        },
+        {
+          "name": "Antares-0.7.35-linux_armv7l.AppImage",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_armv7l.AppImage"
+        },
+        {
+          "name": "Antares-0.7.35-linux_armv7l.deb",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_armv7l.deb"
+        },
+        {
+          "name": "Antares-0.7.35-linux_x86_64.AppImage",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_x86_64.AppImage"
+        },
+        {
+          "name": "Antares-0.7.35-mac_x64.dmg",
+          "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-mac_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "sztheory--exifcleaner",
+      "name": "exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/szTheory/exifcleaner",
+      "release": "v3.6.0",
+      "updatedAt": "2021-05-04T12:16:59Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ExifCleaner-3.6.0.AppImage",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.AppImage"
+        },
+        {
+          "name": "ExifCleaner-3.6.0.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.dmg"
+        },
+        {
+          "name": "exifcleaner-3.6.0.x86_64.rpm",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner-3.6.0.x86_64.rpm"
+        },
+        {
+          "name": "exifcleaner_3.6.0_amd64.deb",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner_3.6.0_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "jimuzhe--tiez-clipboard",
+      "name": "tiez-clipboard",
+      "description": "TieZ \u662f\u4e00\u6b3e\u57fa\u4e8e Tauri \u7684\u8de8\u5e73\u53f0\u526a\u8d34\u677f\u7ba1\u7406\u5668 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/jimuzhe/tiez-clipboard",
+      "release": "mac-v0.1.3",
+      "updatedAt": "2026-04-11T11:52:55Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "TieZ_0.1.3_aarch64.dmg",
+          "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/mac-v0.1.3/TieZ_0.1.3_aarch64.dmg"
+        },
+        {
+          "name": "TieZ_0.1.3_x64.dmg",
+          "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/mac-v0.1.3/TieZ_0.1.3_x64.dmg"
+        },
+        {
+          "name": "TieZ_aarch64.app.tar.gz",
+          "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/mac-v0.1.3/TieZ_aarch64.app.tar.gz"
+        },
+        {
+          "name": "TieZ_x64.app.tar.gz",
+          "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/mac-v0.1.3/TieZ_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "iamsrikanthnani--pluely",
+      "name": "pluely",
+      "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/iamsrikanthnani/pluely",
+      "release": "app-v0.1.9",
+      "updatedAt": "2026-01-14T01:11:34Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Pluely-0.1.9-1.x86_64.rpm",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely-0.1.9-1.x86_64.rpm"
+        },
+        {
+          "name": "Pluely_0.1.9_aarch64.dmg",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely_0.1.9_aarch64.dmg"
+        },
+        {
+          "name": "Pluely_0.1.9_amd64.AppImage",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely_0.1.9_amd64.AppImage"
+        },
+        {
+          "name": "Pluely_0.1.9_amd64.deb",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely_0.1.9_amd64.deb"
+        },
+        {
+          "name": "Pluely_0.1.9_x64.dmg",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely_0.1.9_x64.dmg"
+        },
+        {
+          "name": "Pluely_aarch64.app.tar.gz",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely_aarch64.app.tar.gz"
+        },
+        {
+          "name": "Pluely_x64.app.tar.gz",
+          "url": "https://github.com/iamsrikanthnani/pluely/releases/download/app-v0.1.9/Pluely_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "lukehaas--runjs",
+      "name": "RunJS",
+      "description": "RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/lukehaas/RunJS",
+      "release": "v4.1.0",
+      "updatedAt": "2026-07-07T13:46:12Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "RunJS-4.1.0-arm64.AppImage",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0-arm64.AppImage"
+        },
+        {
+          "name": "runjs-4.1.0-arm64.tar.gz",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/runjs-4.1.0-arm64.tar.gz"
+        },
+        {
+          "name": "RunJS-4.1.0-universal.dmg",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0-universal.dmg"
+        },
+        {
+          "name": "RunJS-4.1.0.AppImage",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0.AppImage"
+        },
+        {
+          "name": "runjs-4.1.0.tar.gz",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/runjs-4.1.0.tar.gz"
+        },
+        {
+          "name": "runjs_4.1.0_amd64.deb",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/runjs_4.1.0_amd64.deb"
+        },
+        {
+          "name": "runjs_4.1.0_arm64.deb",
+          "url": "https://github.com/lukehaas/RunJS/releases/download/v4.1.0/runjs_4.1.0_arm64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "agmmnn--tauri-ui",
+      "name": "tauri-ui",
+      "description": "\ud83e\udd80 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/agmmnn/tauri-ui",
+      "release": "create-tauri-ui@1.1.0",
+      "updatedAt": "2026-04-20T13:16:21Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "tauri-ui-smoke-v1.1.0-linux-x64.AppImage",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-linux-x64.AppImage"
+        },
+        {
+          "name": "tauri-ui-smoke-v1.1.0-linux-x64.deb",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-linux-x64.deb"
+        },
+        {
+          "name": "tauri-ui-smoke-v1.1.0-linux-x64.rpm",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-linux-x64.rpm"
+        },
+        {
+          "name": "tauri-ui-smoke-v1.1.0-macos-apple-silicon.app.tar.gz",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-apple-silicon.app.tar.gz"
+        },
+        {
+          "name": "tauri-ui-smoke-v1.1.0-macos-apple-silicon.dmg",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-apple-silicon.dmg"
+        },
+        {
+          "name": "tauri-ui-smoke-v1.1.0-macos-intel.app.tar.gz",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-intel.app.tar.gz"
+        },
+        {
+          "name": "tauri-ui-smoke-v1.1.0-macos-intel.dmg",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-intel.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "iamzhihuix--skills-manage",
+      "name": "skills-manage",
+      "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/iamzhihuix/skills-manage",
+      "release": "v0.10.0",
+      "updatedAt": "2026-04-30T08:22:49Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "skills-manage-v0.10.0-Linux-arm64.AppImage",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage-v0.10.0-Linux-arm64.AppImage"
+        },
+        {
+          "name": "skills-manage-v0.10.0-Linux-arm64.deb",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage-v0.10.0-Linux-arm64.deb"
+        },
+        {
+          "name": "skills-manage-v0.10.0-Linux-arm64.rpm",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage-v0.10.0-Linux-arm64.rpm"
+        },
+        {
+          "name": "skills-manage-v0.10.0-Linux-x86_64.AppImage",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage-v0.10.0-Linux-x86_64.AppImage"
+        },
+        {
+          "name": "skills-manage-v0.10.0-Linux-x86_64.deb",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage-v0.10.0-Linux-x86_64.deb"
+        },
+        {
+          "name": "skills-manage-v0.10.0-Linux-x86_64.rpm",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage-v0.10.0-Linux-x86_64.rpm"
+        },
+        {
+          "name": "skills-manage_0.10.0_macos_universal.dmg",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage_0.10.0_macos_universal.dmg"
+        },
+        {
+          "name": "skills-manage_0.10.0_macos_universal.tar.gz",
+          "url": "https://github.com/iamzhihuix/skills-manage/releases/download/v0.10.0/skills-manage_0.10.0_macos_universal.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "sonnylazuardi--chat-ai-desktop",
+      "name": "chat-ai-desktop",
+      "description": "Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/sonnylazuardi/chat-ai-desktop",
+      "release": "v0.5.0",
+      "updatedAt": "2023-03-20T02:13:27Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "chatgpt.dmg",
+          "url": "https://github.com/sonnylazuardi/chat-ai-desktop/releases/download/v0.5.0/chatgpt.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "rememberber--mootool",
+      "name": "MooTool",
+      "description": "Handy tool set for developers",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/rememberber/MooTool",
+      "release": "v1.7.8",
+      "updatedAt": "2026-07-04T10:45:54Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "MooTool-1.7.8-linux-x64.deb",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-linux-x64.deb"
+        },
+        {
+          "name": "MooTool-1.7.8-linux-x64.rpm",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-linux-x64.rpm"
+        },
+        {
+          "name": "MooTool-1.7.8-linux-x64.tar.gz",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-linux-x64.tar.gz"
+        },
+        {
+          "name": "MooTool-1.7.8-mac-apple-silicon.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-apple-silicon.dmg"
+        },
+        {
+          "name": "MooTool-1.7.8-mac-apple-silicon.pkg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-apple-silicon.pkg"
+        },
+        {
+          "name": "MooTool-1.7.8-mac-apple-silicon.tar.gz",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-apple-silicon.tar.gz"
+        },
+        {
+          "name": "MooTool-1.7.8-mac-intel.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-intel.dmg"
+        },
+        {
+          "name": "MooTool-1.7.8-mac-intel.pkg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-intel.pkg"
+        },
+        {
+          "name": "MooTool-1.7.8-mac-intel.tar.gz",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-intel.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "igdmapps--igdm",
+      "name": "igdm",
+      "description": "Desktop application for Instagram DMs",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/igdmapps/igdm",
+      "release": "v3.0.4",
+      "updatedAt": "2022-04-18T10:22:07Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "IGdm-3.0.4.AppImage",
+          "url": "https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-3.0.4.AppImage"
+        },
+        {
+          "name": "IGdm-3.0.4.dmg",
+          "url": "https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-3.0.4.dmg"
+        },
+        {
+          "name": "IGdm_3.0.4_amd64.deb",
+          "url": "https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm_3.0.4_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "szczyglis-dev--py-gpt",
+      "name": "py-gpt",
+      "description": "Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/szczyglis-dev/py-gpt",
+      "release": "v2.7.12",
+      "updatedAt": "2026-02-06T03:08:43Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "PyGPT-2.7.12-x86_64.AppImage",
+          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.7.12/PyGPT-2.7.12-x86_64.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "jhlee0409--claude-code-history-viewer",
+      "name": "claude-code-history-viewer",
+      "description": "desktop app to browse and analyze your Claude Code conversation history",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/jhlee0409/claude-code-history-viewer",
+      "release": "v1.18.0",
+      "updatedAt": "2026-06-30T13:08:40Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "cchv-server-linux-arm64.tar.gz",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/cchv-server-linux-arm64.tar.gz"
+        },
+        {
+          "name": "cchv-server-linux-x64.tar.gz",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/cchv-server-linux-x64.tar.gz"
+        },
+        {
+          "name": "cchv-server-macos-arm64.tar.gz",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/cchv-server-macos-arm64.tar.gz"
+        },
+        {
+          "name": "cchv-server-macos-x64.tar.gz",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/cchv-server-macos-x64.tar.gz"
+        },
+        {
+          "name": "Claude.Code.History.Viewer-1.18.0-1.x86_64.rpm",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/Claude.Code.History.Viewer-1.18.0-1.x86_64.rpm"
+        },
+        {
+          "name": "Claude.Code.History.Viewer_1.18.0_amd64.AppImage",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/Claude.Code.History.Viewer_1.18.0_amd64.AppImage"
+        },
+        {
+          "name": "Claude.Code.History.Viewer_1.18.0_amd64.deb",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/Claude.Code.History.Viewer_1.18.0_amd64.deb"
+        },
+        {
+          "name": "Claude.Code.History.Viewer_1.18.0_universal.dmg",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/Claude.Code.History.Viewer_1.18.0_universal.dmg"
+        },
+        {
+          "name": "Claude.Code.History.Viewer_universal.app.tar.gz",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.18.0/Claude.Code.History.Viewer_universal.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "opencoworkai--open-cowork",
+      "name": "open-cowork",
+      "description": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills \u2014 with sandbox isolation, multi-model support, and Feishu/Slack integration.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/OpenCoworkAI/open-cowork",
+      "release": "v3.3.1",
+      "updatedAt": "2026-05-23T16:43:09Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Open.Cowork-3.3.1-mac-arm64.dmg",
+          "url": "https://github.com/OpenCoworkAI/open-cowork/releases/download/v3.3.1/Open.Cowork-3.3.1-mac-arm64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "arcsin1--oh-my-ppt",
+      "name": "oh-my-ppt",
+      "description": "Describe what you need \u2014 a presentation, lesson, or story \u2014 and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/arcsin1/oh-my-ppt",
+      "release": "v2.0.19",
+      "updatedAt": "2026-07-06T13:35:00Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "oh-my-ppt-2.0.19-mac_arm64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.0.19/oh-my-ppt-2.0.19-mac_arm64.dmg"
+        },
+        {
+          "name": "oh-my-ppt-2.0.19-mac_x64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.0.19/oh-my-ppt-2.0.19-mac_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "delibae--claude-prism",
+      "name": "claude-prism",
+      "description": "An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/delibae/claude-prism",
+      "release": "v1.2.0",
+      "updatedAt": "2026-06-09T17:27:53Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ClaudePrism-Linux.AppImage",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-Linux.AppImage"
+        },
+        {
+          "name": "ClaudePrism-Linux.deb",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-Linux.deb"
+        },
+        {
+          "name": "ClaudePrism-Linux.rpm",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-Linux.rpm"
+        },
+        {
+          "name": "ClaudePrism-macOS-Intel.app.tar.gz",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-macOS-Intel.app.tar.gz"
+        },
+        {
+          "name": "ClaudePrism-macOS-Intel.dmg",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-macOS-Intel.dmg"
+        },
+        {
+          "name": "ClaudePrism-macOS.app.tar.gz",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-macOS.app.tar.gz"
+        },
+        {
+          "name": "ClaudePrism-macOS.dmg",
+          "url": "https://github.com/delibae/claude-prism/releases/download/v1.2.0/ClaudePrism-macOS.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "paxa--postbird",
+      "name": "postbird",
+      "description": "Open source PostgreSQL GUI client for macOS, Linux and Windows",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Paxa/postbird",
+      "release": "0.8.4",
+      "updatedAt": "2019-11-20T06:07:30Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "postbird-0.8.4.AppImage",
+          "url": "https://github.com/Paxa/postbird/releases/download/0.8.4/postbird-0.8.4.AppImage"
+        },
+        {
+          "name": "Postbird-0.8.4.dmg",
+          "url": "https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4.dmg"
+        },
+        {
+          "name": "Postbird-0.8.4.x86_64.rpm",
+          "url": "https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4.x86_64.rpm"
+        },
+        {
+          "name": "Postbird_0.8.4_amd64.deb",
+          "url": "https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird_0.8.4_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "kushalpandya--petrichor",
+      "name": "Petrichor",
+      "description": "An offline macOS music player",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/kushalpandya/Petrichor",
+      "release": "v1.5.2",
+      "updatedAt": "2026-05-09T18:21:08Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Petrichor-1.5.2-Universal.dmg",
+          "url": "https://github.com/kushalpandya/Petrichor/releases/download/v1.5.2/Petrichor-1.5.2-Universal.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "deadwavewave--opencove",
+      "name": "opencove",
+      "description": "Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/DeadWaveWave/opencove",
+      "release": "v0.2.0",
+      "updatedAt": "2026-04-27T15:46:42Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "OpenCove-0.2.0-linux-x86_64.AppImage",
+          "url": "https://github.com/DeadWaveWave/opencove/releases/download/v0.2.0/OpenCove-0.2.0-linux-x86_64.AppImage"
+        },
+        {
+          "name": "OpenCove-0.2.0-mac-arm64.dmg",
+          "url": "https://github.com/DeadWaveWave/opencove/releases/download/v0.2.0/OpenCove-0.2.0-mac-arm64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "limecloud--lime",
+      "name": "lime",
+      "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/limecloud/lime",
+      "release": "v1.98.0",
+      "updatedAt": "2026-07-10T10:08:08Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "lime-1.98.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.98.0/lime-1.98.0-darwin-amd64.tar.gz"
+        },
+        {
+          "name": "lime-1.98.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.98.0/lime-1.98.0-darwin-arm64.tar.gz"
+        },
+        {
+          "name": "lime-1.98.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.98.0/lime-1.98.0-linux-amd64.tar.gz"
+        },
+        {
+          "name": "macos-arm64-Lime-1.98.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.98.0/macos-arm64-Lime-1.98.0.dmg"
+        },
+        {
+          "name": "macos-x64-Lime-1.98.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.98.0/macos-x64-Lime-1.98.0.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "julyx10--lap",
+      "name": "lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/julyx10/lap",
+      "release": "v0.2.4",
+      "updatedAt": "2026-06-16T11:40:03Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Lap_0.2.4_aarch64.AppImage",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_aarch64.AppImage"
+        },
+        {
+          "name": "Lap_0.2.4_aarch64.dmg",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_aarch64.dmg"
+        },
+        {
+          "name": "Lap_0.2.4_amd64.AppImage",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_amd64.AppImage"
+        },
+        {
+          "name": "Lap_0.2.4_amd64.deb",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_amd64.deb"
+        },
+        {
+          "name": "Lap_0.2.4_arm64.deb",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_arm64.deb"
+        },
+        {
+          "name": "Lap_0.2.4_x64.dmg",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_x64.dmg"
+        },
+        {
+          "name": "Lap_aarch64.app.tar.gz",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_aarch64.app.tar.gz"
+        },
+        {
+          "name": "Lap_x86_64.app.tar.gz",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_x86_64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "flashpointproject--launcher",
+      "name": "launcher",
+      "description": "Launcher for Flashpoint Archive",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/FlashpointProject/launcher",
+      "release": "14.0.3",
+      "updatedAt": "2025-10-29T08:37:19Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Flashpoint-14.0.3_linux-amd64.deb",
+          "url": "https://github.com/FlashpointProject/launcher/releases/download/14.0.3/Flashpoint-14.0.3_linux-amd64.deb"
+        },
+        {
+          "name": "Flashpoint-14.0.3_mac-arm64.dmg",
+          "url": "https://github.com/FlashpointProject/launcher/releases/download/14.0.3/Flashpoint-14.0.3_mac-arm64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "skalesapp--skales",
+      "name": "skales",
+      "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/skalesapp/skales",
+      "release": "v12.2.5",
+      "updatedAt": "2026-07-10T08:14:26Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Skales-12.2.5-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.2.5/Skales-12.2.5-arm64.dmg"
+        },
+        {
+          "name": "Skales-12.2.5-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.2.5/Skales-12.2.5-x64.dmg"
+        },
+        {
+          "name": "Skales-12.2.5-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.2.5/Skales-12.2.5-x86_64.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "sandakan--nora",
+      "name": "Nora",
+      "description": "An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Sandakan/Nora",
+      "release": "v3.1.0-stable",
+      "updatedAt": "2025-03-29T11:40:31Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Nora.v3.1.0-stable-linux-amd64.deb",
+          "url": "https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-amd64.deb"
+        },
+        {
+          "name": "Nora.v3.1.0-stable-linux-x86_64.AppImage",
+          "url": "https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.AppImage"
+        },
+        {
+          "name": "Nora.v3.1.0-stable-linux-x86_64.rpm",
+          "url": "https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.rpm"
+        },
+        {
+          "name": "Nora.v3.1.0-stable-mac-arm64.dmg",
+          "url": "https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-mac-arm64.dmg"
+        },
+        {
+          "name": "Nora.v3.1.0-stable-mac-x64.dmg",
+          "url": "https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-mac-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "thclaws--thclaws",
+      "name": "thClaws",
+      "description": "Open-source AI agent harness in native Rust \u2014 GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/thClaws/thClaws",
+      "release": "v0.90.0",
+      "updatedAt": "2026-07-11T06:20:43Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "thclaws-v0.90.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.90.0/thclaws-v0.90.0-aarch64-apple-darwin.tar.gz"
+        },
+        {
+          "name": "thclaws-v0.90.0-aarch64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.90.0/thclaws-v0.90.0-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "thclaws-v0.90.0-universal-apple-darwin.dmg",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.90.0/thclaws-v0.90.0-universal-apple-darwin.dmg"
+        },
+        {
+          "name": "thclaws-v0.90.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.90.0/thclaws-v0.90.0-x86_64-apple-darwin.tar.gz"
+        },
+        {
+          "name": "thclaws-v0.90.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.90.0/thclaws-v0.90.0-x86_64-unknown-linux-gnu.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "shiwenwen--hope-agent",
+      "name": "hope-agent",
+      "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
+      "release": "v0.17.0",
+      "updatedAt": "2026-07-10T11:19:23Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "hope-agent-0.17.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/hope-agent-0.17.0-darwin-aarch64.tar.gz"
+        },
+        {
+          "name": "hope-agent-0.17.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/hope-agent-0.17.0-linux-aarch64.tar.gz"
+        },
+        {
+          "name": "hope-agent-0.17.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/hope-agent-0.17.0-linux-x86_64.tar.gz"
+        },
+        {
+          "name": "Hope.Agent-0.17.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent-0.17.0-1.aarch64.rpm"
+        },
+        {
+          "name": "Hope.Agent-0.17.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent-0.17.0-1.x86_64.rpm"
+        },
+        {
+          "name": "Hope.Agent_0.17.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent_0.17.0_aarch64.AppImage"
+        },
+        {
+          "name": "Hope.Agent_0.17.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent_0.17.0_aarch64.dmg"
+        },
+        {
+          "name": "Hope.Agent_0.17.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent_0.17.0_amd64.AppImage"
+        },
+        {
+          "name": "Hope.Agent_0.17.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent_0.17.0_amd64.deb"
+        },
+        {
+          "name": "Hope.Agent_0.17.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent_0.17.0_arm64.deb"
+        },
+        {
+          "name": "Hope.Agent_aarch64.app.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.17.0/Hope.Agent_aarch64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "berbicanes--apiark",
+      "name": "apiark",
+      "description": "Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/berbicanes/apiark",
+      "release": "v0.4.6",
+      "updatedAt": "2026-03-25T07:45:37Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ApiArk-0.4.6-1.x86_64.rpm",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk-0.4.6-1.x86_64.rpm"
+        },
+        {
+          "name": "ApiArk_0.4.6_aarch64.dmg",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_0.4.6_aarch64.dmg"
+        },
+        {
+          "name": "ApiArk_0.4.6_amd64.AppImage",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_0.4.6_amd64.AppImage"
+        },
+        {
+          "name": "ApiArk_0.4.6_amd64.AppImage.tar.gz",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_0.4.6_amd64.AppImage.tar.gz"
+        },
+        {
+          "name": "ApiArk_0.4.6_amd64.deb",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_0.4.6_amd64.deb"
+        },
+        {
+          "name": "ApiArk_0.4.6_x64.dmg",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_0.4.6_x64.dmg"
+        },
+        {
+          "name": "ApiArk_aarch64.app.tar.gz",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_aarch64.app.tar.gz"
+        },
+        {
+          "name": "ApiArk_x64.app.tar.gz",
+          "url": "https://github.com/berbicanes/apiark/releases/download/v0.4.6/ApiArk_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "geek-fun--dockit",
+      "name": "dockit",
+      "description": "Agentic desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB & EasySearch. Natural language queries, visual management, and monitoring. Privacy-first. Open source.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/geek-fun/dockit",
+      "release": "v1.2.0",
+      "updatedAt": "2026-06-30T15:50:13Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "DocKit-1.2.0-1.x86_64.rpm",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.2.0/DocKit-1.2.0-1.x86_64.rpm"
+        },
+        {
+          "name": "DocKit_1.2.0_amd64.AppImage",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.2.0/DocKit_1.2.0_amd64.AppImage"
+        },
+        {
+          "name": "DocKit_1.2.0_amd64.deb",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.2.0/DocKit_1.2.0_amd64.deb"
+        },
+        {
+          "name": "DocKit_1.2.0_universal.dmg",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.2.0/DocKit_1.2.0_universal.dmg"
+        },
+        {
+          "name": "DocKit_universal.app.tar.gz",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.2.0/DocKit_universal.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "atomicbot-ai--atomic-chat",
+      "name": "Atomic-Chat",
+      "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally \u2014 private, 100% offline on your computer.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/AtomicBot-ai/Atomic-Chat",
+      "release": "v1.1.140",
+      "updatedAt": "2026-07-03T22:42:43Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Atomic.Chat.app.tar.gz",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v1.1.140/Atomic.Chat.app.tar.gz"
+        },
+        {
+          "name": "Atomic.Chat_1.1.140_amd64.AppImage",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v1.1.140/Atomic.Chat_1.1.140_amd64.AppImage"
+        },
+        {
+          "name": "Atomic.Chat_1.1.140_universal.dmg",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v1.1.140/Atomic.Chat_1.1.140_universal.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "swiftyapp--swifty",
+      "name": "swifty",
+      "description": "\ud83d\udd11   Free Offline-first Password Manager ",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/swiftyapp/swifty",
+      "release": "v0.6.13",
+      "updatedAt": "2023-02-09T14:14:04Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Swifty-0.6.13.AppImage",
+          "url": "https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.AppImage"
+        },
+        {
+          "name": "Swifty-0.6.13.dmg",
+          "url": "https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.dmg"
+        },
+        {
+          "name": "Swifty-0.6.13.pkg",
+          "url": "https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.pkg"
+        },
+        {
+          "name": "Swifty-0.6.13.x86_64.rpm",
+          "url": "https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.x86_64.rpm"
+        },
+        {
+          "name": "Swifty_0.6.13_amd64.deb",
+          "url": "https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty_0.6.13_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "h3poteto--whalebird-desktop",
+      "name": "whalebird-desktop",
+      "description": "Single-column Fediverse client for desktop",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/h3poteto/whalebird-desktop",
+      "release": "v6.3.0",
+      "updatedAt": "2026-05-02T01:25:49Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Whalebird-6.3.0-linux-amd64.deb",
+          "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-linux-amd64.deb"
+        },
+        {
+          "name": "Whalebird-6.3.0-linux-x86_64.AppImage",
+          "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-linux-x86_64.AppImage"
+        },
+        {
+          "name": "Whalebird-6.3.0-linux-x86_64.rpm",
+          "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-linux-x86_64.rpm"
+        },
+        {
+          "name": "Whalebird-6.3.0-mac-universal.dmg",
+          "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-mac-universal.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "blueberrycongee--lumina-note",
+      "name": "Lumina-Note",
+      "description": "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/blueberrycongee/Lumina-Note",
+      "release": "v1.4.11",
+      "updatedAt": "2026-06-01T11:35:32Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Lumina-Note-1.4.11-arm64.dmg",
+          "url": "https://github.com/blueberrycongee/Lumina-Note/releases/download/v1.4.11/Lumina-Note-1.4.11-arm64.dmg"
+        },
+        {
+          "name": "Lumina-Note-1.4.11-x64.dmg",
+          "url": "https://github.com/blueberrycongee/Lumina-Note/releases/download/v1.4.11/Lumina-Note-1.4.11-x64.dmg"
+        },
+        {
+          "name": "Lumina-Note-1.4.11.AppImage",
+          "url": "https://github.com/blueberrycongee/Lumina-Note/releases/download/v1.4.11/Lumina-Note-1.4.11.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "eynzof--hermes-cn-desktop",
+      "name": "Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "release": "v0.6.3",
+      "updatedAt": "2026-07-11T05:48:58Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Hermes.Agent.CN.Desktop_0.6.3_aarch64.dmg",
+          "url": "https://github.com/Eynzof/Hermes-CN-Desktop/releases/download/v0.6.3/Hermes.Agent.CN.Desktop_0.6.3_aarch64.dmg"
+        },
+        {
+          "name": "Hermes.Agent.CN.Desktop_0.6.3_amd64.AppImage",
+          "url": "https://github.com/Eynzof/Hermes-CN-Desktop/releases/download/v0.6.3/Hermes.Agent.CN.Desktop_0.6.3_amd64.AppImage"
+        },
+        {
+          "name": "Hermes.Agent.CN.Desktop_0.6.3_amd64.deb",
+          "url": "https://github.com/Eynzof/Hermes-CN-Desktop/releases/download/v0.6.3/Hermes.Agent.CN.Desktop_0.6.3_amd64.deb"
+        },
+        {
+          "name": "Hermes.Agent.CN.Desktop_0.6.3_x64.dmg",
+          "url": "https://github.com/Eynzof/Hermes-CN-Desktop/releases/download/v0.6.3/Hermes.Agent.CN.Desktop_0.6.3_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "purpledoubled--locally-uncensored",
+      "name": "locally-uncensored",
+      "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
+      "release": "v2.5.6",
+      "updatedAt": "2026-07-01T10:34:00Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Locally.Uncensored-2.5.6-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.6/Locally.Uncensored-2.5.6-1.x86_64.rpm"
+        },
+        {
+          "name": "Locally.Uncensored_2.5.6_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.6/Locally.Uncensored_2.5.6_amd64.AppImage"
+        },
+        {
+          "name": "Locally.Uncensored_2.5.6_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.6/Locally.Uncensored_2.5.6_amd64.AppImage.tar.gz"
+        },
+        {
+          "name": "Locally.Uncensored_2.5.6_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.6/Locally.Uncensored_2.5.6_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "futureuniant--workshadow",
+      "name": "WorkShadow",
+      "description": "\u5982\u5f71\u968f\u5f62 \u00b7 \u672c\u5730\u4f18\u5148\u684c\u9762\u5de5\u4f5c\u65e5\u5fd7\uff1a\u5bcc\u6587\u672c\u8bb0\u5f55\u3001\u8bed\u4e49\u68c0\u7d22\u3001\u5de5\u4f5c\u53f0\u603b\u7ed3/\u95ee\u7b54\uff1b\u6a21\u578b\u81ea\u914d\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002 Local-first desktop work journal\u2014rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/FutureUniant/WorkShadow",
+      "release": "v0.2.0",
+      "updatedAt": "2026-06-17T14:32:58Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "llama-b9682-bin-macos-arm64.tar.gz",
+          "url": "https://github.com/FutureUniant/WorkShadow/releases/download/v0.2.0/llama-b9682-bin-macos-arm64.tar.gz"
+        },
+        {
+          "name": "llama-b9682-bin-macos-x64.tar.gz",
+          "url": "https://github.com/FutureUniant/WorkShadow/releases/download/v0.2.0/llama-b9682-bin-macos-x64.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "cocojojo5213--dev-janitor",
+      "name": "Dev-Janitor",
+      "description": "Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/cocojojo5213/Dev-Janitor",
+      "release": "v2.4.3",
+      "updatedAt": "2026-06-08T02:51:54Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Dev.Janitor-2.4.3-1.x86_64.rpm",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor-2.4.3-1.x86_64.rpm"
+        },
+        {
+          "name": "Dev.Janitor_2.4.3_aarch64.dmg",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor_2.4.3_aarch64.dmg"
+        },
+        {
+          "name": "Dev.Janitor_2.4.3_amd64.AppImage",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor_2.4.3_amd64.AppImage"
+        },
+        {
+          "name": "Dev.Janitor_2.4.3_amd64.deb",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor_2.4.3_amd64.deb"
+        },
+        {
+          "name": "Dev.Janitor_2.4.3_x64.dmg",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor_2.4.3_x64.dmg"
+        },
+        {
+          "name": "Dev.Janitor_aarch64.app.tar.gz",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor_aarch64.app.tar.gz"
+        },
+        {
+          "name": "Dev.Janitor_x64.app.tar.gz",
+          "url": "https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.4.3/Dev.Janitor_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "winbigfox--timescribe",
+      "name": "TimeScribe",
+      "description": "Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/WINBIGFOX/TimeScribe",
+      "release": "v1.15.0",
+      "updatedAt": "2026-06-02T13:53:10Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "TimeScribe-1.15.0-arm64.dmg",
+          "url": "https://github.com/WINBIGFOX/TimeScribe/releases/download/v1.15.0/TimeScribe-1.15.0-arm64.dmg"
+        },
+        {
+          "name": "TimeScribe-1.15.0-x64.dmg",
+          "url": "https://github.com/WINBIGFOX/TimeScribe/releases/download/v1.15.0/TimeScribe-1.15.0-x64.dmg"
         }
       ],
       "accent": "#6e7681"

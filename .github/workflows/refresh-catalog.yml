@@ -31,7 +31,7 @@ jobs:
       - name: Refresh reviewed release entries
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: python scripts/update_catalog.py --discover --discovery-limit 40
+        run: python scripts/update_catalog.py --discover --discovery-limit 100
 
       - name: Commit catalog changes
         run: |
