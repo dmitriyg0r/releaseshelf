@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-15T06:29:06Z",
+  "generatedAt": "2026-07-16T06:31:48Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -126,29 +126,29 @@
       "description": "A fast, privacy-focused browser built on Firefox technology.",
       "category": "Internet",
       "repositoryUrl": "https://github.com/zen-browser/desktop",
-      "release": "1.21.6b",
-      "updatedAt": "2026-07-09T10:46:23Z",
+      "release": "1.21.7b",
+      "updatedAt": "2026-07-15T21:53:55Z",
       "verification": "community",
       "assets": [
         {
           "name": "zen-aarch64.AppImage",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen-aarch64.AppImage"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.7b/zen-aarch64.AppImage"
         },
         {
           "name": "zen-x86_64.AppImage",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen-x86_64.AppImage"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.7b/zen-x86_64.AppImage"
         },
         {
           "name": "zen.linux-aarch64.tar.xz",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.linux-aarch64.tar.xz"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.7b/zen.linux-aarch64.tar.xz"
         },
         {
           "name": "zen.linux-x86_64.tar.xz",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.linux-x86_64.tar.xz"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.7b/zen.linux-x86_64.tar.xz"
         },
         {
           "name": "zen.macos-universal.dmg",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.6b/zen.macos-universal.dmg"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.7b/zen.macos-universal.dmg"
         }
       ],
       "accent": "#8f6df2"
@@ -261,49 +261,49 @@
       "description": "A simple terminal UI for Git commands and repositories.",
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/jesseduffield/lazygit",
-      "release": "v0.63.0",
-      "updatedAt": "2026-07-04T12:50:57Z",
+      "release": "v0.63.1",
+      "updatedAt": "2026-07-15T11:39:25Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "lazygit_0.63.0_darwin_arm64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_darwin_arm64.tar.gz"
+          "name": "lazygit_0.63.1_darwin_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_darwin_arm64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_darwin_x86_64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_darwin_x86_64.tar.gz"
+          "name": "lazygit_0.63.1_darwin_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_darwin_x86_64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_freebsd_32-bit.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_32-bit.tar.gz"
+          "name": "lazygit_0.63.1_freebsd_32-bit.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_32-bit.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_freebsd_arm64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_arm64.tar.gz"
+          "name": "lazygit_0.63.1_freebsd_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_arm64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_freebsd_armv6.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_armv6.tar.gz"
+          "name": "lazygit_0.63.1_freebsd_armv6.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_armv6.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_freebsd_x86_64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_freebsd_x86_64.tar.gz"
+          "name": "lazygit_0.63.1_freebsd_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_x86_64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_linux_32-bit.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_32-bit.tar.gz"
+          "name": "lazygit_0.63.1_linux_32-bit.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_32-bit.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_linux_arm64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_arm64.tar.gz"
+          "name": "lazygit_0.63.1_linux_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_arm64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_linux_armv6.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_armv6.tar.gz"
+          "name": "lazygit_0.63.1_linux_armv6.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_armv6.tar.gz"
         },
         {
-          "name": "lazygit_0.63.0_linux_x86_64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.0/lazygit_0.63.0_linux_x86_64.tar.gz"
+          "name": "lazygit_0.63.1_linux_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_x86_64.tar.gz"
         }
       ],
       "accent": "#8fbcbb"
@@ -990,57 +990,57 @@
       "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/tonyantony300/alt-sendme",
-      "release": "v0.5.0",
-      "updatedAt": "2026-07-09T04:26:02Z",
+      "release": "v0.6.0",
+      "updatedAt": "2026-07-15T17:09:40Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "AltSendme-0.5.0-1.aarch64.rpm",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme-0.5.0-1.aarch64.rpm"
+          "name": "AltSendme-0.6.0-1.aarch64.rpm",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme-0.6.0-1.aarch64.rpm"
         },
         {
-          "name": "AltSendme-0.5.0-1.x86_64.rpm",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme-0.5.0-1.x86_64.rpm"
+          "name": "AltSendme-0.6.0-1.x86_64.rpm",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme-0.6.0-1.x86_64.rpm"
         },
         {
-          "name": "AltSendme_0.5.0_aarch64.AppImage",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_aarch64.AppImage"
+          "name": "AltSendme_0.6.0_aarch64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_aarch64.app.tar.gz"
         },
         {
-          "name": "AltSendme_0.5.0_aarch64.dmg",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_aarch64.dmg"
+          "name": "AltSendme_0.6.0_aarch64.AppImage",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_aarch64.AppImage"
         },
         {
-          "name": "AltSendme_0.5.0_amd64.AppImage",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_amd64.AppImage"
+          "name": "AltSendme_0.6.0_aarch64.dmg",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_aarch64.dmg"
         },
         {
-          "name": "AltSendme_0.5.0_amd64.deb",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_amd64.deb"
+          "name": "AltSendme_0.6.0_amd64.AppImage",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_amd64.AppImage"
         },
         {
-          "name": "AltSendme_0.5.0_arm64.deb",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_arm64.deb"
+          "name": "AltSendme_0.6.0_amd64.deb",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_amd64.deb"
         },
         {
-          "name": "AltSendme_0.5.0_universal.dmg",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_universal.dmg"
+          "name": "AltSendme_0.6.0_arm64.deb",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_arm64.deb"
         },
         {
-          "name": "AltSendme_0.5.0_x64.dmg",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_0.5.0_x64.dmg"
+          "name": "AltSendme_0.6.0_universal.app.tar.gz",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_universal.app.tar.gz"
         },
         {
-          "name": "AltSendme_aarch64.app.tar.gz",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_aarch64.app.tar.gz"
+          "name": "AltSendme_0.6.0_universal.dmg",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_universal.dmg"
         },
         {
-          "name": "AltSendme_universal.app.tar.gz",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_universal.app.tar.gz"
+          "name": "AltSendme_0.6.0_x64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_x64.app.tar.gz"
         },
         {
-          "name": "AltSendme_x64.app.tar.gz",
-          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.5.0/AltSendme_x64.app.tar.gz"
+          "name": "AltSendme_0.6.0_x64.dmg",
+          "url": "https://github.com/tonyantony300/alt-sendme/releases/download/v0.6.0/AltSendme_0.6.0_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1622,17 +1622,17 @@
       "description": "Open-source, desktop-grade AI agent that gets real work done \u2014 data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/netease-youdao/LobsterAI",
-      "release": "2026.7.10",
-      "updatedAt": "2026-07-11T01:07:01Z",
+      "release": "2026.7.15",
+      "updatedAt": "2026-07-15T14:16:54Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "LobsterAI--mac-arm64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.10/LobsterAI--mac-arm64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.15/LobsterAI--mac-arm64.dmg"
         },
         {
           "name": "LobsterAI--mac-x64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.10/LobsterAI--mac-x64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.15/LobsterAI--mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1936,37 +1936,29 @@
       "description": "\ud83e\udd9e OpenClaw & Hermes Agent \u591a\u5f15\u64ce AI \u7ba1\u7406\u9762\u677f \u2014 \u5185\u7f6e AI \u52a9\u624b\uff08\u5de5\u5177\u8c03\u7528 + \u56fe\u7247\u8bc6\u522b + \u591a\u6a21\u6001\uff09\uff0c\u4e00\u952e\u5b89\u88c5 | Tauri v2 \u8de8\u5e73\u53f0\u684c\u9762\u5e94\u7528 | 11 \u79cd\u8bed\u8a00",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/qingchencloud/clawpanel",
-      "release": "v0.18.5",
-      "updatedAt": "2026-06-15T08:28:51Z",
+      "release": "v0.19.0",
+      "updatedAt": "2026-07-15T09:08:56Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ClawPanel-0.18.5-1.x86_64.rpm",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel-0.18.5-1.x86_64.rpm"
+          "name": "ClawPanel-0.19.0-1.x86_64.rpm",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel-0.19.0-1.x86_64.rpm"
         },
         {
-          "name": "ClawPanel_0.18.5_aarch64.dmg",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_aarch64.dmg"
+          "name": "ClawPanel_0.19.0_aarch64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_aarch64.dmg"
         },
         {
-          "name": "ClawPanel_0.18.5_amd64.AppImage",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_amd64.AppImage"
+          "name": "ClawPanel_0.19.0_amd64.AppImage",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_amd64.AppImage"
         },
         {
-          "name": "ClawPanel_0.18.5_amd64.deb",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_amd64.deb"
+          "name": "ClawPanel_0.19.0_amd64.deb",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_amd64.deb"
         },
         {
-          "name": "ClawPanel_0.18.5_x64.dmg",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_0.18.5_x64.dmg"
-        },
-        {
-          "name": "ClawPanel_aarch64.app.tar.gz",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_aarch64.app.tar.gz"
-        },
-        {
-          "name": "ClawPanel_x64.app.tar.gz",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.18.5/ClawPanel_x64.app.tar.gz"
+          "name": "ClawPanel_0.19.0_x64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2261,45 +2253,45 @@
       "description": "Handy tool set for developers",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/rememberber/MooTool",
-      "release": "v1.7.8",
-      "updatedAt": "2026-07-04T10:45:54Z",
+      "release": "v1.7.9",
+      "updatedAt": "2026-07-16T01:11:53Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "MooTool-1.7.8-linux-x64.deb",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-linux-x64.deb"
+          "name": "MooTool-1.7.9-linux-x64.deb",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-linux-x64.deb"
         },
         {
-          "name": "MooTool-1.7.8-linux-x64.rpm",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-linux-x64.rpm"
+          "name": "MooTool-1.7.9-linux-x64.rpm",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-linux-x64.rpm"
         },
         {
-          "name": "MooTool-1.7.8-linux-x64.tar.gz",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-linux-x64.tar.gz"
+          "name": "MooTool-1.7.9-linux-x64.tar.gz",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-linux-x64.tar.gz"
         },
         {
-          "name": "MooTool-1.7.8-mac-apple-silicon.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-apple-silicon.dmg"
+          "name": "MooTool-1.7.9-mac-apple-silicon.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-mac-apple-silicon.dmg"
         },
         {
-          "name": "MooTool-1.7.8-mac-apple-silicon.pkg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-apple-silicon.pkg"
+          "name": "MooTool-1.7.9-mac-apple-silicon.pkg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-mac-apple-silicon.pkg"
         },
         {
-          "name": "MooTool-1.7.8-mac-apple-silicon.tar.gz",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-apple-silicon.tar.gz"
+          "name": "MooTool-1.7.9-mac-apple-silicon.tar.gz",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-mac-apple-silicon.tar.gz"
         },
         {
-          "name": "MooTool-1.7.8-mac-intel.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-intel.dmg"
+          "name": "MooTool-1.7.9-mac-intel.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-mac-intel.dmg"
         },
         {
-          "name": "MooTool-1.7.8-mac-intel.pkg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-intel.pkg"
+          "name": "MooTool-1.7.9-mac-intel.pkg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-mac-intel.pkg"
         },
         {
-          "name": "MooTool-1.7.8-mac-intel.tar.gz",
-          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.8/MooTool-1.7.8-mac-intel.tar.gz"
+          "name": "MooTool-1.7.9-mac-intel.tar.gz",
+          "url": "https://github.com/rememberber/MooTool/releases/download/v1.7.9/MooTool-1.7.9-mac-intel.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2547,29 +2539,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.103.0",
-      "updatedAt": "2026-07-14T18:50:08Z",
+      "release": "v1.105.0",
+      "updatedAt": "2026-07-16T04:05:57Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.103.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.103.0/lime-1.103.0-darwin-amd64.tar.gz"
+          "name": "lime-1.105.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/lime-1.105.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.103.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.103.0/lime-1.103.0-darwin-arm64.tar.gz"
+          "name": "lime-1.105.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/lime-1.105.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.103.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.103.0/lime-1.103.0-linux-amd64.tar.gz"
+          "name": "lime-1.105.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/lime-1.105.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.103.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.103.0/macos-arm64-Lime-1.103.0.dmg"
+          "name": "macos-arm64-Lime-1.105.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/macos-arm64-Lime-1.105.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.103.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.103.0/macos-x64-Lime-1.103.0.dmg"
+          "name": "macos-x64-Lime-1.105.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/macos-x64-Lime-1.105.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2646,21 +2638,21 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.3.5",
-      "updatedAt": "2026-07-14T06:15:40Z",
+      "release": "v12.4.0",
+      "updatedAt": "2026-07-15T12:25:47Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.3.5-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.3.5/Skales-12.3.5-arm64.dmg"
+          "name": "Skales-12.4.0-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.0/Skales-12.4.0-arm64.dmg"
         },
         {
-          "name": "Skales-12.3.5-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.3.5/Skales-12.3.5-x64.dmg"
+          "name": "Skales-12.4.0-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.0/Skales-12.4.0-x64.dmg"
         },
         {
-          "name": "Skales-12.3.5-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.3.5/Skales-12.3.5-x86_64.AppImage"
+          "name": "Skales-12.4.0-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.0/Skales-12.4.0-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2704,29 +2696,29 @@
       "description": "Open-source AI agent harness in native Rust \u2014 GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/thClaws/thClaws",
-      "release": "v0.96.0",
-      "updatedAt": "2026-07-15T03:41:28Z",
+      "release": "v0.97.0",
+      "updatedAt": "2026-07-15T12:53:01Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "thclaws-v0.96.0-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.96.0/thclaws-v0.96.0-aarch64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.97.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-aarch64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.96.0-aarch64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.96.0/thclaws-v0.96.0-aarch64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.97.0-aarch64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-aarch64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "thclaws-v0.96.0-universal-apple-darwin.dmg",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.96.0/thclaws-v0.96.0-universal-apple-darwin.dmg"
+          "name": "thclaws-v0.97.0-universal-apple-darwin.dmg",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-universal-apple-darwin.dmg"
         },
         {
-          "name": "thclaws-v0.96.0-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.96.0/thclaws-v0.96.0-x86_64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.97.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-x86_64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.96.0-x86_64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.96.0/thclaws-v0.96.0-x86_64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.97.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-x86_64-unknown-linux-gnu.tar.gz"
         }
       ],
       "accent": "#6e7681"
