@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-16T06:31:48Z",
+  "generatedAt": "2026-07-17T06:28:07Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -689,37 +689,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.42.2",
-      "updatedAt": "2026-07-08T11:39:42Z",
+      "release": "player@1.43.0",
+      "updatedAt": "2026-07-16T11:00:56Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.42.2-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear-1.42.2-1.x86_64.rpm"
+          "name": "Nuclear-1.43.0-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear-1.43.0-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.42.2_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_aarch64.dmg"
+          "name": "Nuclear_1.43.0_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.42.2_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_amd64.AppImage"
+          "name": "Nuclear_1.43.0_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.42.2_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_amd64.deb"
+          "name": "Nuclear_1.43.0_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_amd64.deb"
         },
         {
-          "name": "Nuclear_1.42.2_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_1.42.2_x64.dmg"
+          "name": "Nuclear_1.43.0_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.42.2/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -804,33 +804,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.15.0",
-      "updatedAt": "2026-07-13T07:20:26Z",
+      "release": "desktop-v1.15.1",
+      "updatedAt": "2026-07-16T23:17:59Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.15.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.0/Superset-1.15.0-arm64.dmg"
+          "name": "Superset-1.15.1-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-1.15.1-arm64.dmg"
         },
         {
-          "name": "superset-1.15.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.0/superset-1.15.0-x86_64.AppImage"
+          "name": "superset-1.15.1-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/superset-1.15.1-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.15.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.0/Superset-1.15.0.dmg"
+          "name": "Superset-1.15.1.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-1.15.1.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1166,25 +1166,25 @@
       "description": "Reqable issue track repo",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/reqable/reqable-app",
-      "release": "3.2.9",
-      "updatedAt": "2026-07-15T00:50:20Z",
+      "release": "3.2.10",
+      "updatedAt": "2026-07-17T03:23:47Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "reqable-app-linux-x86_64.AppImage",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.9/reqable-app-linux-x86_64.AppImage"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-linux-x86_64.AppImage"
         },
         {
           "name": "reqable-app-linux-x86_64.deb",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.9/reqable-app-linux-x86_64.deb"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-linux-x86_64.deb"
         },
         {
           "name": "reqable-app-macos-arm64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.9/reqable-app-macos-arm64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-macos-arm64.dmg"
         },
         {
           "name": "reqable-app-macos-x86_64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.9/reqable-app-macos-x86_64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-macos-x86_64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1622,17 +1622,17 @@
       "description": "Open-source, desktop-grade AI agent that gets real work done \u2014 data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/netease-youdao/LobsterAI",
-      "release": "2026.7.15",
-      "updatedAt": "2026-07-15T14:16:54Z",
+      "release": "2026.7.16",
+      "updatedAt": "2026-07-17T06:19:12Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "LobsterAI--mac-arm64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.15/LobsterAI--mac-arm64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.16/LobsterAI--mac-arm64.dmg"
         },
         {
           "name": "LobsterAI--mac-x64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.15/LobsterAI--mac-x64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.7.16/LobsterAI--mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1664,13 +1664,17 @@
       "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/lightningpixel/modly",
-      "release": "v0.4.0",
-      "updatedAt": "2026-06-21T17:33:31Z",
+      "release": "v0.4.1",
+      "updatedAt": "2026-07-16T16:25:23Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Modly-0.4.0.AppImage",
-          "url": "https://github.com/lightningpixel/modly/releases/download/v0.4.0/Modly-0.4.0.AppImage"
+          "name": "Modly-0.4.1-arm64.dmg",
+          "url": "https://github.com/lightningpixel/modly/releases/download/v0.4.1/Modly-0.4.1-arm64.dmg"
+        },
+        {
+          "name": "Modly-0.4.1.AppImage",
+          "url": "https://github.com/lightningpixel/modly/releases/download/v0.4.1/Modly-0.4.1.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2539,29 +2543,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.105.0",
-      "updatedAt": "2026-07-16T04:05:57Z",
+      "release": "v1.106.0",
+      "updatedAt": "2026-07-17T02:55:39Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.105.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/lime-1.105.0-darwin-amd64.tar.gz"
+          "name": "lime-1.106.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.106.0/lime-1.106.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.105.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/lime-1.105.0-darwin-arm64.tar.gz"
+          "name": "lime-1.106.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.106.0/lime-1.106.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.105.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/lime-1.105.0-linux-amd64.tar.gz"
+          "name": "lime-1.106.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.106.0/lime-1.106.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.105.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/macos-arm64-Lime-1.105.0.dmg"
+          "name": "macos-arm64-Lime-1.106.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.106.0/macos-arm64-Lime-1.106.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.105.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.105.0/macos-x64-Lime-1.105.0.dmg"
+          "name": "macos-x64-Lime-1.106.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.106.0/macos-x64-Lime-1.106.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2572,41 +2576,41 @@
       "description": "An offline-first photo manager for large local libraries",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/julyx10/lap",
-      "release": "v0.2.4",
-      "updatedAt": "2026-06-16T11:40:03Z",
+      "release": "v0.3.0",
+      "updatedAt": "2026-07-17T06:10:32Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Lap_0.2.4_aarch64.AppImage",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_aarch64.AppImage"
+          "name": "Lap_0.3.0_aarch64.AppImage",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_aarch64.AppImage"
         },
         {
-          "name": "Lap_0.2.4_aarch64.dmg",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_aarch64.dmg"
+          "name": "Lap_0.3.0_aarch64.dmg",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_aarch64.dmg"
         },
         {
-          "name": "Lap_0.2.4_amd64.AppImage",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_amd64.AppImage"
+          "name": "Lap_0.3.0_amd64.AppImage",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_amd64.AppImage"
         },
         {
-          "name": "Lap_0.2.4_amd64.deb",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_amd64.deb"
+          "name": "Lap_0.3.0_amd64.deb",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_amd64.deb"
         },
         {
-          "name": "Lap_0.2.4_arm64.deb",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_arm64.deb"
+          "name": "Lap_0.3.0_arm64.deb",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_arm64.deb"
         },
         {
-          "name": "Lap_0.2.4_x64.dmg",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_0.2.4_x64.dmg"
+          "name": "Lap_0.3.0_x64.dmg",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_x64.dmg"
         },
         {
           "name": "Lap_aarch64.app.tar.gz",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_aarch64.app.tar.gz"
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_aarch64.app.tar.gz"
         },
         {
           "name": "Lap_x86_64.app.tar.gz",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.2.4/Lap_x86_64.app.tar.gz"
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_x86_64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2638,21 +2642,21 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.4.0",
-      "updatedAt": "2026-07-15T12:25:47Z",
+      "release": "v12.4.5",
+      "updatedAt": "2026-07-16T17:24:56Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.4.0-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.0/Skales-12.4.0-arm64.dmg"
+          "name": "Skales-12.4.5-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.5/Skales-12.4.5-arm64.dmg"
         },
         {
-          "name": "Skales-12.4.0-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.0/Skales-12.4.0-x64.dmg"
+          "name": "Skales-12.4.5-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.5/Skales-12.4.5-x64.dmg"
         },
         {
-          "name": "Skales-12.4.0-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.0/Skales-12.4.0-x86_64.AppImage"
+          "name": "Skales-12.4.5-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.4.5/Skales-12.4.5-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2696,29 +2700,29 @@
       "description": "Open-source AI agent harness in native Rust \u2014 GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/thClaws/thClaws",
-      "release": "v0.97.0",
-      "updatedAt": "2026-07-15T12:53:01Z",
+      "release": "v0.98.0",
+      "updatedAt": "2026-07-17T01:49:02Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "thclaws-v0.97.0-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-aarch64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.98.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.98.0/thclaws-v0.98.0-aarch64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.97.0-aarch64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-aarch64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.98.0-aarch64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.98.0/thclaws-v0.98.0-aarch64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "thclaws-v0.97.0-universal-apple-darwin.dmg",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-universal-apple-darwin.dmg"
+          "name": "thclaws-v0.98.0-universal-apple-darwin.dmg",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.98.0/thclaws-v0.98.0-universal-apple-darwin.dmg"
         },
         {
-          "name": "thclaws-v0.97.0-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-x86_64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.98.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.98.0/thclaws-v0.98.0-x86_64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.97.0-x86_64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.97.0/thclaws-v0.97.0-x86_64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.98.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.98.0/thclaws-v0.98.0-x86_64-unknown-linux-gnu.tar.gz"
         }
       ],
       "accent": "#6e7681"
