@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-19T06:43:39Z",
+  "generatedAt": "2026-07-20T07:30:29Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -1552,6 +1552,10 @@
         {
           "name": "YTDownloader_Mac_arm64.dmg",
           "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_arm64.dmg"
+        },
+        {
+          "name": "YTDownloader_Mac_x64.dmg",
+          "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1616,13 +1620,17 @@
       "description": "The music player of today! :city_sunrise:",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Taiko2k/Tauon",
-      "release": "v11.0.0",
-      "updatedAt": "2026-07-14T09:42:58Z",
+      "release": "v11.1.0",
+      "updatedAt": "2026-07-19T08:39:02Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Tauon-signed.dmg",
-          "url": "https://github.com/Taiko2k/Tauon/releases/download/v11.0.0/Tauon-signed.dmg"
+          "url": "https://github.com/Taiko2k/Tauon/releases/download/v11.1.0/Tauon-signed.dmg"
+        },
+        {
+          "name": "Tauon.dmg",
+          "url": "https://github.com/Taiko2k/Tauon/releases/download/v11.1.0/Tauon.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1633,17 +1641,17 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.58.0",
-      "updatedAt": "2026-07-07T18:06:15Z",
+      "release": "v0.58.1",
+      "updatedAt": "2026-07-20T04:40:22Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.58.0-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.0/CodePilot-0.58.0-arm64.dmg"
+          "name": "CodePilot-0.58.1-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.1/CodePilot-0.58.1-arm64.dmg"
         },
         {
-          "name": "CodePilot-0.58.0-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.0/CodePilot-0.58.0-x64.dmg"
+          "name": "CodePilot-0.58.1-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.1/CodePilot-0.58.1-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2745,37 +2753,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.20.0",
-      "updatedAt": "2026-07-19T05:34:01Z",
+      "release": "v0.20.1",
+      "updatedAt": "2026-07-19T10:53:46Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.20.0-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/hope-agent-0.20.0-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.20.1-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/hope-agent-0.20.1-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.20.0-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/hope-agent-0.20.0-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.20.1-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/hope-agent-0.20.1-linux-aarch64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.20.0-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/Hope.Agent-0.20.0-1.x86_64.rpm"
+          "name": "hope-agent-0.20.1-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/hope-agent-0.20.1-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent_0.20.0_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/Hope.Agent_0.20.0_aarch64.dmg"
+          "name": "Hope.Agent-0.20.1-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent-0.20.1-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent_0.20.0_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/Hope.Agent_0.20.0_amd64.AppImage"
+          "name": "Hope.Agent-0.20.1-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent-0.20.1-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.20.0_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/Hope.Agent_0.20.0_amd64.deb"
+          "name": "Hope.Agent_0.20.1_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_aarch64.AppImage"
+        },
+        {
+          "name": "Hope.Agent_0.20.1_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_aarch64.dmg"
+        },
+        {
+          "name": "Hope.Agent_0.20.1_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_amd64.AppImage"
+        },
+        {
+          "name": "Hope.Agent_0.20.1_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_amd64.deb"
+        },
+        {
+          "name": "Hope.Agent_0.20.1_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.0/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3005,25 +3029,25 @@
       "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "release": "v2.5.7",
-      "updatedAt": "2026-07-14T14:37:02Z",
+      "release": "v2.5.8",
+      "updatedAt": "2026-07-20T06:52:08Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Locally.Uncensored-2.5.7-1.x86_64.rpm",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.7/Locally.Uncensored-2.5.7-1.x86_64.rpm"
+          "name": "Locally.Uncensored-2.5.8-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored-2.5.8-1.x86_64.rpm"
         },
         {
-          "name": "Locally.Uncensored_2.5.7_amd64.AppImage",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.7/Locally.Uncensored_2.5.7_amd64.AppImage"
+          "name": "Locally.Uncensored_2.5.8_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored_2.5.8_amd64.AppImage"
         },
         {
-          "name": "Locally.Uncensored_2.5.7_amd64.AppImage.tar.gz",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.7/Locally.Uncensored_2.5.7_amd64.AppImage.tar.gz"
+          "name": "Locally.Uncensored_2.5.8_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored_2.5.8_amd64.AppImage.tar.gz"
         },
         {
-          "name": "Locally.Uncensored_2.5.7_amd64.deb",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.7/Locally.Uncensored_2.5.7_amd64.deb"
+          "name": "Locally.Uncensored_2.5.8_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored_2.5.8_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3142,25 +3166,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.1",
+      "release": "5.0.2",
       "updatedAt": "2026-07-18T01:30:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.1-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.1/Pixeval-5.0.1-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.2-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.1-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.1/Pixeval-5.0.1-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.2-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.1-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.1/Pixeval-5.0.1-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.2-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.1-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.1/Pixeval-5.0.1-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.2-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3202,6 +3226,43 @@
         {
           "name": "LiveAgent-v1.1.4-macOS-x64.dmg",
           "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-macOS-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "devin-axis--ipollowork",
+      "name": "iPolloWork",
+      "description": "Next-gen, source-available alternative to Codex and Claude Code \u2014 one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Devin-AXIS/iPolloWork",
+      "release": "v0.17.28",
+      "updatedAt": "2026-07-20T04:55:52Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ipollowork-linux-arm64-0.17.28.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-arm64-0.17.28.AppImage"
+        },
+        {
+          "name": "ipollowork-linux-arm64-0.17.28.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-arm64-0.17.28.tar.gz"
+        },
+        {
+          "name": "ipollowork-linux-x64-0.17.28.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-x64-0.17.28.tar.gz"
+        },
+        {
+          "name": "ipollowork-linux-x86_64-0.17.28.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-x86_64-0.17.28.AppImage"
+        },
+        {
+          "name": "ipollowork-mac-arm64-0.17.28.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-mac-arm64-0.17.28.dmg"
+        },
+        {
+          "name": "ipollowork-mac-x64-0.17.28.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-mac-x64-0.17.28.dmg"
         }
       ],
       "accent": "#6e7681"
