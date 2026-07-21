@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-20T07:30:29Z",
+  "generatedAt": "2026-07-21T06:42:13Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -725,37 +725,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.43.0",
-      "updatedAt": "2026-07-16T11:00:56Z",
+      "release": "player@1.43.2",
+      "updatedAt": "2026-07-20T13:35:18Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.43.0-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear-1.43.0-1.x86_64.rpm"
+          "name": "Nuclear-1.43.2-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear-1.43.2-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.43.0_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_aarch64.dmg"
+          "name": "Nuclear_1.43.2_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.43.0_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_amd64.AppImage"
+          "name": "Nuclear_1.43.2_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.43.0_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_amd64.deb"
+          "name": "Nuclear_1.43.2_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_amd64.deb"
         },
         {
-          "name": "Nuclear_1.43.0_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_1.43.0_x64.dmg"
+          "name": "Nuclear_1.43.2_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.0/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -840,33 +840,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.15.1",
-      "updatedAt": "2026-07-16T23:17:59Z",
+      "release": "desktop-v1.16.0",
+      "updatedAt": "2026-07-20T21:16:36Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.15.1-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-1.15.1-arm64.dmg"
+          "name": "Superset-1.16.0-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.16.0/Superset-1.16.0-arm64.dmg"
         },
         {
-          "name": "superset-1.15.1-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/superset-1.15.1-x86_64.AppImage"
+          "name": "superset-1.16.0-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.16.0/superset-1.16.0-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.15.1.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-1.15.1.dmg"
+          "name": "Superset-1.16.0.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.16.0/Superset-1.16.0.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.16.0/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.16.0/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.15.1/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.16.0/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1202,25 +1202,25 @@
       "description": "Reqable issue track repo",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/reqable/reqable-app",
-      "release": "3.2.10",
-      "updatedAt": "2026-07-17T03:23:47Z",
+      "release": "3.2.13",
+      "updatedAt": "2026-07-21T04:03:14Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "reqable-app-linux-x86_64.AppImage",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-linux-x86_64.AppImage"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.13/reqable-app-linux-x86_64.AppImage"
         },
         {
           "name": "reqable-app-linux-x86_64.deb",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-linux-x86_64.deb"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.13/reqable-app-linux-x86_64.deb"
         },
         {
           "name": "reqable-app-macos-arm64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-macos-arm64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.13/reqable-app-macos-arm64.dmg"
         },
         {
           "name": "reqable-app-macos-x86_64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.10/reqable-app-macos-x86_64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.13/reqable-app-macos-x86_64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1368,161 +1368,161 @@
       "description": "\ud83d\udcfbTerminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/electerm/electerm",
-      "release": "v3.15.138",
-      "updatedAt": "2026-07-15T01:28:15Z",
+      "release": "v3.15.159",
+      "updatedAt": "2026-07-21T01:15:43Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "electerm-3.15.138-linux-aarch64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-aarch64-legacy.rpm"
+          "name": "electerm-3.15.159-linux-aarch64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-aarch64-legacy.rpm"
         },
         {
-          "name": "electerm-3.15.138-linux-aarch64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-aarch64.rpm"
+          "name": "electerm-3.15.159-linux-aarch64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-aarch64.rpm"
         },
         {
-          "name": "electerm-3.15.138-linux-amd64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-amd64-legacy.deb"
+          "name": "electerm-3.15.159-linux-amd64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-amd64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-amd64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-amd64.deb"
+          "name": "electerm-3.15.159-linux-amd64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-amd64.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-arm64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-arm64-legacy.AppImage"
+          "name": "electerm-3.15.159-linux-arm64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64-legacy.AppImage"
         },
         {
-          "name": "electerm-3.15.138-linux-arm64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-arm64-legacy.deb"
+          "name": "electerm-3.15.159-linux-arm64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-arm64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-arm64-legacy.tar.gz"
+          "name": "electerm-3.15.159-linux-arm64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-arm64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-arm64.AppImage"
+          "name": "electerm-3.15.159-linux-arm64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64.AppImage"
         },
         {
-          "name": "electerm-3.15.138-linux-arm64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-arm64.deb"
+          "name": "electerm-3.15.159-linux-arm64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-arm64.tar.gz"
+          "name": "electerm-3.15.159-linux-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l-legacy.AppImage"
+          "name": "electerm-3.15.159-linux-armv7l-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.AppImage"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l-legacy.deb"
+          "name": "electerm-3.15.159-linux-armv7l-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l-legacy.rpm"
+          "name": "electerm-3.15.159-linux-armv7l-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.rpm"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l-legacy.tar.gz"
+          "name": "electerm-3.15.159-linux-armv7l-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l.AppImage"
+          "name": "electerm-3.15.159-linux-armv7l.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.AppImage"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l.deb"
+          "name": "electerm-3.15.159-linux-armv7l.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l.rpm"
+          "name": "electerm-3.15.159-linux-armv7l.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.rpm"
         },
         {
-          "name": "electerm-3.15.138-linux-armv7l.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-armv7l.tar.gz"
+          "name": "electerm-3.15.159-linux-armv7l.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-loong64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-loong64-legacy.deb"
+          "name": "electerm-3.15.159-linux-loong64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-loong64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-loong64-legacy.tar.gz"
+          "name": "electerm-3.15.159-linux-loong64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-loong64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-loong64.deb"
+          "name": "electerm-3.15.159-linux-loong64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-loong64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-loong64.tar.gz"
+          "name": "electerm-3.15.159-linux-loong64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-loongarch64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-loongarch64-legacy.deb"
+          "name": "electerm-3.15.159-linux-loongarch64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loongarch64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-loongarch64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-loongarch64.deb"
+          "name": "electerm-3.15.159-linux-loongarch64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loongarch64.deb"
         },
         {
-          "name": "electerm-3.15.138-linux-x64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-x64-legacy.tar.gz"
+          "name": "electerm-3.15.159-linux-x64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x64-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-x64.tar.gz"
+          "name": "electerm-3.15.159-linux-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x64.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-linux-x86_64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-x86_64-legacy.AppImage"
+          "name": "electerm-3.15.159-linux-x86_64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64-legacy.AppImage"
         },
         {
-          "name": "electerm-3.15.138-linux-x86_64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-x86_64-legacy.rpm"
+          "name": "electerm-3.15.159-linux-x86_64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64-legacy.rpm"
         },
         {
-          "name": "electerm-3.15.138-linux-x86_64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-x86_64.AppImage"
+          "name": "electerm-3.15.159-linux-x86_64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64.AppImage"
         },
         {
-          "name": "electerm-3.15.138-linux-x86_64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-linux-x86_64.rpm"
+          "name": "electerm-3.15.159-linux-x86_64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64.rpm"
         },
         {
-          "name": "electerm-3.15.138-mac-arm64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-mac-arm64.dmg"
+          "name": "electerm-3.15.159-mac-arm64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-mac-arm64.dmg"
         },
         {
-          "name": "electerm-3.15.138-mac-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-mac-x64.dmg"
+          "name": "electerm-3.15.159-mac-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-mac-x64.dmg"
         },
         {
-          "name": "electerm-3.15.138-mac10-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-mac10-x64.dmg"
+          "name": "electerm-3.15.159-mac10-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-mac10-x64.dmg"
         },
         {
-          "name": "electerm-3.15.138-win-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-win-arm64.tar.gz"
+          "name": "electerm-3.15.159-win-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-arm64.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-win-x64-loose.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-win-x64-loose.tar.gz"
+          "name": "electerm-3.15.159-win-x64-loose.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-x64-loose.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-win-x64-portable.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-win-x64-portable.tar.gz"
+          "name": "electerm-3.15.159-win-x64-portable.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-x64-portable.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-win-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-win-x64.tar.gz"
+          "name": "electerm-3.15.159-win-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-x64.tar.gz"
         },
         {
-          "name": "electerm-3.15.138-win7.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-win7.tar.gz"
+          "name": "electerm-3.15.159-win7.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win7.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1620,17 +1620,13 @@
       "description": "The music player of today! :city_sunrise:",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Taiko2k/Tauon",
-      "release": "v11.1.0",
-      "updatedAt": "2026-07-19T08:39:02Z",
+      "release": "v11.1.1",
+      "updatedAt": "2026-07-20T08:44:05Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Tauon-signed.dmg",
-          "url": "https://github.com/Taiko2k/Tauon/releases/download/v11.1.0/Tauon-signed.dmg"
-        },
-        {
-          "name": "Tauon.dmg",
-          "url": "https://github.com/Taiko2k/Tauon/releases/download/v11.1.0/Tauon.dmg"
+          "url": "https://github.com/Taiko2k/Tauon/releases/download/v11.1.1/Tauon-signed.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1641,17 +1637,17 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.58.1",
-      "updatedAt": "2026-07-20T04:40:22Z",
+      "release": "v0.58.4",
+      "updatedAt": "2026-07-20T13:58:20Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.58.1-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.1/CodePilot-0.58.1-arm64.dmg"
+          "name": "CodePilot-0.58.4-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.4/CodePilot-0.58.4-arm64.dmg"
         },
         {
-          "name": "CodePilot-0.58.1-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.1/CodePilot-0.58.1-x64.dmg"
+          "name": "CodePilot-0.58.4-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.58.4/CodePilot-0.58.4-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1938,17 +1934,17 @@
       "description": "Fast, free and customizable picture viewer",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Ruben2776/PicView",
-      "release": "4.2.0",
-      "updatedAt": "2026-03-29T13:24:16Z",
+      "release": "5.0.0",
+      "updatedAt": "2026-07-20T10:34:46Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "PicView-4.2.0-macOS-arm64.dmg",
-          "url": "https://github.com/Ruben2776/PicView/releases/download/4.2.0/PicView-4.2.0-macOS-arm64.dmg"
+          "name": "PicView-5.0.0-macOS-arm64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.0/PicView-5.0.0-macOS-arm64.dmg"
         },
         {
-          "name": "PicView-4.2.0-macOS-x64.dmg",
-          "url": "https://github.com/Ruben2776/PicView/releases/download/4.2.0/PicView-4.2.0-macOS-x64.dmg"
+          "name": "PicView-5.0.0-macOS-x64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.0/PicView-5.0.0-macOS-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2297,25 +2293,25 @@
       "description": "Handy tool set for developers",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/rememberber/MooTool",
-      "release": "next-electron-v1.0.1",
-      "updatedAt": "2026-07-18T00:36:11Z",
+      "release": "next-electron-v1.0.2",
+      "updatedAt": "2026-07-21T05:54:30Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "MooTool-Next-Electron-1.0.1-linux-x64.AppImage",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.1/MooTool-Next-Electron-1.0.1-linux-x64.AppImage"
+          "name": "MooTool-Next-Electron-1.0.2-linux-x64.AppImage",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.2/MooTool-Next-Electron-1.0.2-linux-x64.AppImage"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.1-linux-x64.deb",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.1/MooTool-Next-Electron-1.0.1-linux-x64.deb"
+          "name": "MooTool-Next-Electron-1.0.2-linux-x64.deb",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.2/MooTool-Next-Electron-1.0.2-linux-x64.deb"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.1-mac-arm64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.1/MooTool-Next-Electron-1.0.1-mac-arm64.dmg"
+          "name": "MooTool-Next-Electron-1.0.2-mac-arm64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.2/MooTool-Next-Electron-1.0.2-mac-arm64.dmg"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.1-mac-x64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.1/MooTool-Next-Electron-1.0.1-mac-x64.dmg"
+          "name": "MooTool-Next-Electron-1.0.2-mac-x64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.2/MooTool-Next-Electron-1.0.2-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2525,13 +2521,13 @@
       "description": "An offline macOS music player",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/kushalpandya/Petrichor",
-      "release": "v1.5.2",
-      "updatedAt": "2026-05-09T18:21:08Z",
+      "release": "v1.6.0",
+      "updatedAt": "2026-07-20T21:50:48Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Petrichor-1.5.2-Universal.dmg",
-          "url": "https://github.com/kushalpandya/Petrichor/releases/download/v1.5.2/Petrichor-1.5.2-Universal.dmg"
+          "name": "Petrichor-1.6.0-Universal.dmg",
+          "url": "https://github.com/kushalpandya/Petrichor/releases/download/v1.6.0/Petrichor-1.6.0-Universal.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2662,21 +2658,21 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.5.0",
-      "updatedAt": "2026-07-18T23:25:47Z",
+      "release": "v12.5.2",
+      "updatedAt": "2026-07-20T15:53:58Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.5.0-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.0/Skales-12.5.0-arm64.dmg"
+          "name": "Skales-12.5.2-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.2/Skales-12.5.2-arm64.dmg"
         },
         {
-          "name": "Skales-12.5.0-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.0/Skales-12.5.0-x64.dmg"
+          "name": "Skales-12.5.2-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.2/Skales-12.5.2-x64.dmg"
         },
         {
-          "name": "Skales-12.5.0-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.0/Skales-12.5.0-x86_64.AppImage"
+          "name": "Skales-12.5.2-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.2/Skales-12.5.2-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2753,53 +2749,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.20.1",
-      "updatedAt": "2026-07-19T10:53:46Z",
+      "release": "v0.21.0",
+      "updatedAt": "2026-07-20T20:43:26Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.20.1-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/hope-agent-0.20.1-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.21.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/hope-agent-0.21.0-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.20.1-linux-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/hope-agent-0.20.1-linux-aarch64.tar.gz"
+          "name": "hope-agent-0.21.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/hope-agent-0.21.0-linux-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.20.1-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/hope-agent-0.20.1-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.21.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/hope-agent-0.21.0-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.20.1-1.aarch64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent-0.20.1-1.aarch64.rpm"
+          "name": "Hope.Agent-0.21.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent-0.21.0-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent-0.20.1-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent-0.20.1-1.x86_64.rpm"
+          "name": "Hope.Agent-0.21.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent-0.21.0-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.20.1_aarch64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_aarch64.AppImage"
+          "name": "Hope.Agent_0.21.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent_0.21.0_aarch64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.20.1_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_aarch64.dmg"
+          "name": "Hope.Agent_0.21.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent_0.21.0_aarch64.dmg"
         },
         {
-          "name": "Hope.Agent_0.20.1_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_amd64.AppImage"
+          "name": "Hope.Agent_0.21.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent_0.21.0_amd64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.20.1_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_amd64.deb"
+          "name": "Hope.Agent_0.21.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent_0.21.0_amd64.deb"
         },
         {
-          "name": "Hope.Agent_0.20.1_arm64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_0.20.1_arm64.deb"
+          "name": "Hope.Agent_0.21.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent_0.21.0_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.20.1/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.21.0/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3195,37 +3191,37 @@
       "description": "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Stack-Cairn/LiveAgent",
-      "release": "v1.1.4",
-      "updatedAt": "2026-07-17T17:49:11Z",
+      "release": "v1.1.6",
+      "updatedAt": "2026-07-20T17:48:20Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "LiveAgent-v1.1.4-Linux-x86_64.AppImage",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-Linux-x86_64.AppImage"
+          "name": "LiveAgent-v1.1.6-Linux-x86_64.AppImage",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-Linux-x86_64.AppImage"
         },
         {
-          "name": "LiveAgent-v1.1.4-Linux-x86_64.deb",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-Linux-x86_64.deb"
+          "name": "LiveAgent-v1.1.6-Linux-x86_64.deb",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-Linux-x86_64.deb"
         },
         {
-          "name": "LiveAgent-v1.1.4-Linux-x86_64.rpm",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-Linux-x86_64.rpm"
+          "name": "LiveAgent-v1.1.6-Linux-x86_64.rpm",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-Linux-x86_64.rpm"
         },
         {
-          "name": "LiveAgent-v1.1.4-macOS-aarch64.app.tar.gz",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-macOS-aarch64.app.tar.gz"
+          "name": "LiveAgent-v1.1.6-macOS-aarch64.app.tar.gz",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-macOS-aarch64.app.tar.gz"
         },
         {
-          "name": "LiveAgent-v1.1.4-macOS-aarch64.dmg",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-macOS-aarch64.dmg"
+          "name": "LiveAgent-v1.1.6-macOS-aarch64.dmg",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-macOS-aarch64.dmg"
         },
         {
-          "name": "LiveAgent-v1.1.4-macOS-x64.app.tar.gz",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-macOS-x64.app.tar.gz"
+          "name": "LiveAgent-v1.1.6-macOS-x64.app.tar.gz",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-macOS-x64.app.tar.gz"
         },
         {
-          "name": "LiveAgent-v1.1.4-macOS-x64.dmg",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.4/LiveAgent-v1.1.4-macOS-x64.dmg"
+          "name": "LiveAgent-v1.1.6-macOS-x64.dmg",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.1.6/LiveAgent-v1.1.6-macOS-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3236,33 +3232,33 @@
       "description": "Next-gen, source-available alternative to Codex and Claude Code \u2014 one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Devin-AXIS/iPolloWork",
-      "release": "v0.17.28",
-      "updatedAt": "2026-07-20T04:55:52Z",
+      "release": "v0.17.32",
+      "updatedAt": "2026-07-20T19:33:08Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ipollowork-linux-arm64-0.17.28.AppImage",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-arm64-0.17.28.AppImage"
+          "name": "ipollowork-linux-arm64-0.17.32.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.32/ipollowork-linux-arm64-0.17.32.AppImage"
         },
         {
-          "name": "ipollowork-linux-arm64-0.17.28.tar.gz",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-arm64-0.17.28.tar.gz"
+          "name": "ipollowork-linux-arm64-0.17.32.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.32/ipollowork-linux-arm64-0.17.32.tar.gz"
         },
         {
-          "name": "ipollowork-linux-x64-0.17.28.tar.gz",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-x64-0.17.28.tar.gz"
+          "name": "ipollowork-linux-x64-0.17.32.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.32/ipollowork-linux-x64-0.17.32.tar.gz"
         },
         {
-          "name": "ipollowork-linux-x86_64-0.17.28.AppImage",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-linux-x86_64-0.17.28.AppImage"
+          "name": "ipollowork-linux-x86_64-0.17.32.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.32/ipollowork-linux-x86_64-0.17.32.AppImage"
         },
         {
-          "name": "ipollowork-mac-arm64-0.17.28.dmg",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-mac-arm64-0.17.28.dmg"
+          "name": "ipollowork-mac-arm64-0.17.32.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.32/ipollowork-mac-arm64-0.17.32.dmg"
         },
         {
-          "name": "ipollowork-mac-x64-0.17.28.dmg",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.28/ipollowork-mac-x64-0.17.28.dmg"
+          "name": "ipollowork-mac-x64-0.17.32.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.17.32/ipollowork-mac-x64-0.17.32.dmg"
         }
       ],
       "accent": "#6e7681"
