@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-23T06:40:46Z",
+  "generatedAt": "2026-07-24T06:40:26Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -549,17 +549,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.16.0",
-      "updatedAt": "2026-07-22T14:42:37Z",
+      "release": "open-design-v0.16.1",
+      "updatedAt": "2026-07-23T16:11:51Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.16.0-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.16.0/open-design-0.16.0-mac-arm64.dmg"
+          "name": "open-design-0.16.1-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.16.1/open-design-0.16.1-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.16.0-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.16.0/open-design-0.16.0-mac-x64.dmg"
+          "name": "open-design-0.16.1-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.16.1/open-design-0.16.1-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1934,17 +1934,17 @@
       "description": "Fast, free and customizable picture viewer",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Ruben2776/PicView",
-      "release": "5.0.0",
-      "updatedAt": "2026-07-20T10:34:46Z",
+      "release": "5.0.1",
+      "updatedAt": "2026-07-23T09:49:01Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "PicView-5.0.0-macOS-arm64.dmg",
-          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.0/PicView-5.0.0-macOS-arm64.dmg"
+          "name": "PicView-5.0.1-macOS-arm64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.1/PicView-5.0.1-macOS-arm64.dmg"
         },
         {
-          "name": "PicView-5.0.0-macOS-x64.dmg",
-          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.0/PicView-5.0.0-macOS-x64.dmg"
+          "name": "PicView-5.0.1-macOS-x64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.1/PicView-5.0.1-macOS-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1976,29 +1976,29 @@
       "description": "\ud83e\udd9e OpenClaw & Hermes Agent \u591a\u5f15\u64ce AI \u7ba1\u7406\u9762\u677f \u2014 \u5185\u7f6e AI \u52a9\u624b\uff08\u5de5\u5177\u8c03\u7528 + \u56fe\u7247\u8bc6\u522b + \u591a\u6a21\u6001\uff09\uff0c\u4e00\u952e\u5b89\u88c5 | Tauri v2 \u8de8\u5e73\u53f0\u684c\u9762\u5e94\u7528 | 11 \u79cd\u8bed\u8a00",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/qingchencloud/clawpanel",
-      "release": "v0.19.0",
-      "updatedAt": "2026-07-15T09:08:56Z",
+      "release": "v0.19.1",
+      "updatedAt": "2026-07-23T19:18:49Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ClawPanel-0.19.0-1.x86_64.rpm",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel-0.19.0-1.x86_64.rpm"
+          "name": "ClawPanel-0.19.1-1.x86_64.rpm",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel-0.19.1-1.x86_64.rpm"
         },
         {
-          "name": "ClawPanel_0.19.0_aarch64.dmg",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_aarch64.dmg"
+          "name": "ClawPanel_0.19.1_aarch64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_aarch64.dmg"
         },
         {
-          "name": "ClawPanel_0.19.0_amd64.AppImage",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_amd64.AppImage"
+          "name": "ClawPanel_0.19.1_amd64.AppImage",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_amd64.AppImage"
         },
         {
-          "name": "ClawPanel_0.19.0_amd64.deb",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_amd64.deb"
+          "name": "ClawPanel_0.19.1_amd64.deb",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_amd64.deb"
         },
         {
-          "name": "ClawPanel_0.19.0_x64.dmg",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.0/ClawPanel_0.19.0_x64.dmg"
+          "name": "ClawPanel_0.19.1_x64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2430,17 +2430,17 @@
       "description": "Describe what you need \u2014 a presentation, lesson, or story \u2014 and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/arcsin1/oh-my-ppt",
-      "release": "v2.0.20",
-      "updatedAt": "2026-07-12T04:27:55Z",
+      "release": "v2.1.0",
+      "updatedAt": "2026-07-24T05:45:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "oh-my-ppt-2.0.20-mac_arm64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.0.20/oh-my-ppt-2.0.20-mac_arm64.dmg"
+          "name": "oh-my-ppt-2.1.0-mac_arm64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.1.0/oh-my-ppt-2.1.0-mac_arm64.dmg"
         },
         {
-          "name": "oh-my-ppt-2.0.20-mac_x64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.0.20/oh-my-ppt-2.0.20-mac_x64.dmg"
+          "name": "oh-my-ppt-2.1.0-mac_x64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.1.0/oh-my-ppt-2.1.0-mac_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2559,29 +2559,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.109.0",
-      "updatedAt": "2026-07-22T10:04:14Z",
+      "release": "v1.110.0",
+      "updatedAt": "2026-07-23T06:55:42Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.109.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.109.0/lime-1.109.0-darwin-amd64.tar.gz"
+          "name": "lime-1.110.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.110.0/lime-1.110.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.109.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.109.0/lime-1.109.0-darwin-arm64.tar.gz"
+          "name": "lime-1.110.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.110.0/lime-1.110.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.109.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.109.0/lime-1.109.0-linux-amd64.tar.gz"
+          "name": "lime-1.110.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.110.0/lime-1.110.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.109.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.109.0/macos-arm64-Lime-1.109.0.dmg"
+          "name": "macos-arm64-Lime-1.110.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.110.0/macos-arm64-Lime-1.110.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.109.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.109.0/macos-x64-Lime-1.109.0.dmg"
+          "name": "macos-x64-Lime-1.110.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.110.0/macos-x64-Lime-1.110.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3137,21 +3137,21 @@
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "release": "v0.7.0",
-      "updatedAt": "2026-07-12T16:43:09Z",
+      "release": "v0.7.1",
+      "updatedAt": "2026-07-23T16:44:59Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "GitHub.Stars.Manager-0.7.0-arm64.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.0/GitHub.Stars.Manager-0.7.0-arm64.dmg"
+          "name": "GitHub.Stars.Manager-0.7.1-arm64.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.1/GitHub.Stars.Manager-0.7.1-arm64.dmg"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.0.AppImage",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.0/GitHub.Stars.Manager-0.7.0.AppImage"
+          "name": "GitHub.Stars.Manager-0.7.1.AppImage",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.1/GitHub.Stars.Manager-0.7.1.AppImage"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.0.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.0/GitHub.Stars.Manager-0.7.0.dmg"
+          "name": "GitHub.Stars.Manager-0.7.1.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.1/GitHub.Stars.Manager-0.7.1.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3162,25 +3162,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.2",
+      "release": "5.0.3",
       "updatedAt": "2026-07-18T01:30:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.2-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.3-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.2-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.3-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.2-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.3-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.2-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.2/Pixeval-5.0.2-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.3-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3320,6 +3320,43 @@
         {
           "name": "AltSendme_0.6.0_x64.dmg",
           "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.0/AltSendme_0.6.0_x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "ai4s-research--open-science",
+      "name": "open-science",
+      "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/ai4s-research/open-science",
+      "release": "v0.2.5",
+      "updatedAt": "2026-07-24T02:13:44Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Open.Science-0.2.5-1.x86_64.rpm",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.2.5/Open.Science-0.2.5-1.x86_64.rpm"
+        },
+        {
+          "name": "Open.Science_0.2.5_aarch64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.2.5/Open.Science_0.2.5_aarch64.dmg"
+        },
+        {
+          "name": "Open.Science_0.2.5_amd64.deb",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.2.5/Open.Science_0.2.5_amd64.deb"
+        },
+        {
+          "name": "Open.Science_0.2.5_x64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.2.5/Open.Science_0.2.5_x64.dmg"
+        },
+        {
+          "name": "Open.Science_aarch64.app.tar.gz",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.2.5/Open.Science_aarch64.app.tar.gz"
+        },
+        {
+          "name": "Open.Science_x64.app.tar.gz",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.2.5/Open.Science_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
