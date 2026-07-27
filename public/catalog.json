@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-26T06:49:18Z",
+  "generatedAt": "2026-07-27T07:52:32Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -1202,25 +1202,25 @@
       "description": "Reqable issue track repo",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/reqable/reqable-app",
-      "release": "3.2.14",
-      "updatedAt": "2026-07-24T09:49:40Z",
+      "release": "3.2.15",
+      "updatedAt": "2026-07-26T19:56:27Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "reqable-app-linux-x86_64.AppImage",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.14/reqable-app-linux-x86_64.AppImage"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.15/reqable-app-linux-x86_64.AppImage"
         },
         {
           "name": "reqable-app-linux-x86_64.deb",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.14/reqable-app-linux-x86_64.deb"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.15/reqable-app-linux-x86_64.deb"
         },
         {
           "name": "reqable-app-macos-arm64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.14/reqable-app-macos-arm64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.15/reqable-app-macos-arm64.dmg"
         },
         {
           "name": "reqable-app-macos-x86_64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.14/reqable-app-macos-x86_64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.15/reqable-app-macos-x86_64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1368,161 +1368,161 @@
       "description": "\ud83d\udcfbTerminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/electerm/electerm",
-      "release": "v3.15.159",
-      "updatedAt": "2026-07-21T01:15:43Z",
+      "release": "v3.15.171",
+      "updatedAt": "2026-07-26T23:04:46Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "electerm-3.15.159-linux-aarch64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-aarch64-legacy.rpm"
+          "name": "electerm-3.15.171-linux-aarch64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-aarch64-legacy.rpm"
         },
         {
-          "name": "electerm-3.15.159-linux-aarch64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-aarch64.rpm"
+          "name": "electerm-3.15.171-linux-aarch64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-aarch64.rpm"
         },
         {
-          "name": "electerm-3.15.159-linux-amd64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-amd64-legacy.deb"
+          "name": "electerm-3.15.171-linux-amd64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-amd64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-amd64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-amd64.deb"
+          "name": "electerm-3.15.171-linux-amd64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-amd64.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-arm64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64-legacy.AppImage"
+          "name": "electerm-3.15.171-linux-arm64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-arm64-legacy.AppImage"
         },
         {
-          "name": "electerm-3.15.159-linux-arm64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64-legacy.deb"
+          "name": "electerm-3.15.171-linux-arm64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-arm64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-arm64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64-legacy.tar.gz"
+          "name": "electerm-3.15.171-linux-arm64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-arm64-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-arm64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64.AppImage"
+          "name": "electerm-3.15.171-linux-arm64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-arm64.AppImage"
         },
         {
-          "name": "electerm-3.15.159-linux-arm64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64.deb"
+          "name": "electerm-3.15.171-linux-arm64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-arm64.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-arm64.tar.gz"
+          "name": "electerm-3.15.171-linux-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-arm64.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.AppImage"
+          "name": "electerm-3.15.171-linux-armv7l-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l-legacy.AppImage"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.deb"
+          "name": "electerm-3.15.171-linux-armv7l-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l-legacy.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.rpm"
+          "name": "electerm-3.15.171-linux-armv7l-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l-legacy.rpm"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l-legacy.tar.gz"
+          "name": "electerm-3.15.171-linux-armv7l-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.AppImage"
+          "name": "electerm-3.15.171-linux-armv7l.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l.AppImage"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.deb"
+          "name": "electerm-3.15.171-linux-armv7l.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.rpm"
+          "name": "electerm-3.15.171-linux-armv7l.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l.rpm"
         },
         {
-          "name": "electerm-3.15.159-linux-armv7l.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-armv7l.tar.gz"
+          "name": "electerm-3.15.171-linux-armv7l.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-armv7l.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-loong64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64-legacy.deb"
+          "name": "electerm-3.15.171-linux-loong64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-loong64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-loong64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64-legacy.tar.gz"
+          "name": "electerm-3.15.171-linux-loong64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-loong64-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-loong64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64.deb"
+          "name": "electerm-3.15.171-linux-loong64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-loong64.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-loong64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loong64.tar.gz"
+          "name": "electerm-3.15.171-linux-loong64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-loong64.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-loongarch64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loongarch64-legacy.deb"
+          "name": "electerm-3.15.171-linux-loongarch64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-loongarch64-legacy.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-loongarch64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-loongarch64.deb"
+          "name": "electerm-3.15.171-linux-loongarch64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-loongarch64.deb"
         },
         {
-          "name": "electerm-3.15.159-linux-x64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x64-legacy.tar.gz"
+          "name": "electerm-3.15.171-linux-x64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-x64-legacy.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x64.tar.gz"
+          "name": "electerm-3.15.171-linux-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-x64.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-linux-x86_64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64-legacy.AppImage"
+          "name": "electerm-3.15.171-linux-x86_64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-x86_64-legacy.AppImage"
         },
         {
-          "name": "electerm-3.15.159-linux-x86_64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64-legacy.rpm"
+          "name": "electerm-3.15.171-linux-x86_64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-x86_64-legacy.rpm"
         },
         {
-          "name": "electerm-3.15.159-linux-x86_64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64.AppImage"
+          "name": "electerm-3.15.171-linux-x86_64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-x86_64.AppImage"
         },
         {
-          "name": "electerm-3.15.159-linux-x86_64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-linux-x86_64.rpm"
+          "name": "electerm-3.15.171-linux-x86_64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-linux-x86_64.rpm"
         },
         {
-          "name": "electerm-3.15.159-mac-arm64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-mac-arm64.dmg"
+          "name": "electerm-3.15.171-mac-arm64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-mac-arm64.dmg"
         },
         {
-          "name": "electerm-3.15.159-mac-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-mac-x64.dmg"
+          "name": "electerm-3.15.171-mac-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-mac-x64.dmg"
         },
         {
-          "name": "electerm-3.15.159-mac10-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-mac10-x64.dmg"
+          "name": "electerm-3.15.171-mac10-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-mac10-x64.dmg"
         },
         {
-          "name": "electerm-3.15.159-win-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-arm64.tar.gz"
+          "name": "electerm-3.15.171-win-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-win-arm64.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-win-x64-loose.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-x64-loose.tar.gz"
+          "name": "electerm-3.15.171-win-x64-loose.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-win-x64-loose.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-win-x64-portable.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-x64-portable.tar.gz"
+          "name": "electerm-3.15.171-win-x64-portable.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-win-x64-portable.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-win-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win-x64.tar.gz"
+          "name": "electerm-3.15.171-win-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-win-x64.tar.gz"
         },
         {
-          "name": "electerm-3.15.159-win7.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v3.15.159/electerm-3.15.159-win7.tar.gz"
+          "name": "electerm-3.15.171-win7.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v3.15.171/electerm-3.15.171-win7.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2293,25 +2293,25 @@
       "description": "Handy tool set for developers",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/rememberber/MooTool",
-      "release": "next-electron-v1.0.7",
-      "updatedAt": "2026-07-22T15:29:22Z",
+      "release": "next-electron-v1.0.8",
+      "updatedAt": "2026-07-26T14:19:28Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "MooTool-Next-Electron-1.0.7-linux-x64.AppImage",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.7/MooTool-Next-Electron-1.0.7-linux-x64.AppImage"
+          "name": "MooTool-Next-Electron-1.0.8-linux-x64.AppImage",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.8/MooTool-Next-Electron-1.0.8-linux-x64.AppImage"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.7-linux-x64.deb",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.7/MooTool-Next-Electron-1.0.7-linux-x64.deb"
+          "name": "MooTool-Next-Electron-1.0.8-linux-x64.deb",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.8/MooTool-Next-Electron-1.0.8-linux-x64.deb"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.7-mac-arm64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.7/MooTool-Next-Electron-1.0.7-mac-arm64.dmg"
+          "name": "MooTool-Next-Electron-1.0.8-mac-arm64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.8/MooTool-Next-Electron-1.0.8-mac-arm64.dmg"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.7-mac-x64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.7/MooTool-Next-Electron-1.0.7-mac-x64.dmg"
+          "name": "MooTool-Next-Electron-1.0.8-mac-x64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.8/MooTool-Next-Electron-1.0.8-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2559,29 +2559,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.111.0",
-      "updatedAt": "2026-07-24T15:59:42Z",
+      "release": "v1.113.0",
+      "updatedAt": "2026-07-26T18:25:59Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.111.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.111.0/lime-1.111.0-darwin-amd64.tar.gz"
+          "name": "lime-1.113.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.113.0/lime-1.113.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.111.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.111.0/lime-1.111.0-darwin-arm64.tar.gz"
+          "name": "lime-1.113.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.113.0/lime-1.113.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.111.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.111.0/lime-1.111.0-linux-amd64.tar.gz"
+          "name": "lime-1.113.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.113.0/lime-1.113.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.111.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.111.0/macos-arm64-Lime-1.111.0.dmg"
+          "name": "macos-arm64-Lime-1.113.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.113.0/macos-arm64-Lime-1.113.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.111.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.111.0/macos-x64-Lime-1.111.0.dmg"
+          "name": "macos-x64-Lime-1.113.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.113.0/macos-x64-Lime-1.113.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2716,29 +2716,29 @@
       "description": "Open-source AI agent harness in native Rust \u2014 GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/thClaws/thClaws",
-      "release": "v0.102.0",
-      "updatedAt": "2026-07-23T02:35:34Z",
+      "release": "v0.106.0",
+      "updatedAt": "2026-07-27T02:19:41Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "thclaws-v0.102.0-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.102.0/thclaws-v0.102.0-aarch64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.106.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.106.0/thclaws-v0.106.0-aarch64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.102.0-aarch64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.102.0/thclaws-v0.102.0-aarch64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.106.0-aarch64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.106.0/thclaws-v0.106.0-aarch64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "thclaws-v0.102.0-universal-apple-darwin.dmg",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.102.0/thclaws-v0.102.0-universal-apple-darwin.dmg"
+          "name": "thclaws-v0.106.0-universal-apple-darwin.dmg",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.106.0/thclaws-v0.106.0-universal-apple-darwin.dmg"
         },
         {
-          "name": "thclaws-v0.102.0-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.102.0/thclaws-v0.102.0-x86_64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.106.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.106.0/thclaws-v0.106.0-x86_64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.102.0-x86_64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.102.0/thclaws-v0.102.0-x86_64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.106.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.106.0/thclaws-v0.106.0-x86_64-unknown-linux-gnu.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3025,25 +3025,25 @@
       "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "release": "v2.5.8",
-      "updatedAt": "2026-07-20T06:52:08Z",
+      "release": "v2.5.9",
+      "updatedAt": "2026-07-26T10:28:48Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Locally.Uncensored-2.5.8-1.x86_64.rpm",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored-2.5.8-1.x86_64.rpm"
+          "name": "Locally.Uncensored-2.5.9-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.9/Locally.Uncensored-2.5.9-1.x86_64.rpm"
         },
         {
-          "name": "Locally.Uncensored_2.5.8_amd64.AppImage",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored_2.5.8_amd64.AppImage"
+          "name": "Locally.Uncensored_2.5.9_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.9/Locally.Uncensored_2.5.9_amd64.AppImage"
         },
         {
-          "name": "Locally.Uncensored_2.5.8_amd64.AppImage.tar.gz",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored_2.5.8_amd64.AppImage.tar.gz"
+          "name": "Locally.Uncensored_2.5.9_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.9/Locally.Uncensored_2.5.9_amd64.AppImage.tar.gz"
         },
         {
-          "name": "Locally.Uncensored_2.5.8_amd64.deb",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.8/Locally.Uncensored_2.5.8_amd64.deb"
+          "name": "Locally.Uncensored_2.5.9_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.9/Locally.Uncensored_2.5.9_amd64.deb"
         }
       ],
       "accent": "#6e7681"
