@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T06:41:36Z",
+  "generatedAt": "2026-07-29T06:45:59Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -840,33 +840,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.17.0",
-      "updatedAt": "2026-07-24T21:08:55Z",
+      "release": "desktop-v1.18.1",
+      "updatedAt": "2026-07-28T21:58:30Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.17.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.17.0/Superset-1.17.0-arm64.dmg"
+          "name": "Superset-1.18.1-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-1.18.1-arm64.dmg"
         },
         {
-          "name": "superset-1.17.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.17.0/superset-1.17.0-x86_64.AppImage"
+          "name": "superset-1.18.1-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/superset-1.18.1-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.17.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.17.0/Superset-1.17.0.dmg"
+          "name": "Superset-1.18.1.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-1.18.1.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.17.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.17.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.17.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1149,49 +1149,49 @@
       "description": "Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media downloads via yt-dlp (1.800+ sites). Extensible plugin system.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/tonhowtf/omniget",
-      "release": "v0.7.5",
-      "updatedAt": "2026-07-28T05:20:31Z",
+      "release": "v0.7.7",
+      "updatedAt": "2026-07-29T00:39:18Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "omniget-0.7.5-1.aarch64.rpm",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget-0.7.5-1.aarch64.rpm"
+          "name": "omniget-0.7.7-1.aarch64.rpm",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget-0.7.7-1.aarch64.rpm"
         },
         {
-          "name": "omniget-0.7.5-1.x86_64.rpm",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget-0.7.5-1.x86_64.rpm"
+          "name": "omniget-0.7.7-1.x86_64.rpm",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget-0.7.7-1.x86_64.rpm"
         },
         {
-          "name": "omniget_0.7.5_aarch64.AppImage",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_0.7.5_aarch64.AppImage"
+          "name": "omniget_0.7.7_aarch64.AppImage",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_0.7.7_aarch64.AppImage"
         },
         {
-          "name": "omniget_0.7.5_aarch64.dmg",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_0.7.5_aarch64.dmg"
+          "name": "omniget_0.7.7_aarch64.dmg",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_0.7.7_aarch64.dmg"
         },
         {
-          "name": "omniget_0.7.5_amd64.AppImage",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_0.7.5_amd64.AppImage"
+          "name": "omniget_0.7.7_amd64.AppImage",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_0.7.7_amd64.AppImage"
         },
         {
-          "name": "omniget_0.7.5_amd64.deb",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_0.7.5_amd64.deb"
+          "name": "omniget_0.7.7_amd64.deb",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_0.7.7_amd64.deb"
         },
         {
-          "name": "omniget_0.7.5_arm64.deb",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_0.7.5_arm64.deb"
+          "name": "omniget_0.7.7_arm64.deb",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_0.7.7_arm64.deb"
         },
         {
-          "name": "omniget_0.7.5_x64.dmg",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_0.7.5_x64.dmg"
+          "name": "omniget_0.7.7_x64.dmg",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_0.7.7_x64.dmg"
         },
         {
           "name": "omniget_aarch64.app.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_aarch64.app.tar.gz"
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_aarch64.app.tar.gz"
         },
         {
           "name": "omniget_x64.app.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.5/omniget_x64.app.tar.gz"
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.7.7/omniget_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1637,17 +1637,17 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.60.0",
-      "updatedAt": "2026-07-27T14:06:11Z",
+      "release": "v0.61.0",
+      "updatedAt": "2026-07-28T14:38:42Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.60.0-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.60.0/CodePilot-0.60.0-arm64.dmg"
+          "name": "CodePilot-0.61.0-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.61.0/CodePilot-0.61.0-arm64.dmg"
         },
         {
-          "name": "CodePilot-0.60.0-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.60.0/CodePilot-0.60.0-x64.dmg"
+          "name": "CodePilot-0.61.0-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.61.0/CodePilot-0.61.0-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2050,25 +2050,29 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/szTheory/exifcleaner",
-      "release": "v3.6.0",
-      "updatedAt": "2021-05-04T12:16:59Z",
+      "release": "v4.0.0",
+      "updatedAt": "2026-07-29T04:46:00Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ExifCleaner-3.6.0.AppImage",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.AppImage"
+          "name": "ExifCleaner-4.0.0-arm64.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0-arm64.dmg"
         },
         {
-          "name": "ExifCleaner-3.6.0.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.dmg"
+          "name": "ExifCleaner-4.0.0.AppImage",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0.AppImage"
         },
         {
-          "name": "exifcleaner-3.6.0.x86_64.rpm",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner-3.6.0.x86_64.rpm"
+          "name": "ExifCleaner-4.0.0.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0.dmg"
         },
         {
-          "name": "exifcleaner_3.6.0_amd64.deb",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner_3.6.0_amd64.deb"
+          "name": "exifcleaner-4.0.0.x86_64.rpm",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/exifcleaner-4.0.0.x86_64.rpm"
+        },
+        {
+          "name": "exifcleaner_4.0.0_amd64.deb",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/exifcleaner_4.0.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -2293,25 +2297,25 @@
       "description": "Handy tool set for developers",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/rememberber/MooTool",
-      "release": "next-electron-v1.0.9",
-      "updatedAt": "2026-07-27T16:14:01Z",
+      "release": "next-electron-v1.1.0",
+      "updatedAt": "2026-07-28T08:58:49Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "MooTool-Next-Electron-1.0.9-linux-x64.AppImage",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.9/MooTool-Next-Electron-1.0.9-linux-x64.AppImage"
+          "name": "MooTool-Next-Electron-1.1.0-linux-x64.AppImage",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-linux-x64.AppImage"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.9-linux-x64.deb",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.9/MooTool-Next-Electron-1.0.9-linux-x64.deb"
+          "name": "MooTool-Next-Electron-1.1.0-linux-x64.deb",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-linux-x64.deb"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.9-mac-arm64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.9/MooTool-Next-Electron-1.0.9-mac-arm64.dmg"
+          "name": "MooTool-Next-Electron-1.1.0-mac-arm64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-mac-arm64.dmg"
         },
         {
-          "name": "MooTool-Next-Electron-1.0.9-mac-x64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.0.9/MooTool-Next-Electron-1.0.9-mac-x64.dmg"
+          "name": "MooTool-Next-Electron-1.1.0-mac-x64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2559,29 +2563,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.114.0",
-      "updatedAt": "2026-07-27T16:15:19Z",
+      "release": "v1.115.0",
+      "updatedAt": "2026-07-28T17:16:00Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.114.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.114.0/lime-1.114.0-darwin-amd64.tar.gz"
+          "name": "lime-1.115.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.115.0/lime-1.115.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.114.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.114.0/lime-1.114.0-darwin-arm64.tar.gz"
+          "name": "lime-1.115.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.115.0/lime-1.115.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.114.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.114.0/lime-1.114.0-linux-amd64.tar.gz"
+          "name": "lime-1.115.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.115.0/lime-1.115.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.114.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.114.0/macos-arm64-Lime-1.114.0.dmg"
+          "name": "macos-arm64-Lime-1.115.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.115.0/macos-arm64-Lime-1.115.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.114.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.114.0/macos-x64-Lime-1.114.0.dmg"
+          "name": "macos-x64-Lime-1.115.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.115.0/macos-x64-Lime-1.115.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2749,53 +2753,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.24.0",
-      "updatedAt": "2026-07-28T02:08:35Z",
+      "release": "v0.25.0",
+      "updatedAt": "2026-07-28T15:20:40Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.24.0-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/hope-agent-0.24.0-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.25.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/hope-agent-0.25.0-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.24.0-linux-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/hope-agent-0.24.0-linux-aarch64.tar.gz"
+          "name": "hope-agent-0.25.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/hope-agent-0.25.0-linux-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.24.0-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/hope-agent-0.24.0-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.25.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/hope-agent-0.25.0-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.24.0-1.aarch64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent-0.24.0-1.aarch64.rpm"
+          "name": "Hope.Agent-0.25.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent-0.25.0-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent-0.24.0-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent-0.24.0-1.x86_64.rpm"
+          "name": "Hope.Agent-0.25.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent-0.25.0-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.24.0_aarch64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent_0.24.0_aarch64.AppImage"
+          "name": "Hope.Agent_0.25.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent_0.25.0_aarch64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.24.0_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent_0.24.0_aarch64.dmg"
+          "name": "Hope.Agent_0.25.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent_0.25.0_aarch64.dmg"
         },
         {
-          "name": "Hope.Agent_0.24.0_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent_0.24.0_amd64.AppImage"
+          "name": "Hope.Agent_0.25.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent_0.25.0_amd64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.24.0_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent_0.24.0_amd64.deb"
+          "name": "Hope.Agent_0.25.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent_0.25.0_amd64.deb"
         },
         {
-          "name": "Hope.Agent_0.24.0_arm64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent_0.24.0_arm64.deb"
+          "name": "Hope.Agent_0.25.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent_0.25.0_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.24.0/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.25.0/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3162,25 +3166,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.3",
+      "release": "5.0.4",
       "updatedAt": "2026-07-18T01:30:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.3-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.4-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.4/Pixeval-5.0.4-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.3-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.4-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.4/Pixeval-5.0.4-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.3-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.4-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.4/Pixeval-5.0.4-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.3-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.3/Pixeval-5.0.3-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.4-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.4/Pixeval-5.0.4-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3357,6 +3361,43 @@
         {
           "name": "Open.Science_x64.app.tar.gz",
           "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science_x64.app.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "nanmicoder--cc-haha",
+      "name": "cc-haha",
+      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/NanmiCoder/cc-haha",
+      "release": "v0.5.0",
+      "updatedAt": "2026-07-27T00:52:03Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Claude-Code-Haha-0.5.0-linux-amd64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.0/Claude-Code-Haha-0.5.0-linux-amd64.deb"
+        },
+        {
+          "name": "Claude-Code-Haha-0.5.0-linux-arm64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.0/Claude-Code-Haha-0.5.0-linux-arm64.AppImage"
+        },
+        {
+          "name": "Claude-Code-Haha-0.5.0-linux-arm64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.0/Claude-Code-Haha-0.5.0-linux-arm64.deb"
+        },
+        {
+          "name": "Claude-Code-Haha-0.5.0-linux-x86_64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.0/Claude-Code-Haha-0.5.0-linux-x86_64.AppImage"
+        },
+        {
+          "name": "Claude-Code-Haha-0.5.0-mac-arm64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.0/Claude-Code-Haha-0.5.0-mac-arm64.dmg"
+        },
+        {
+          "name": "Claude-Code-Haha-0.5.0-mac-x64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.0/Claude-Code-Haha-0.5.0-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
