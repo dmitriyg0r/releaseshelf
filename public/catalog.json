@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-31T07:14:31Z",
+  "generatedAt": "2026-08-01T06:41:21Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -399,101 +399,101 @@
       "description": "A command-line fuzzy finder for files, history, and processes.",
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/junegunn/fzf",
-      "release": "v0.74.1",
-      "updatedAt": "2026-07-18T12:54:00Z",
+      "release": "v0.74.2",
+      "updatedAt": "2026-08-01T00:17:03Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "fzf-0.74.1-android_arm64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-android_arm64.tar.gz"
+          "name": "fzf-0.74.2-android_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-android_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-darwin_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-darwin_amd64.tar.gz"
+          "name": "fzf-0.74.2-darwin_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-darwin_amd64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-darwin_arm64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-darwin_arm64.tar.gz"
+          "name": "fzf-0.74.2-darwin_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-darwin_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-freebsd_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-freebsd_amd64.tar.gz"
+          "name": "fzf-0.74.2-freebsd_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-freebsd_amd64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_amd64.tar.gz"
+          "name": "fzf-0.74.2-linux_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_amd64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_arm64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_arm64.tar.gz"
+          "name": "fzf-0.74.2-linux_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_armv5.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_armv5.tar.gz"
+          "name": "fzf-0.74.2-linux_armv5.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_armv5.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_armv6.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_armv6.tar.gz"
+          "name": "fzf-0.74.2-linux_armv6.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_armv6.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_armv7.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_armv7.tar.gz"
+          "name": "fzf-0.74.2-linux_armv7.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_armv7.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_loong64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_loong64.tar.gz"
+          "name": "fzf-0.74.2-linux_loong64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_loong64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_ppc64le.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_ppc64le.tar.gz"
+          "name": "fzf-0.74.2-linux_ppc64le.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_ppc64le.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_riscv64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_riscv64.tar.gz"
+          "name": "fzf-0.74.2-linux_riscv64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_riscv64.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-linux_s390x.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-linux_s390x.tar.gz"
+          "name": "fzf-0.74.2-linux_s390x.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_s390x.tar.gz"
         },
         {
-          "name": "fzf-0.74.1-openbsd_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf-0.74.1-openbsd_amd64.tar.gz"
+          "name": "fzf-0.74.2-openbsd_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-openbsd_amd64.tar.gz"
         },
         {
-          "name": "fzf_0.74.1_amd64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_amd64.deb"
+          "name": "fzf_0.74.2_amd64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_amd64.deb"
         },
         {
-          "name": "fzf_0.74.1_arm64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_arm64.deb"
+          "name": "fzf_0.74.2_arm64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_arm64.deb"
         },
         {
-          "name": "fzf_0.74.1_armv5.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_armv5.deb"
+          "name": "fzf_0.74.2_armv5.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_armv5.deb"
         },
         {
-          "name": "fzf_0.74.1_armv6.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_armv6.deb"
+          "name": "fzf_0.74.2_armv6.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_armv6.deb"
         },
         {
-          "name": "fzf_0.74.1_armv7.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_armv7.deb"
+          "name": "fzf_0.74.2_armv7.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_armv7.deb"
         },
         {
-          "name": "fzf_0.74.1_loong64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_loong64.deb"
+          "name": "fzf_0.74.2_loong64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_loong64.deb"
         },
         {
-          "name": "fzf_0.74.1_ppc64le.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_ppc64le.deb"
+          "name": "fzf_0.74.2_ppc64le.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_ppc64le.deb"
         },
         {
-          "name": "fzf_0.74.1_riscv64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_riscv64.deb"
+          "name": "fzf_0.74.2_riscv64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_riscv64.deb"
         },
         {
-          "name": "fzf_0.74.1_s390x.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.1/fzf_0.74.1_s390x.deb"
+          "name": "fzf_0.74.2_s390x.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_s390x.deb"
         }
       ],
       "accent": "#ff79c6"
@@ -504,41 +504,41 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/farion1231/cc-switch",
-      "release": "v3.19.0",
-      "updatedAt": "2026-07-30T04:27:46Z",
+      "release": "v3.19.1",
+      "updatedAt": "2026-07-31T14:53:23Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CC-Switch-v3.19.0-Linux-arm64.AppImage",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Linux-arm64.AppImage"
+          "name": "CC-Switch-v3.19.1-Linux-arm64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.AppImage"
         },
         {
-          "name": "CC-Switch-v3.19.0-Linux-arm64.deb",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Linux-arm64.deb"
+          "name": "CC-Switch-v3.19.1-Linux-arm64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.deb"
         },
         {
-          "name": "CC-Switch-v3.19.0-Linux-arm64.rpm",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Linux-arm64.rpm"
+          "name": "CC-Switch-v3.19.1-Linux-arm64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.rpm"
         },
         {
-          "name": "CC-Switch-v3.19.0-Linux-x86_64.AppImage",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Linux-x86_64.AppImage"
+          "name": "CC-Switch-v3.19.1-Linux-x86_64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.AppImage"
         },
         {
-          "name": "CC-Switch-v3.19.0-Linux-x86_64.deb",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Linux-x86_64.deb"
+          "name": "CC-Switch-v3.19.1-Linux-x86_64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.deb"
         },
         {
-          "name": "CC-Switch-v3.19.0-Linux-x86_64.rpm",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Linux-x86_64.rpm"
+          "name": "CC-Switch-v3.19.1-Linux-x86_64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.rpm"
         },
         {
-          "name": "CC-Switch-v3.19.0-macOS.dmg",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-macOS.dmg"
+          "name": "CC-Switch-v3.19.1-macOS.dmg",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.dmg"
         },
         {
-          "name": "CC-Switch-v3.19.0-macOS.tar.gz",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-macOS.tar.gz"
+          "name": "CC-Switch-v3.19.1-macOS.tar.gz",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1149,61 +1149,61 @@
       "description": "Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media downloads via yt-dlp (1.800+ sites). Extensible plugin system.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/tonhowtf/omniget",
-      "release": "v0.8.3",
-      "updatedAt": "2026-07-30T21:32:42Z",
+      "release": "v0.8.5",
+      "updatedAt": "2026-07-31T23:48:07Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "omniget-0.8.3-1.aarch64.rpm",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget-0.8.3-1.aarch64.rpm"
+          "name": "omniget-0.8.5-1.aarch64.rpm",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget-0.8.5-1.aarch64.rpm"
         },
         {
-          "name": "omniget-0.8.3-1.x86_64.rpm",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget-0.8.3-1.x86_64.rpm"
+          "name": "omniget-0.8.5-1.x86_64.rpm",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget-0.8.5-1.x86_64.rpm"
         },
         {
-          "name": "omniget-cli-0.8.3-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget-cli-0.8.3-aarch64-apple-darwin.tar.gz"
+          "name": "omniget-cli-0.8.5-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget-cli-0.8.5-aarch64-apple-darwin.tar.gz"
         },
         {
-          "name": "omniget-cli-0.8.3-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget-cli-0.8.3-x86_64-apple-darwin.tar.gz"
+          "name": "omniget-cli-0.8.5-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget-cli-0.8.5-x86_64-apple-darwin.tar.gz"
         },
         {
-          "name": "omniget-cli-0.8.3-x86_64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget-cli-0.8.3-x86_64-unknown-linux-gnu.tar.gz"
+          "name": "omniget-cli-0.8.5-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget-cli-0.8.5-x86_64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "omniget_0.8.3_aarch64.AppImage",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_0.8.3_aarch64.AppImage"
+          "name": "omniget_0.8.5_aarch64.AppImage",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_0.8.5_aarch64.AppImage"
         },
         {
-          "name": "omniget_0.8.3_aarch64.dmg",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_0.8.3_aarch64.dmg"
+          "name": "omniget_0.8.5_aarch64.dmg",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_0.8.5_aarch64.dmg"
         },
         {
-          "name": "omniget_0.8.3_amd64.AppImage",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_0.8.3_amd64.AppImage"
+          "name": "omniget_0.8.5_amd64.AppImage",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_0.8.5_amd64.AppImage"
         },
         {
-          "name": "omniget_0.8.3_amd64.deb",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_0.8.3_amd64.deb"
+          "name": "omniget_0.8.5_amd64.deb",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_0.8.5_amd64.deb"
         },
         {
-          "name": "omniget_0.8.3_arm64.deb",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_0.8.3_arm64.deb"
+          "name": "omniget_0.8.5_arm64.deb",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_0.8.5_arm64.deb"
         },
         {
-          "name": "omniget_0.8.3_x64.dmg",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_0.8.3_x64.dmg"
+          "name": "omniget_0.8.5_x64.dmg",
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_0.8.5_x64.dmg"
         },
         {
           "name": "omniget_aarch64.app.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_aarch64.app.tar.gz"
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_aarch64.app.tar.gz"
         },
         {
           "name": "omniget_x64.app.tar.gz",
-          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.3/omniget_x64.app.tar.gz"
+          "url": "https://github.com/tonhowtf/omniget/releases/download/v0.8.5/omniget_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1281,41 +1281,41 @@
       "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/beekeeper-studio/beekeeper-studio",
-      "release": "v5.9.2",
-      "updatedAt": "2026-07-10T20:47:06Z",
+      "release": "v5.9.3",
+      "updatedAt": "2026-07-31T17:34:28Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Beekeeper-Studio-5.9.2-arm64.AppImage",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2-arm64.AppImage"
+          "name": "Beekeeper-Studio-5.9.3-arm64.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3-arm64.AppImage"
         },
         {
-          "name": "Beekeeper-Studio-5.9.2-arm64.dmg",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2-arm64.dmg"
+          "name": "Beekeeper-Studio-5.9.3-arm64.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3-arm64.dmg"
         },
         {
-          "name": "beekeeper-studio-5.9.2.aarch64.rpm",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio-5.9.2.aarch64.rpm"
+          "name": "beekeeper-studio-5.9.3.aarch64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio-5.9.3.aarch64.rpm"
         },
         {
-          "name": "Beekeeper-Studio-5.9.2.AppImage",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2.AppImage"
+          "name": "Beekeeper-Studio-5.9.3.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3.AppImage"
         },
         {
-          "name": "Beekeeper-Studio-5.9.2.dmg",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2.dmg"
+          "name": "Beekeeper-Studio-5.9.3.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3.dmg"
         },
         {
-          "name": "beekeeper-studio-5.9.2.x86_64.rpm",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio-5.9.2.x86_64.rpm"
+          "name": "beekeeper-studio-5.9.3.x86_64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio-5.9.3.x86_64.rpm"
         },
         {
-          "name": "beekeeper-studio_5.9.2_amd64.deb",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio_5.9.2_amd64.deb"
+          "name": "beekeeper-studio_5.9.3_amd64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio_5.9.3_amd64.deb"
         },
         {
-          "name": "beekeeper-studio_5.9.2_arm64.deb",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/beekeeper-studio_5.9.2_arm64.deb"
+          "name": "beekeeper-studio_5.9.3_arm64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio_5.9.3_arm64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -2206,37 +2206,37 @@
       "description": "\ud83e\udd80 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/agmmnn/tauri-ui",
-      "release": "create-tauri-ui@1.1.0",
-      "updatedAt": "2026-04-20T13:16:21Z",
+      "release": "create-tauri-ui@1.1.1",
+      "updatedAt": "2026-07-31T23:30:04Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "tauri-ui-smoke-v1.1.0-linux-x64.AppImage",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-linux-x64.AppImage"
+          "name": "tauri-ui-smoke-v1.1.1-linux-x64.AppImage",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-linux-x64.AppImage"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.0-linux-x64.deb",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-linux-x64.deb"
+          "name": "tauri-ui-smoke-v1.1.1-linux-x64.deb",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-linux-x64.deb"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.0-linux-x64.rpm",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-linux-x64.rpm"
+          "name": "tauri-ui-smoke-v1.1.1-linux-x64.rpm",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-linux-x64.rpm"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.0-macos-apple-silicon.app.tar.gz",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-apple-silicon.app.tar.gz"
+          "name": "tauri-ui-smoke-v1.1.1-macos-apple-silicon.app.tar.gz",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-apple-silicon.app.tar.gz"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.0-macos-apple-silicon.dmg",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-apple-silicon.dmg"
+          "name": "tauri-ui-smoke-v1.1.1-macos-apple-silicon.dmg",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-apple-silicon.dmg"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.0-macos-intel.app.tar.gz",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-intel.app.tar.gz"
+          "name": "tauri-ui-smoke-v1.1.1-macos-intel.app.tar.gz",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-intel.app.tar.gz"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.0-macos-intel.dmg",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.0/tauri-ui-smoke-v1.1.0-macos-intel.dmg"
+          "name": "tauri-ui-smoke-v1.1.1-macos-intel.dmg",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-intel.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2575,29 +2575,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.117.0",
-      "updatedAt": "2026-07-30T19:42:29Z",
+      "release": "v1.118.0",
+      "updatedAt": "2026-07-31T16:07:40Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.117.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.117.0/lime-1.117.0-darwin-amd64.tar.gz"
+          "name": "lime-1.118.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/lime-1.118.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.117.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.117.0/lime-1.117.0-darwin-arm64.tar.gz"
+          "name": "lime-1.118.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/lime-1.118.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.117.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.117.0/lime-1.117.0-linux-amd64.tar.gz"
+          "name": "lime-1.118.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/lime-1.118.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.117.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.117.0/macos-arm64-Lime-1.117.0.dmg"
+          "name": "macos-arm64-Lime-1.118.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/macos-arm64-Lime-1.118.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.117.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.117.0/macos-x64-Lime-1.117.0.dmg"
+          "name": "macos-x64-Lime-1.118.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/macos-x64-Lime-1.118.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2769,53 +2769,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.26.0",
-      "updatedAt": "2026-07-30T06:37:27Z",
+      "release": "v0.27.0",
+      "updatedAt": "2026-07-31T17:07:13Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.26.0-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/hope-agent-0.26.0-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.27.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/hope-agent-0.27.0-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.26.0-linux-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/hope-agent-0.26.0-linux-aarch64.tar.gz"
+          "name": "hope-agent-0.27.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/hope-agent-0.27.0-linux-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.26.0-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/hope-agent-0.26.0-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.27.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/hope-agent-0.27.0-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.26.0-1.aarch64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent-0.26.0-1.aarch64.rpm"
+          "name": "Hope.Agent-0.27.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent-0.27.0-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent-0.26.0-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent-0.26.0-1.x86_64.rpm"
+          "name": "Hope.Agent-0.27.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent-0.27.0-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.26.0_aarch64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent_0.26.0_aarch64.AppImage"
+          "name": "Hope.Agent_0.27.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_aarch64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.26.0_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent_0.26.0_aarch64.dmg"
+          "name": "Hope.Agent_0.27.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_aarch64.dmg"
         },
         {
-          "name": "Hope.Agent_0.26.0_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent_0.26.0_amd64.AppImage"
+          "name": "Hope.Agent_0.27.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_amd64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.26.0_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent_0.26.0_amd64.deb"
+          "name": "Hope.Agent_0.27.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_amd64.deb"
         },
         {
-          "name": "Hope.Agent_0.26.0_arm64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent_0.26.0_arm64.deb"
+          "name": "Hope.Agent_0.27.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.26.0/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2904,21 +2904,21 @@
       "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally \u2014 private, 100% offline on your computer.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AtomicBot-ai/Atomic-Chat",
-      "release": "v2.0.0",
-      "updatedAt": "2026-07-24T22:52:58Z",
+      "release": "v2.0.5",
+      "updatedAt": "2026-07-31T19:53:15Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Atomic.Chat.app.tar.gz",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.0/Atomic.Chat.app.tar.gz"
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.5/Atomic.Chat.app.tar.gz"
         },
         {
-          "name": "Atomic.Chat_2.0.0_amd64.AppImage",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.0/Atomic.Chat_2.0.0_amd64.AppImage"
+          "name": "Atomic.Chat_2.0.5_amd64.AppImage",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.5/Atomic.Chat_2.0.5_amd64.AppImage"
         },
         {
-          "name": "Atomic.Chat_2.0.0_universal.dmg",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.0/Atomic.Chat_2.0.0_universal.dmg"
+          "name": "Atomic.Chat_2.0.5_universal.dmg",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.5/Atomic.Chat_2.0.5_universal.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3157,21 +3157,21 @@
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "release": "v0.7.1",
-      "updatedAt": "2026-07-23T16:44:59Z",
+      "release": "v0.7.2",
+      "updatedAt": "2026-07-31T11:06:49Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "GitHub.Stars.Manager-0.7.1-arm64.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.1/GitHub.Stars.Manager-0.7.1-arm64.dmg"
+          "name": "GitHub.Stars.Manager-0.7.2-arm64.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.2/GitHub.Stars.Manager-0.7.2-arm64.dmg"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.1.AppImage",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.1/GitHub.Stars.Manager-0.7.1.AppImage"
+          "name": "GitHub.Stars.Manager-0.7.2.AppImage",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.2/GitHub.Stars.Manager-0.7.2.AppImage"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.1.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.1/GitHub.Stars.Manager-0.7.1.dmg"
+          "name": "GitHub.Stars.Manager-0.7.2.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.2/GitHub.Stars.Manager-0.7.2.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3432,25 +3432,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.8.1",
-      "updatedAt": "2026-07-30T09:14:13Z",
+      "release": "v0.9.0",
+      "updatedAt": "2026-07-31T14:42:36Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.8.1-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.8.1/aipoch-open-science-0.8.1-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.9.0-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science-0.9.0-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.8.1-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.8.1/aipoch-open-science-0.8.1-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.9.0-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science-0.9.0-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.8.1-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.8.1/aipoch-open-science-0.8.1-mac-x64.dmg"
+          "name": "aipoch-open-science-0.9.0-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science-0.9.0-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.8.1_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.8.1/aipoch-open-science_0.8.1_amd64.deb"
+          "name": "aipoch-open-science_0.9.0_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science_0.9.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
