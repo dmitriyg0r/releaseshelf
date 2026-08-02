@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-01T06:41:21Z",
+  "generatedAt": "2026-08-02T06:46:36Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -725,37 +725,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.43.2",
-      "updatedAt": "2026-07-20T13:35:18Z",
+      "release": "player@1.44.0",
+      "updatedAt": "2026-08-01T16:50:15Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.43.2-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear-1.43.2-1.x86_64.rpm"
+          "name": "Nuclear-1.44.0-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear-1.44.0-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.43.2_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_aarch64.dmg"
+          "name": "Nuclear_1.44.0_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.43.2_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_amd64.AppImage"
+          "name": "Nuclear_1.44.0_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.43.2_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_amd64.deb"
+          "name": "Nuclear_1.44.0_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_amd64.deb"
         },
         {
-          "name": "Nuclear_1.43.2_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_x64.dmg"
+          "name": "Nuclear_1.44.0_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1649,17 +1649,17 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.62.0",
-      "updatedAt": "2026-07-30T04:24:33Z",
+      "release": "v0.63.0",
+      "updatedAt": "2026-08-02T05:12:13Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.62.0-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.62.0/CodePilot-0.62.0-arm64.dmg"
+          "name": "CodePilot-0.63.0-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.63.0/CodePilot-0.63.0-arm64.dmg"
         },
         {
-          "name": "CodePilot-0.62.0-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.62.0/CodePilot-0.62.0-x64.dmg"
+          "name": "CodePilot-0.63.0-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.63.0/CodePilot-0.63.0-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2206,37 +2206,37 @@
       "description": "\ud83e\udd80 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/agmmnn/tauri-ui",
-      "release": "create-tauri-ui@1.1.1",
-      "updatedAt": "2026-07-31T23:30:04Z",
+      "release": "create-tauri-ui@1.2.0",
+      "updatedAt": "2026-08-01T15:00:46Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "tauri-ui-smoke-v1.1.1-linux-x64.AppImage",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-linux-x64.AppImage"
+          "name": "tauri-ui-smoke-v1.2.0-linux-x64.AppImage",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-linux-x64.AppImage"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.1-linux-x64.deb",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-linux-x64.deb"
+          "name": "tauri-ui-smoke-v1.2.0-linux-x64.deb",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-linux-x64.deb"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.1-linux-x64.rpm",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-linux-x64.rpm"
+          "name": "tauri-ui-smoke-v1.2.0-linux-x64.rpm",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-linux-x64.rpm"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.1-macos-apple-silicon.app.tar.gz",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-apple-silicon.app.tar.gz"
+          "name": "tauri-ui-smoke-v1.2.0-macos-apple-silicon.app.tar.gz",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-macos-apple-silicon.app.tar.gz"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.1-macos-apple-silicon.dmg",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-apple-silicon.dmg"
+          "name": "tauri-ui-smoke-v1.2.0-macos-apple-silicon.dmg",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-macos-apple-silicon.dmg"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.1-macos-intel.app.tar.gz",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-intel.app.tar.gz"
+          "name": "tauri-ui-smoke-v1.2.0-macos-intel.app.tar.gz",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-macos-intel.app.tar.gz"
         },
         {
-          "name": "tauri-ui-smoke-v1.1.1-macos-intel.dmg",
-          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.1.1/tauri-ui-smoke-v1.1.1-macos-intel.dmg"
+          "name": "tauri-ui-smoke-v1.2.0-macos-intel.dmg",
+          "url": "https://github.com/agmmnn/tauri-ui/releases/download/create-tauri-ui%401.2.0/tauri-ui-smoke-v1.2.0-macos-intel.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2575,29 +2575,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.118.0",
-      "updatedAt": "2026-07-31T16:07:40Z",
+      "release": "v1.119.0",
+      "updatedAt": "2026-08-01T20:29:51Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.118.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/lime-1.118.0-darwin-amd64.tar.gz"
+          "name": "lime-1.119.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/lime-1.119.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.118.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/lime-1.118.0-darwin-arm64.tar.gz"
+          "name": "lime-1.119.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/lime-1.119.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.118.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/lime-1.118.0-linux-amd64.tar.gz"
+          "name": "lime-1.119.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/lime-1.119.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.118.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/macos-arm64-Lime-1.118.0.dmg"
+          "name": "macos-arm64-Lime-1.119.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/macos-arm64-Lime-1.119.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.118.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.118.0/macos-x64-Lime-1.118.0.dmg"
+          "name": "macos-x64-Lime-1.119.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/macos-x64-Lime-1.119.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3045,25 +3045,25 @@
       "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "release": "v2.5.10",
-      "updatedAt": "2026-07-27T10:12:52Z",
+      "release": "v2.6.0",
+      "updatedAt": "2026-08-02T00:43:16Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Locally.Uncensored-2.5.10-1.x86_64.rpm",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.10/Locally.Uncensored-2.5.10-1.x86_64.rpm"
+          "name": "Locally.Uncensored-2.6.0-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored-2.6.0-1.x86_64.rpm"
         },
         {
-          "name": "Locally.Uncensored_2.5.10_amd64.AppImage",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.10/Locally.Uncensored_2.5.10_amd64.AppImage"
+          "name": "Locally.Uncensored_2.6.0_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored_2.6.0_amd64.AppImage"
         },
         {
-          "name": "Locally.Uncensored_2.5.10_amd64.AppImage.tar.gz",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.10/Locally.Uncensored_2.5.10_amd64.AppImage.tar.gz"
+          "name": "Locally.Uncensored_2.6.0_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored_2.6.0_amd64.AppImage.tar.gz"
         },
         {
-          "name": "Locally.Uncensored_2.5.10_amd64.deb",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.5.10/Locally.Uncensored_2.5.10_amd64.deb"
+          "name": "Locally.Uncensored_2.6.0_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored_2.6.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3182,25 +3182,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.5",
+      "release": "5.0.6",
       "updatedAt": "2026-07-18T01:30:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.5-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.5/Pixeval-5.0.5-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.6-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.5-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.5/Pixeval-5.0.5-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.6-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.5-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.5/Pixeval-5.0.5-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.6-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.5-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.5/Pixeval-5.0.5-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.6-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3350,33 +3350,25 @@
       "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/ai4s-research/open-science",
-      "release": "v0.3.0",
-      "updatedAt": "2026-07-24T14:26:12Z",
+      "release": "v0.3.1",
+      "updatedAt": "2026-08-01T14:11:46Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Open.Science-0.3.0-1.x86_64.rpm",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science-0.3.0-1.x86_64.rpm"
+          "name": "Open.Science-0.3.1-1.x86_64.rpm",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science-0.3.1-1.x86_64.rpm"
         },
         {
-          "name": "Open.Science_0.3.0_aarch64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science_0.3.0_aarch64.dmg"
+          "name": "Open.Science_0.3.1_aarch64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science_0.3.1_aarch64.dmg"
         },
         {
-          "name": "Open.Science_0.3.0_amd64.deb",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science_0.3.0_amd64.deb"
+          "name": "Open.Science_0.3.1_amd64.deb",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science_0.3.1_amd64.deb"
         },
         {
-          "name": "Open.Science_0.3.0_x64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science_0.3.0_x64.dmg"
-        },
-        {
-          "name": "Open.Science_aarch64.app.tar.gz",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science_aarch64.app.tar.gz"
-        },
-        {
-          "name": "Open.Science_x64.app.tar.gz",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.0/Open.Science_x64.app.tar.gz"
+          "name": "Open.Science_0.3.1_x64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science_0.3.1_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3432,25 +3424,66 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.9.0",
-      "updatedAt": "2026-07-31T14:42:36Z",
+      "release": "v0.9.1",
+      "updatedAt": "2026-08-01T15:14:26Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.9.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science-0.9.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.9.1-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science-0.9.1-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.9.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science-0.9.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.9.1-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science-0.9.1-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.9.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science-0.9.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.9.1-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science-0.9.1-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.9.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.0/aipoch-open-science_0.9.0_amd64.deb"
+          "name": "aipoch-open-science_0.9.1_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science_0.9.1_amd64.deb"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "kunagent--kun",
+      "name": "Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/KunAgent/Kun",
+      "release": "v0.2.33",
+      "updatedAt": "2026-07-31T10:32:38Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Kun-0.2.33-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-linux-amd64.deb"
+        },
+        {
+          "name": "Kun-0.2.33-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-linux-x86_64.AppImage"
+        },
+        {
+          "name": "Kun-0.2.33-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-mac-arm64.dmg"
+        },
+        {
+          "name": "Kun-0.2.33-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-mac-x64.dmg"
+        },
+        {
+          "name": "Kun-TUI-0.2.33-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-TUI-0.2.33-linux-x64.tar.gz"
+        },
+        {
+          "name": "Kun-TUI-0.2.33-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-TUI-0.2.33-mac-arm64.tar.gz"
+        },
+        {
+          "name": "Kun-TUI-0.2.33-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-TUI-0.2.33-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
