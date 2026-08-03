@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-02T06:46:36Z",
+  "generatedAt": "2026-08-03T07:47:08Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -725,37 +725,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.44.0",
-      "updatedAt": "2026-08-01T16:50:15Z",
+      "release": "player@1.45.0",
+      "updatedAt": "2026-08-03T00:44:33Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.44.0-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear-1.44.0-1.x86_64.rpm"
+          "name": "Nuclear-1.45.0-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear-1.45.0-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.44.0_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_aarch64.dmg"
+          "name": "Nuclear_1.45.0_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.44.0_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_amd64.AppImage"
+          "name": "Nuclear_1.45.0_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.44.0_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_amd64.deb"
+          "name": "Nuclear_1.45.0_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_amd64.deb"
         },
         {
-          "name": "Nuclear_1.44.0_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_1.44.0_x64.dmg"
+          "name": "Nuclear_1.45.0_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.44.0/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -840,33 +840,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.18.1",
-      "updatedAt": "2026-07-28T21:58:30Z",
+      "release": "desktop-v1.18.3",
+      "updatedAt": "2026-08-02T23:54:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.18.1-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-1.18.1-arm64.dmg"
+          "name": "Superset-1.18.3-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.3/Superset-1.18.3-arm64.dmg"
         },
         {
-          "name": "superset-1.18.1-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/superset-1.18.1-x86_64.AppImage"
+          "name": "superset-1.18.3-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.3/superset-1.18.3-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.18.1.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-1.18.1.dmg"
+          "name": "Superset-1.18.3.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.3/Superset-1.18.3.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.3/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.3/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.1/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.18.3/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1649,17 +1649,41 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.63.0",
-      "updatedAt": "2026-08-02T05:12:13Z",
+      "release": "v0.64.0",
+      "updatedAt": "2026-08-02T16:44:25Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.63.0-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.63.0/CodePilot-0.63.0-arm64.dmg"
+          "name": "CodePilot-0.64.0-aarch64.rpm",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-aarch64.rpm"
         },
         {
-          "name": "CodePilot-0.63.0-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.63.0/CodePilot-0.63.0-x64.dmg"
+          "name": "CodePilot-0.64.0-amd64.deb",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-amd64.deb"
+        },
+        {
+          "name": "CodePilot-0.64.0-arm64.AppImage",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-arm64.AppImage"
+        },
+        {
+          "name": "CodePilot-0.64.0-arm64.deb",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-arm64.deb"
+        },
+        {
+          "name": "CodePilot-0.64.0-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-arm64.dmg"
+        },
+        {
+          "name": "CodePilot-0.64.0-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-x64.dmg"
+        },
+        {
+          "name": "CodePilot-0.64.0-x86_64.AppImage",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-x86_64.AppImage"
+        },
+        {
+          "name": "CodePilot-0.64.0-x86_64.rpm",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-x86_64.rpm"
         }
       ],
       "accent": "#6e7681"
@@ -2062,29 +2086,29 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/szTheory/exifcleaner",
-      "release": "v4.0.0",
-      "updatedAt": "2026-07-29T04:46:00Z",
+      "release": "v4.1.0",
+      "updatedAt": "2026-08-03T01:45:26Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ExifCleaner-4.0.0-arm64.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0-arm64.dmg"
+          "name": "ExifCleaner-4.1.0-arm64.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/ExifCleaner-4.1.0-arm64.dmg"
         },
         {
-          "name": "ExifCleaner-4.0.0.AppImage",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0.AppImage"
+          "name": "ExifCleaner-4.1.0.AppImage",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/ExifCleaner-4.1.0.AppImage"
         },
         {
-          "name": "ExifCleaner-4.0.0.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0.dmg"
+          "name": "ExifCleaner-4.1.0.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/ExifCleaner-4.1.0.dmg"
         },
         {
-          "name": "exifcleaner-4.0.0.x86_64.rpm",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/exifcleaner-4.0.0.x86_64.rpm"
+          "name": "exifcleaner-4.1.0.x86_64.rpm",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/exifcleaner-4.1.0.x86_64.rpm"
         },
         {
-          "name": "exifcleaner_4.0.0_amd64.deb",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/exifcleaner_4.0.0_amd64.deb"
+          "name": "exifcleaner_4.1.0_amd64.deb",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/exifcleaner_4.1.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -2446,17 +2470,17 @@
       "description": "Describe what you need \u2014 a presentation, lesson, or story \u2014 and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/arcsin1/oh-my-ppt",
-      "release": "v2.1.0",
-      "updatedAt": "2026-07-24T05:45:03Z",
+      "release": "v2.2.0",
+      "updatedAt": "2026-08-03T06:06:19Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "oh-my-ppt-2.1.0-mac_arm64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.1.0/oh-my-ppt-2.1.0-mac_arm64.dmg"
+          "name": "oh-my-ppt-2.2.0-mac_arm64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.0-mac_arm64.dmg"
         },
         {
-          "name": "oh-my-ppt-2.1.0-mac_x64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.1.0/oh-my-ppt-2.1.0-mac_x64.dmg"
+          "name": "oh-my-ppt-2.2.0-mac_x64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.0-mac_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2674,25 +2698,25 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.5.76",
-      "updatedAt": "2026-07-30T10:08:42Z",
+      "release": "v12.6.0",
+      "updatedAt": "2026-08-02T18:05:17Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.5.76-amd64.deb",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.76/Skales-12.5.76-amd64.deb"
+          "name": "Skales-12.6.0-amd64.deb",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-amd64.deb"
         },
         {
-          "name": "Skales-12.5.76-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.76/Skales-12.5.76-arm64.dmg"
+          "name": "Skales-12.6.0-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-arm64.dmg"
         },
         {
-          "name": "Skales-12.5.76-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.76/Skales-12.5.76-x64.dmg"
+          "name": "Skales-12.6.0-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-x64.dmg"
         },
         {
-          "name": "Skales-12.5.76-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.5.76/Skales-12.5.76-x86_64.AppImage"
+          "name": "Skales-12.6.0-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3045,25 +3069,25 @@
       "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "release": "v2.6.0",
-      "updatedAt": "2026-08-02T00:43:16Z",
+      "release": "v2.6.2",
+      "updatedAt": "2026-08-02T14:54:31Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Locally.Uncensored-2.6.0-1.x86_64.rpm",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored-2.6.0-1.x86_64.rpm"
+          "name": "Locally.Uncensored-2.6.2-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.2/Locally.Uncensored-2.6.2-1.x86_64.rpm"
         },
         {
-          "name": "Locally.Uncensored_2.6.0_amd64.AppImage",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored_2.6.0_amd64.AppImage"
+          "name": "Locally.Uncensored_2.6.2_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.2/Locally.Uncensored_2.6.2_amd64.AppImage"
         },
         {
-          "name": "Locally.Uncensored_2.6.0_amd64.AppImage.tar.gz",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored_2.6.0_amd64.AppImage.tar.gz"
+          "name": "Locally.Uncensored_2.6.2_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.2/Locally.Uncensored_2.6.2_amd64.AppImage.tar.gz"
         },
         {
-          "name": "Locally.Uncensored_2.6.0_amd64.deb",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.0/Locally.Uncensored_2.6.0_amd64.deb"
+          "name": "Locally.Uncensored_2.6.2_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.2/Locally.Uncensored_2.6.2_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3252,33 +3276,33 @@
       "description": "Next-gen, source-available alternative to Codex and Claude Code \u2014 one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Devin-AXIS/iPolloWork",
-      "release": "v0.18.0",
-      "updatedAt": "2026-07-30T11:08:53Z",
+      "release": "v0.19.0",
+      "updatedAt": "2026-08-02T17:22:51Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ipollowork-linux-arm64-0.18.0.AppImage",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.18.0/ipollowork-linux-arm64-0.18.0.AppImage"
+          "name": "ipollowork-linux-arm64-0.19.0.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.19.0/ipollowork-linux-arm64-0.19.0.AppImage"
         },
         {
-          "name": "ipollowork-linux-arm64-0.18.0.tar.gz",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.18.0/ipollowork-linux-arm64-0.18.0.tar.gz"
+          "name": "ipollowork-linux-arm64-0.19.0.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.19.0/ipollowork-linux-arm64-0.19.0.tar.gz"
         },
         {
-          "name": "ipollowork-linux-x64-0.18.0.tar.gz",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.18.0/ipollowork-linux-x64-0.18.0.tar.gz"
+          "name": "ipollowork-linux-x64-0.19.0.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.19.0/ipollowork-linux-x64-0.19.0.tar.gz"
         },
         {
-          "name": "ipollowork-linux-x86_64-0.18.0.AppImage",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.18.0/ipollowork-linux-x86_64-0.18.0.AppImage"
+          "name": "ipollowork-linux-x86_64-0.19.0.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.19.0/ipollowork-linux-x86_64-0.19.0.AppImage"
         },
         {
-          "name": "ipollowork-mac-arm64-0.18.0.dmg",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.18.0/ipollowork-mac-arm64-0.18.0.dmg"
+          "name": "ipollowork-mac-arm64-0.19.0.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.19.0/ipollowork-mac-arm64-0.19.0.dmg"
         },
         {
-          "name": "ipollowork-mac-x64-0.18.0.dmg",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.18.0/ipollowork-mac-x64-0.18.0.dmg"
+          "name": "ipollowork-mac-x64-0.19.0.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.19.0/ipollowork-mac-x64-0.19.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3379,41 +3403,41 @@
       "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/NanmiCoder/cc-haha",
-      "release": "v0.5.1",
-      "updatedAt": "2026-07-30T21:40:10Z",
+      "release": "v0.5.2",
+      "updatedAt": "2026-08-02T21:24:02Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Claude-Code-Haha-0.5.1-linux-aarch64.rpm",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-linux-aarch64.rpm"
+          "name": "Claude-Code-Haha-0.5.2-linux-aarch64.rpm",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-aarch64.rpm"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-linux-amd64.deb",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-linux-amd64.deb"
+          "name": "Claude-Code-Haha-0.5.2-linux-amd64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-amd64.deb"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-linux-arm64.AppImage",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-linux-arm64.AppImage"
+          "name": "Claude-Code-Haha-0.5.2-linux-arm64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-arm64.AppImage"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-linux-arm64.deb",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-linux-arm64.deb"
+          "name": "Claude-Code-Haha-0.5.2-linux-arm64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-arm64.deb"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-linux-x86_64.AppImage",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-linux-x86_64.AppImage"
+          "name": "Claude-Code-Haha-0.5.2-linux-x86_64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-x86_64.AppImage"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-linux-x86_64.rpm",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-linux-x86_64.rpm"
+          "name": "Claude-Code-Haha-0.5.2-linux-x86_64.rpm",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-x86_64.rpm"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-mac-arm64.dmg",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-mac-arm64.dmg"
+          "name": "Claude-Code-Haha-0.5.2-mac-arm64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-mac-arm64.dmg"
         },
         {
-          "name": "Claude-Code-Haha-0.5.1-mac-x64.dmg",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.1/Claude-Code-Haha-0.5.1-mac-x64.dmg"
+          "name": "Claude-Code-Haha-0.5.2-mac-x64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3424,25 +3448,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.9.1",
-      "updatedAt": "2026-08-01T15:14:26Z",
+      "release": "v0.9.2",
+      "updatedAt": "2026-08-02T15:13:10Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.9.1-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science-0.9.1-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.9.2-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science-0.9.2-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.9.1-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science-0.9.1-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.9.2-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science-0.9.2-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.9.1-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science-0.9.1-mac-x64.dmg"
+          "name": "aipoch-open-science-0.9.2-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science-0.9.2-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.9.1_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.1/aipoch-open-science_0.9.1_amd64.deb"
+          "name": "aipoch-open-science_0.9.2_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science_0.9.2_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3453,37 +3477,58 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.2.33",
-      "updatedAt": "2026-07-31T10:32:38Z",
+      "release": "v0.2.34",
+      "updatedAt": "2026-08-02T18:00:28Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.2.33-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-linux-amd64.deb"
+          "name": "Kun-0.2.34-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.2.33-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-linux-x86_64.AppImage"
+          "name": "Kun-0.2.34-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-0.2.33-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-mac-arm64.dmg"
+          "name": "Kun-0.2.34-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.dmg"
         },
         {
-          "name": "Kun-0.2.33-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-0.2.33-mac-x64.dmg"
+          "name": "Kun-0.2.34-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.2.33-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-TUI-0.2.33-linux-x64.tar.gz"
+          "name": "Kun-TUI-0.2.34-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-linux-x64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.33-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-TUI-0.2.33-mac-arm64.tar.gz"
+          "name": "Kun-TUI-0.2.34-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.33-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.33/Kun-TUI-0.2.33-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.2.34-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-x64.tar.gz"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "orkas-ai--orkas",
+      "name": "Orkas",
+      "description": "Open-source multi-agent AI desktop client \u2014 build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude \u00b7 OpenAI \u00b7 Gemini \u00b7 DeepSeek \u00b7 Kimi \u00b7 GLM \u00b7 Qwen). macOS / Windows / Linux.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Orkas-AI/Orkas",
+      "release": "v2026.7.29",
+      "updatedAt": "2026-07-29T11:53:21Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "Orkas-1.6.2-arm64.dmg",
+          "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.7.29/Orkas-1.6.2-arm64.dmg"
+        },
+        {
+          "name": "Orkas-1.6.2.dmg",
+          "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.7.29/Orkas-1.6.2.dmg"
         }
       ],
       "accent": "#6e7681"
