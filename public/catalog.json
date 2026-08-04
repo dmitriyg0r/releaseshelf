@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T07:47:08Z",
+  "generatedAt": "2026-08-04T06:41:41Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -549,17 +549,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.16.1",
-      "updatedAt": "2026-07-23T16:11:51Z",
+      "release": "open-design-v0.17.0",
+      "updatedAt": "2026-08-03T13:33:33Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.16.1-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.16.1/open-design-0.16.1-mac-arm64.dmg"
+          "name": "open-design-0.17.0-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.17.0/open-design-0.17.0-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.16.1-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.16.1/open-design-0.16.1-mac-x64.dmg"
+          "name": "open-design-0.17.0-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.17.0/open-design-0.17.0-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1649,41 +1649,41 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.64.0",
-      "updatedAt": "2026-08-02T16:44:25Z",
+      "release": "v0.65.0",
+      "updatedAt": "2026-08-04T04:06:25Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.64.0-aarch64.rpm",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-aarch64.rpm"
+          "name": "CodePilot-0.65.0-aarch64.rpm",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-aarch64.rpm"
         },
         {
-          "name": "CodePilot-0.64.0-amd64.deb",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-amd64.deb"
+          "name": "CodePilot-0.65.0-amd64.deb",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-amd64.deb"
         },
         {
-          "name": "CodePilot-0.64.0-arm64.AppImage",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-arm64.AppImage"
+          "name": "CodePilot-0.65.0-arm64.AppImage",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-arm64.AppImage"
         },
         {
-          "name": "CodePilot-0.64.0-arm64.deb",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-arm64.deb"
+          "name": "CodePilot-0.65.0-arm64.deb",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-arm64.deb"
         },
         {
-          "name": "CodePilot-0.64.0-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-arm64.dmg"
+          "name": "CodePilot-0.65.0-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-arm64.dmg"
         },
         {
-          "name": "CodePilot-0.64.0-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-x64.dmg"
+          "name": "CodePilot-0.65.0-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-x64.dmg"
         },
         {
-          "name": "CodePilot-0.64.0-x86_64.AppImage",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-x86_64.AppImage"
+          "name": "CodePilot-0.65.0-x86_64.AppImage",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-x86_64.AppImage"
         },
         {
-          "name": "CodePilot-0.64.0-x86_64.rpm",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.64.0/CodePilot-0.64.0-x86_64.rpm"
+          "name": "CodePilot-0.65.0-x86_64.rpm",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.65.0/CodePilot-0.65.0-x86_64.rpm"
         }
       ],
       "accent": "#6e7681"
@@ -2086,29 +2086,29 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/szTheory/exifcleaner",
-      "release": "v4.1.0",
-      "updatedAt": "2026-08-03T01:45:26Z",
+      "release": "v4.2.0",
+      "updatedAt": "2026-08-03T17:52:38Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ExifCleaner-4.1.0-arm64.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/ExifCleaner-4.1.0-arm64.dmg"
+          "name": "ExifCleaner-4.2.0-arm64.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/ExifCleaner-4.2.0-arm64.dmg"
         },
         {
-          "name": "ExifCleaner-4.1.0.AppImage",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/ExifCleaner-4.1.0.AppImage"
+          "name": "ExifCleaner-4.2.0.AppImage",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/ExifCleaner-4.2.0.AppImage"
         },
         {
-          "name": "ExifCleaner-4.1.0.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/ExifCleaner-4.1.0.dmg"
+          "name": "ExifCleaner-4.2.0.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/ExifCleaner-4.2.0.dmg"
         },
         {
-          "name": "exifcleaner-4.1.0.x86_64.rpm",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/exifcleaner-4.1.0.x86_64.rpm"
+          "name": "exifcleaner-4.2.0.x86_64.rpm",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/exifcleaner-4.2.0.x86_64.rpm"
         },
         {
-          "name": "exifcleaner_4.1.0_amd64.deb",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.1.0/exifcleaner_4.1.0_amd64.deb"
+          "name": "exifcleaner_4.2.0_amd64.deb",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/exifcleaner_4.2.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -2481,6 +2481,14 @@
         {
           "name": "oh-my-ppt-2.2.0-mac_x64.dmg",
           "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.0-mac_x64.dmg"
+        },
+        {
+          "name": "oh-my-ppt-2.2.1-mac_arm64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.1-mac_arm64.dmg"
+        },
+        {
+          "name": "oh-my-ppt-2.2.1-mac_x64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.1-mac_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2599,29 +2607,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.119.0",
-      "updatedAt": "2026-08-01T20:29:51Z",
+      "release": "v1.120.1",
+      "updatedAt": "2026-08-04T00:17:02Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.119.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/lime-1.119.0-darwin-amd64.tar.gz"
+          "name": "lime-1.120.1-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.120.1/lime-1.120.1-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.119.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/lime-1.119.0-darwin-arm64.tar.gz"
+          "name": "lime-1.120.1-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.120.1/lime-1.120.1-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.119.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/lime-1.119.0-linux-amd64.tar.gz"
+          "name": "lime-1.120.1-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.120.1/lime-1.120.1-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.119.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/macos-arm64-Lime-1.119.0.dmg"
+          "name": "macos-arm64-Lime-1.120.1.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.120.1/macos-arm64-Lime-1.120.1.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.119.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.119.0/macos-x64-Lime-1.119.0.dmg"
+          "name": "macos-x64-Lime-1.120.1.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.120.1/macos-x64-Lime-1.120.1.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2760,29 +2768,29 @@
       "description": "Open-source AI agent harness in native Rust \u2014 GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/thClaws/thClaws",
-      "release": "v0.108.0",
-      "updatedAt": "2026-07-28T02:50:56Z",
+      "release": "v0.109.0",
+      "updatedAt": "2026-08-03T10:22:58Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "thclaws-v0.108.0-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.108.0/thclaws-v0.108.0-aarch64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.109.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-aarch64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.108.0-aarch64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.108.0/thclaws-v0.108.0-aarch64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.109.0-aarch64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-aarch64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "thclaws-v0.108.0-universal-apple-darwin.dmg",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.108.0/thclaws-v0.108.0-universal-apple-darwin.dmg"
+          "name": "thclaws-v0.109.0-universal-apple-darwin.dmg",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-universal-apple-darwin.dmg"
         },
         {
-          "name": "thclaws-v0.108.0-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.108.0/thclaws-v0.108.0-x86_64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.109.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-x86_64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.108.0-x86_64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.108.0/thclaws-v0.108.0-x86_64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.109.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-x86_64-unknown-linux-gnu.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2793,53 +2801,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.27.0",
-      "updatedAt": "2026-07-31T17:07:13Z",
+      "release": "v0.28.0",
+      "updatedAt": "2026-08-03T18:20:29Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.27.0-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/hope-agent-0.27.0-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.28.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/hope-agent-0.28.0-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.27.0-linux-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/hope-agent-0.27.0-linux-aarch64.tar.gz"
+          "name": "hope-agent-0.28.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/hope-agent-0.28.0-linux-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.27.0-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/hope-agent-0.27.0-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.28.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/hope-agent-0.28.0-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.27.0-1.aarch64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent-0.27.0-1.aarch64.rpm"
+          "name": "Hope.Agent-0.28.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent-0.28.0-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent-0.27.0-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent-0.27.0-1.x86_64.rpm"
+          "name": "Hope.Agent-0.28.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent-0.28.0-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.27.0_aarch64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_aarch64.AppImage"
+          "name": "Hope.Agent_0.28.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent_0.28.0_aarch64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.27.0_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_aarch64.dmg"
+          "name": "Hope.Agent_0.28.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent_0.28.0_aarch64.dmg"
         },
         {
-          "name": "Hope.Agent_0.27.0_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_amd64.AppImage"
+          "name": "Hope.Agent_0.28.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent_0.28.0_amd64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.27.0_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_amd64.deb"
+          "name": "Hope.Agent_0.28.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent_0.28.0_amd64.deb"
         },
         {
-          "name": "Hope.Agent_0.27.0_arm64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_0.27.0_arm64.deb"
+          "name": "Hope.Agent_0.28.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent_0.28.0_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.27.0/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.28.0/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3374,25 +3382,25 @@
       "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/ai4s-research/open-science",
-      "release": "v0.3.1",
-      "updatedAt": "2026-08-01T14:11:46Z",
+      "release": "v0.3.2",
+      "updatedAt": "2026-08-03T09:43:33Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Open.Science-0.3.1-1.x86_64.rpm",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science-0.3.1-1.x86_64.rpm"
+          "name": "Open.Science-0.3.2-1.x86_64.rpm",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.2/Open.Science-0.3.2-1.x86_64.rpm"
         },
         {
-          "name": "Open.Science_0.3.1_aarch64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science_0.3.1_aarch64.dmg"
+          "name": "Open.Science_0.3.2_aarch64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.2/Open.Science_0.3.2_aarch64.dmg"
         },
         {
-          "name": "Open.Science_0.3.1_amd64.deb",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science_0.3.1_amd64.deb"
+          "name": "Open.Science_0.3.2_amd64.deb",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.2/Open.Science_0.3.2_amd64.deb"
         },
         {
-          "name": "Open.Science_0.3.1_x64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.1/Open.Science_0.3.1_x64.dmg"
+          "name": "Open.Science_0.3.2_x64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.3.2/Open.Science_0.3.2_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3448,25 +3456,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.9.2",
-      "updatedAt": "2026-08-02T15:13:10Z",
+      "release": "v0.10.0",
+      "updatedAt": "2026-08-03T15:20:30Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.9.2-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science-0.9.2-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.10.0-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science-0.10.0-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.9.2-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science-0.9.2-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.10.0-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science-0.10.0-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.9.2-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science-0.9.2-mac-x64.dmg"
+          "name": "aipoch-open-science-0.10.0-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science-0.10.0-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.9.2_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.9.2/aipoch-open-science_0.9.2_amd64.deb"
+          "name": "aipoch-open-science_0.10.0_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science_0.10.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
