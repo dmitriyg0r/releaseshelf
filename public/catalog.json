@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T06:41:41Z",
+  "generatedAt": "2026-08-05T06:42:22Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -261,49 +261,49 @@
       "description": "A simple terminal UI for Git commands and repositories.",
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/jesseduffield/lazygit",
-      "release": "v0.63.1",
-      "updatedAt": "2026-07-15T11:39:25Z",
+      "release": "v0.64.0",
+      "updatedAt": "2026-08-04T07:31:26Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "lazygit_0.63.1_darwin_arm64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_darwin_arm64.tar.gz"
+          "name": "lazygit_0.64.0_darwin_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_darwin_arm64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_darwin_x86_64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_darwin_x86_64.tar.gz"
+          "name": "lazygit_0.64.0_darwin_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_darwin_x86_64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_freebsd_32-bit.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_32-bit.tar.gz"
+          "name": "lazygit_0.64.0_freebsd_32-bit.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_freebsd_32-bit.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_freebsd_arm64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_arm64.tar.gz"
+          "name": "lazygit_0.64.0_freebsd_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_freebsd_arm64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_freebsd_armv6.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_armv6.tar.gz"
+          "name": "lazygit_0.64.0_freebsd_armv6.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_freebsd_armv6.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_freebsd_x86_64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_freebsd_x86_64.tar.gz"
+          "name": "lazygit_0.64.0_freebsd_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_freebsd_x86_64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_linux_32-bit.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_32-bit.tar.gz"
+          "name": "lazygit_0.64.0_linux_32-bit.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_linux_32-bit.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_linux_arm64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_arm64.tar.gz"
+          "name": "lazygit_0.64.0_linux_arm64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_linux_arm64.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_linux_armv6.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_armv6.tar.gz"
+          "name": "lazygit_0.64.0_linux_armv6.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_linux_armv6.tar.gz"
         },
         {
-          "name": "lazygit_0.63.1_linux_x86_64.tar.gz",
-          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.63.1/lazygit_0.63.1_linux_x86_64.tar.gz"
+          "name": "lazygit_0.64.0_linux_x86_64.tar.gz",
+          "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.64.0/lazygit_0.64.0_linux_x86_64.tar.gz"
         }
       ],
       "accent": "#8fbcbb"
@@ -725,37 +725,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.45.0",
-      "updatedAt": "2026-08-03T00:44:33Z",
+      "release": "player@1.45.1",
+      "updatedAt": "2026-08-05T00:23:00Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.45.0-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear-1.45.0-1.x86_64.rpm"
+          "name": "Nuclear-1.45.1-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear-1.45.1-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.45.0_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_aarch64.dmg"
+          "name": "Nuclear_1.45.1_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear_1.45.1_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.45.0_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_amd64.AppImage"
+          "name": "Nuclear_1.45.1_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear_1.45.1_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.45.0_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_amd64.deb"
+          "name": "Nuclear_1.45.1_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear_1.45.1_amd64.deb"
         },
         {
-          "name": "Nuclear_1.45.0_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_1.45.0_x64.dmg"
+          "name": "Nuclear_1.45.1_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear_1.45.1_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.0/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.45.1/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1214,25 +1214,17 @@
       "description": "Reqable issue track repo",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/reqable/reqable-app",
-      "release": "3.2.17",
-      "updatedAt": "2026-07-30T11:04:36Z",
+      "release": "3.2.20",
+      "updatedAt": "2026-08-05T03:34:45Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "reqable-app-linux-x86_64.AppImage",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.17/reqable-app-linux-x86_64.AppImage"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.20/reqable-app-linux-x86_64.AppImage"
         },
         {
           "name": "reqable-app-linux-x86_64.deb",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.17/reqable-app-linux-x86_64.deb"
-        },
-        {
-          "name": "reqable-app-macos-arm64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.17/reqable-app-macos-arm64.dmg"
-        },
-        {
-          "name": "reqable-app-macos-x86_64.dmg",
-          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.17/reqable-app-macos-x86_64.dmg"
+          "url": "https://github.com/reqable/reqable-app/releases/download/3.2.20/reqable-app-linux-x86_64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -2012,29 +2004,29 @@
       "description": "\ud83e\udd9e OpenClaw & Hermes Agent \u591a\u5f15\u64ce AI \u7ba1\u7406\u9762\u677f \u2014 \u5185\u7f6e AI \u52a9\u624b\uff08\u5de5\u5177\u8c03\u7528 + \u56fe\u7247\u8bc6\u522b + \u591a\u6a21\u6001\uff09\uff0c\u4e00\u952e\u5b89\u88c5 | Tauri v2 \u8de8\u5e73\u53f0\u684c\u9762\u5e94\u7528 | 11 \u79cd\u8bed\u8a00",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/qingchencloud/clawpanel",
-      "release": "v0.19.1",
-      "updatedAt": "2026-07-23T19:18:49Z",
+      "release": "v0.19.2",
+      "updatedAt": "2026-08-05T05:13:30Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ClawPanel-0.19.1-1.x86_64.rpm",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel-0.19.1-1.x86_64.rpm"
+          "name": "ClawPanel-0.19.2-1.x86_64.rpm",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.2/ClawPanel-0.19.2-1.x86_64.rpm"
         },
         {
-          "name": "ClawPanel_0.19.1_aarch64.dmg",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_aarch64.dmg"
+          "name": "ClawPanel_0.19.2_aarch64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.2/ClawPanel_0.19.2_aarch64.dmg"
         },
         {
-          "name": "ClawPanel_0.19.1_amd64.AppImage",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_amd64.AppImage"
+          "name": "ClawPanel_0.19.2_amd64.AppImage",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.2/ClawPanel_0.19.2_amd64.AppImage"
         },
         {
-          "name": "ClawPanel_0.19.1_amd64.deb",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_amd64.deb"
+          "name": "ClawPanel_0.19.2_amd64.deb",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.2/ClawPanel_0.19.2_amd64.deb"
         },
         {
-          "name": "ClawPanel_0.19.1_x64.dmg",
-          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.1/ClawPanel_0.19.1_x64.dmg"
+          "name": "ClawPanel_0.19.2_x64.dmg",
+          "url": "https://github.com/qingchencloud/clawpanel/releases/download/v0.19.2/ClawPanel_0.19.2_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2706,25 +2698,25 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.6.0",
-      "updatedAt": "2026-08-02T18:05:17Z",
+      "release": "v12.6.1",
+      "updatedAt": "2026-08-05T02:14:09Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.6.0-amd64.deb",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-amd64.deb"
+          "name": "Skales-12.6.1-amd64.deb",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.1/Skales-12.6.1-amd64.deb"
         },
         {
-          "name": "Skales-12.6.0-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-arm64.dmg"
+          "name": "Skales-12.6.1-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.1/Skales-12.6.1-arm64.dmg"
         },
         {
-          "name": "Skales-12.6.0-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-x64.dmg"
+          "name": "Skales-12.6.1-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.1/Skales-12.6.1-x64.dmg"
         },
         {
-          "name": "Skales-12.6.0-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.0/Skales-12.6.0-x86_64.AppImage"
+          "name": "Skales-12.6.1-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.1/Skales-12.6.1-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2903,29 +2895,29 @@
       "description": "Agentic desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB & EasySearch. Natural language queries, visual management, and monitoring. Privacy-first. Open source.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/geek-fun/dockit",
-      "release": "v1.3.1",
-      "updatedAt": "2026-07-30T07:43:52Z",
+      "release": "v1.4.0",
+      "updatedAt": "2026-08-04T11:44:00Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "DocKit-1.3.1-1.x86_64.rpm",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.3.1/DocKit-1.3.1-1.x86_64.rpm"
+          "name": "DocKit-1.4.0-1.x86_64.rpm",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.0/DocKit-1.4.0-1.x86_64.rpm"
         },
         {
-          "name": "DocKit_1.3.1_amd64.AppImage",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.3.1/DocKit_1.3.1_amd64.AppImage"
+          "name": "DocKit_1.4.0_amd64.AppImage",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.0/DocKit_1.4.0_amd64.AppImage"
         },
         {
-          "name": "DocKit_1.3.1_amd64.deb",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.3.1/DocKit_1.3.1_amd64.deb"
+          "name": "DocKit_1.4.0_amd64.deb",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.0/DocKit_1.4.0_amd64.deb"
         },
         {
-          "name": "DocKit_1.3.1_universal.dmg",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.3.1/DocKit_1.3.1_universal.dmg"
+          "name": "DocKit_1.4.0_universal.dmg",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.0/DocKit_1.4.0_universal.dmg"
         },
         {
           "name": "DocKit_universal.app.tar.gz",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.3.1/DocKit_universal.app.tar.gz"
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.0/DocKit_universal.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2936,21 +2928,21 @@
       "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally \u2014 private, 100% offline on your computer.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AtomicBot-ai/Atomic-Chat",
-      "release": "v2.0.5",
-      "updatedAt": "2026-07-31T19:53:15Z",
+      "release": "v2.0.6",
+      "updatedAt": "2026-08-04T22:44:54Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Atomic.Chat.app.tar.gz",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.5/Atomic.Chat.app.tar.gz"
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.6/Atomic.Chat.app.tar.gz"
         },
         {
-          "name": "Atomic.Chat_2.0.5_amd64.AppImage",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.5/Atomic.Chat_2.0.5_amd64.AppImage"
+          "name": "Atomic.Chat_2.0.6_amd64.AppImage",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.6/Atomic.Chat_2.0.6_amd64.AppImage"
         },
         {
-          "name": "Atomic.Chat_2.0.5_universal.dmg",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.5/Atomic.Chat_2.0.5_universal.dmg"
+          "name": "Atomic.Chat_2.0.6_universal.dmg",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.6/Atomic.Chat_2.0.6_universal.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3214,25 +3206,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.6",
+      "release": "5.0.7",
       "updatedAt": "2026-07-18T01:30:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.6-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.7-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.6-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.7-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.6-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.7-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.6-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.6/Pixeval-5.0.6-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.7-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3411,41 +3403,41 @@
       "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/NanmiCoder/cc-haha",
-      "release": "v0.5.2",
-      "updatedAt": "2026-08-02T21:24:02Z",
+      "release": "v0.5.3",
+      "updatedAt": "2026-08-04T20:46:43Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Claude-Code-Haha-0.5.2-linux-aarch64.rpm",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-aarch64.rpm"
+          "name": "Claude-Code-Haha-0.5.3-linux-aarch64.rpm",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-aarch64.rpm"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-linux-amd64.deb",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-amd64.deb"
+          "name": "Claude-Code-Haha-0.5.3-linux-amd64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-amd64.deb"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-linux-arm64.AppImage",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-arm64.AppImage"
+          "name": "Claude-Code-Haha-0.5.3-linux-arm64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-arm64.AppImage"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-linux-arm64.deb",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-arm64.deb"
+          "name": "Claude-Code-Haha-0.5.3-linux-arm64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-arm64.deb"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-linux-x86_64.AppImage",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-x86_64.AppImage"
+          "name": "Claude-Code-Haha-0.5.3-linux-x86_64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-x86_64.AppImage"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-linux-x86_64.rpm",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-linux-x86_64.rpm"
+          "name": "Claude-Code-Haha-0.5.3-linux-x86_64.rpm",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-x86_64.rpm"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-mac-arm64.dmg",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-mac-arm64.dmg"
+          "name": "Claude-Code-Haha-0.5.3-mac-arm64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-mac-arm64.dmg"
         },
         {
-          "name": "Claude-Code-Haha-0.5.2-mac-x64.dmg",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.2/Claude-Code-Haha-0.5.2-mac-x64.dmg"
+          "name": "Claude-Code-Haha-0.5.3-mac-x64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3456,25 +3448,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.10.0",
-      "updatedAt": "2026-08-03T15:20:30Z",
+      "release": "v0.10.1",
+      "updatedAt": "2026-08-04T13:20:32Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.10.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science-0.10.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.10.1-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.1/aipoch-open-science-0.10.1-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.10.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science-0.10.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.10.1-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.1/aipoch-open-science-0.10.1-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.10.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science-0.10.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.10.1-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.1/aipoch-open-science-0.10.1-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.10.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.0/aipoch-open-science_0.10.0_amd64.deb"
+          "name": "aipoch-open-science_0.10.1_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.10.1/aipoch-open-science_0.10.1_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3485,37 +3477,37 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.2.34",
-      "updatedAt": "2026-08-02T18:00:28Z",
+      "release": "v0.2.35",
+      "updatedAt": "2026-08-04T15:35:56Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.2.34-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-linux-amd64.deb"
+          "name": "Kun-0.2.35-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.2.34-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-linux-x86_64.AppImage"
+          "name": "Kun-0.2.35-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-0.2.34-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.dmg"
+          "name": "Kun-0.2.35-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-arm64.dmg"
         },
         {
-          "name": "Kun-0.2.34-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-x64.dmg"
+          "name": "Kun-0.2.35-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.2.34-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-linux-x64.tar.gz"
+          "name": "Kun-TUI-0.2.35-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-linux-x64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.34-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-arm64.tar.gz"
+          "name": "Kun-TUI-0.2.35-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.34-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.2.35-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
