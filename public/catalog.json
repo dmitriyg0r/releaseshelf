@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T06:46:16Z",
+  "generatedAt": "2026-08-07T05:51:12Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -126,29 +126,29 @@
       "description": "A fast, privacy-focused browser built on Firefox technology.",
       "category": "Internet",
       "repositoryUrl": "https://github.com/zen-browser/desktop",
-      "release": "1.21.10b",
-      "updatedAt": "2026-07-30T16:50:56Z",
+      "release": "1.21.11b",
+      "updatedAt": "2026-08-06T14:58:54Z",
       "verification": "community",
       "assets": [
         {
           "name": "zen-aarch64.AppImage",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.10b/zen-aarch64.AppImage"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.11b/zen-aarch64.AppImage"
         },
         {
           "name": "zen-x86_64.AppImage",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.10b/zen-x86_64.AppImage"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.11b/zen-x86_64.AppImage"
         },
         {
           "name": "zen.linux-aarch64.tar.xz",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.10b/zen.linux-aarch64.tar.xz"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.11b/zen.linux-aarch64.tar.xz"
         },
         {
           "name": "zen.linux-x86_64.tar.xz",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.10b/zen.linux-x86_64.tar.xz"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.11b/zen.linux-x86_64.tar.xz"
         },
         {
           "name": "zen.macos-universal.dmg",
-          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.10b/zen.macos-universal.dmg"
+          "url": "https://github.com/zen-browser/desktop/releases/download/1.21.11b/zen.macos-universal.dmg"
         }
       ],
       "accent": "#8f6df2"
@@ -504,41 +504,41 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/farion1231/cc-switch",
-      "release": "v3.19.1",
-      "updatedAt": "2026-07-31T14:53:23Z",
+      "release": "v3.19.2",
+      "updatedAt": "2026-08-06T04:39:34Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CC-Switch-v3.19.1-Linux-arm64.AppImage",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.AppImage"
+          "name": "CC-Switch-v3.19.2-Linux-arm64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.AppImage"
         },
         {
-          "name": "CC-Switch-v3.19.1-Linux-arm64.deb",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.deb"
+          "name": "CC-Switch-v3.19.2-Linux-arm64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.deb"
         },
         {
-          "name": "CC-Switch-v3.19.1-Linux-arm64.rpm",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.rpm"
+          "name": "CC-Switch-v3.19.2-Linux-arm64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.rpm"
         },
         {
-          "name": "CC-Switch-v3.19.1-Linux-x86_64.AppImage",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.AppImage"
+          "name": "CC-Switch-v3.19.2-Linux-x86_64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-x86_64.AppImage"
         },
         {
-          "name": "CC-Switch-v3.19.1-Linux-x86_64.deb",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.deb"
+          "name": "CC-Switch-v3.19.2-Linux-x86_64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-x86_64.deb"
         },
         {
-          "name": "CC-Switch-v3.19.1-Linux-x86_64.rpm",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.rpm"
+          "name": "CC-Switch-v3.19.2-Linux-x86_64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-x86_64.rpm"
         },
         {
-          "name": "CC-Switch-v3.19.1-macOS.dmg",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.dmg"
+          "name": "CC-Switch-v3.19.2-macOS.dmg",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-macOS.dmg"
         },
         {
-          "name": "CC-Switch-v3.19.1-macOS.tar.gz",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.tar.gz"
+          "name": "CC-Switch-v3.19.2-macOS.tar.gz",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-macOS.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -549,17 +549,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.18.0",
-      "updatedAt": "2026-08-05T17:31:17Z",
+      "release": "open-design-v0.18.1",
+      "updatedAt": "2026-08-07T03:17:32Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.18.0-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.18.0/open-design-0.18.0-mac-arm64.dmg"
+          "name": "open-design-0.18.1-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.18.1/open-design-0.18.1-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.18.0-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.18.0/open-design-0.18.0-mac-x64.dmg"
+          "name": "open-design-0.18.1-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.18.1/open-design-0.18.1-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1802,49 +1802,49 @@
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/golutra/golutra",
-      "release": "v0.3.1",
-      "updatedAt": "2026-07-21T11:49:59Z",
+      "release": "v0.3.2",
+      "updatedAt": "2026-08-06T09:55:18Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "golutra_darwin_aarch64.app.tar.gz",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_darwin_aarch64.app.tar.gz"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_darwin_aarch64.app.tar.gz"
         },
         {
           "name": "golutra_darwin_aarch64.dmg",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_darwin_aarch64.dmg"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_darwin_aarch64.dmg"
         },
         {
           "name": "golutra_darwin_x86_64.app.tar.gz",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_darwin_x86_64.app.tar.gz"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_darwin_x86_64.app.tar.gz"
         },
         {
           "name": "golutra_darwin_x86_64.dmg",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_darwin_x86_64.dmg"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_darwin_x86_64.dmg"
         },
         {
           "name": "golutra_linux_aarch64.AppImage",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_linux_aarch64.AppImage"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_linux_aarch64.AppImage"
         },
         {
           "name": "golutra_linux_aarch64.deb",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_linux_aarch64.deb"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_linux_aarch64.deb"
         },
         {
           "name": "golutra_linux_aarch64.rpm",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_linux_aarch64.rpm"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_linux_aarch64.rpm"
         },
         {
           "name": "golutra_linux_x86_64.AppImage",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_linux_x86_64.AppImage"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_linux_x86_64.AppImage"
         },
         {
           "name": "golutra_linux_x86_64.deb",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_linux_x86_64.deb"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_linux_x86_64.deb"
         },
         {
           "name": "golutra_linux_x86_64.rpm",
-          "url": "https://github.com/golutra/golutra/releases/download/v0.3.1/golutra_linux_x86_64.rpm"
+          "url": "https://github.com/golutra/golutra/releases/download/v0.3.2/golutra_linux_x86_64.rpm"
         }
       ],
       "accent": "#6e7681"
@@ -2467,14 +2467,6 @@
       "verification": "discovered",
       "assets": [
         {
-          "name": "oh-my-ppt-2.2.0-mac_arm64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.0-mac_arm64.dmg"
-        },
-        {
-          "name": "oh-my-ppt-2.2.0-mac_x64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.0-mac_x64.dmg"
-        },
-        {
           "name": "oh-my-ppt-2.2.1-mac_arm64.dmg",
           "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.1-mac_arm64.dmg"
         },
@@ -2599,29 +2591,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.121.0",
-      "updatedAt": "2026-08-05T10:23:21Z",
+      "release": "v1.122.0",
+      "updatedAt": "2026-08-06T13:31:07Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.121.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.121.0/lime-1.121.0-darwin-amd64.tar.gz"
+          "name": "lime-1.122.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.122.0/lime-1.122.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.121.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.121.0/lime-1.121.0-darwin-arm64.tar.gz"
+          "name": "lime-1.122.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.122.0/lime-1.122.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.121.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.121.0/lime-1.121.0-linux-amd64.tar.gz"
+          "name": "lime-1.122.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.122.0/lime-1.122.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.121.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.121.0/macos-arm64-Lime-1.121.0.dmg"
+          "name": "macos-arm64-Lime-1.122.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.122.0/macos-arm64-Lime-1.122.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.121.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.121.0/macos-x64-Lime-1.121.0.dmg"
+          "name": "macos-x64-Lime-1.122.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.122.0/macos-x64-Lime-1.122.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2698,25 +2690,25 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.6.5",
-      "updatedAt": "2026-08-06T04:29:41Z",
+      "release": "v12.6.51",
+      "updatedAt": "2026-08-06T11:26:49Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.6.5-amd64.deb",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.5/Skales-12.6.5-amd64.deb"
+          "name": "Skales-12.6.51-amd64.deb",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.51/Skales-12.6.51-amd64.deb"
         },
         {
-          "name": "Skales-12.6.5-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.5/Skales-12.6.5-arm64.dmg"
+          "name": "Skales-12.6.51-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.51/Skales-12.6.51-arm64.dmg"
         },
         {
-          "name": "Skales-12.6.5-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.5/Skales-12.6.5-x64.dmg"
+          "name": "Skales-12.6.51-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.51/Skales-12.6.51-x64.dmg"
         },
         {
-          "name": "Skales-12.6.5-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.5/Skales-12.6.5-x86_64.AppImage"
+          "name": "Skales-12.6.51-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.6.51/Skales-12.6.51-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3477,37 +3469,37 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.2.35",
-      "updatedAt": "2026-08-04T15:35:56Z",
+      "release": "v0.2.36",
+      "updatedAt": "2026-08-07T02:33:27Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.2.35-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-linux-amd64.deb"
+          "name": "Kun-0.2.36-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-0.2.36-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.2.35-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-linux-x86_64.AppImage"
+          "name": "Kun-0.2.36-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-0.2.36-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-0.2.35-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-arm64.dmg"
+          "name": "Kun-0.2.36-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-0.2.36-mac-arm64.dmg"
         },
         {
-          "name": "Kun-0.2.35-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-x64.dmg"
+          "name": "Kun-0.2.36-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-0.2.36-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.2.35-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-linux-x64.tar.gz"
+          "name": "Kun-TUI-0.2.36-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-TUI-0.2.36-linux-x64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.35-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-arm64.tar.gz"
+          "name": "Kun-TUI-0.2.36-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-TUI-0.2.36-mac-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.35-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.2.36-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.36/Kun-TUI-0.2.36-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3529,6 +3521,39 @@
         {
           "name": "Orkas-1.6.2.dmg",
           "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.7.29/Orkas-1.6.2.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "syngnat--gonavi",
+      "name": "GoNavi",
+      "description": "High-performance multi-data-source database client \u2014 ~30MB, AI & MCP ready, zero Electron bloat. | \u9ad8\u6027\u80fd\u591a\u6570\u636e\u6e90\u6570\u636e\u5e93\u5ba2\u6237\u7aef\uff1a\u7ea6 30MB\uff0cAI \u4e0e MCP \u5c31\u7eea\uff0c\u544a\u522b Electron \u81a8\u80c0\u3002",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/Syngnat/GoNavi",
+      "release": "v0.9.2",
+      "updatedAt": "2026-08-06T05:21:44Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "GoNavi-0.9.2-Linux-Amd64-WebKit41.tar.gz",
+          "url": "https://github.com/Syngnat/GoNavi/releases/download/v0.9.2/GoNavi-0.9.2-Linux-Amd64-WebKit41.tar.gz"
+        },
+        {
+          "name": "GoNavi-0.9.2-Linux-Amd64.tar.gz",
+          "url": "https://github.com/Syngnat/GoNavi/releases/download/v0.9.2/GoNavi-0.9.2-Linux-Amd64.tar.gz"
+        },
+        {
+          "name": "GoNavi-0.9.2-Linux-Arm64.tar.gz",
+          "url": "https://github.com/Syngnat/GoNavi/releases/download/v0.9.2/GoNavi-0.9.2-Linux-Arm64.tar.gz"
+        },
+        {
+          "name": "GoNavi-0.9.2-MacOS-Amd64.dmg",
+          "url": "https://github.com/Syngnat/GoNavi/releases/download/v0.9.2/GoNavi-0.9.2-MacOS-Amd64.dmg"
+        },
+        {
+          "name": "GoNavi-0.9.2-MacOS-Arm64.dmg",
+          "url": "https://github.com/Syngnat/GoNavi/releases/download/v0.9.2/GoNavi-0.9.2-MacOS-Arm64.dmg"
         }
       ],
       "accent": "#6e7681"
