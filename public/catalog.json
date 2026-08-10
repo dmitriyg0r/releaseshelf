@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T05:18:43Z",
+  "generatedAt": "2026-08-10T05:44:39Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -725,37 +725,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.46.0",
-      "updatedAt": "2026-08-08T20:59:46Z",
+      "release": "player@1.46.1",
+      "updatedAt": "2026-08-09T08:28:13Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.46.0-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear-1.46.0-1.x86_64.rpm"
+          "name": "Nuclear-1.46.1-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear-1.46.1-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.46.0_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear_1.46.0_aarch64.dmg"
+          "name": "Nuclear_1.46.1_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear_1.46.1_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.46.0_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear_1.46.0_amd64.AppImage"
+          "name": "Nuclear_1.46.1_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear_1.46.1_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.46.0_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear_1.46.0_amd64.deb"
+          "name": "Nuclear_1.46.1_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear_1.46.1_amd64.deb"
         },
         {
-          "name": "Nuclear_1.46.0_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear_1.46.0_x64.dmg"
+          "name": "Nuclear_1.46.1_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear_1.46.1_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.0/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.1/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -840,33 +840,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.19.0",
-      "updatedAt": "2026-08-05T15:55:43Z",
+      "release": "desktop-v1.20.0",
+      "updatedAt": "2026-08-10T03:30:26Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.19.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.19.0/Superset-1.19.0-arm64.dmg"
+          "name": "Superset-1.20.0-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.20.0/Superset-1.20.0-arm64.dmg"
         },
         {
-          "name": "superset-1.19.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.19.0/superset-1.19.0-x86_64.AppImage"
+          "name": "superset-1.20.0-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.20.0/superset-1.20.0-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.19.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.19.0/Superset-1.19.0.dmg"
+          "name": "Superset-1.20.0.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.20.0/Superset-1.20.0.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.19.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.20.0/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.19.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.20.0/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.19.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.20.0/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1749,49 +1749,49 @@
       "description": "Ad-blocker and privacy guard for Windows, macOS and Linux.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/irbis-sh/zen-desktop",
-      "release": "v0.24.1",
-      "updatedAt": "2026-07-22T22:37:44Z",
+      "release": "v0.25.0",
+      "updatedAt": "2026-08-09T21:24:29Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Zen-amd64.dmg",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen-amd64.dmg"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen-amd64.dmg"
         },
         {
           "name": "Zen-arm64.dmg",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen-arm64.dmg"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen-arm64.dmg"
         },
         {
           "name": "Zen_darwin_amd64.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_darwin_amd64.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_darwin_amd64.tar.gz"
         },
         {
           "name": "Zen_darwin_amd64_noselfupdate.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_darwin_amd64_noselfupdate.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_darwin_amd64_noselfupdate.tar.gz"
         },
         {
           "name": "Zen_darwin_arm64.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_darwin_arm64.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_darwin_arm64.tar.gz"
         },
         {
           "name": "Zen_darwin_arm64_noselfupdate.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_darwin_arm64_noselfupdate.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_darwin_arm64_noselfupdate.tar.gz"
         },
         {
           "name": "Zen_linux_amd64.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_linux_amd64.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_linux_amd64.tar.gz"
         },
         {
           "name": "Zen_linux_amd64_noselfupdate.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_linux_amd64_noselfupdate.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_linux_amd64_noselfupdate.tar.gz"
         },
         {
           "name": "Zen_linux_arm64.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_linux_arm64.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_linux_arm64.tar.gz"
         },
         {
           "name": "Zen_linux_arm64_noselfupdate.tar.gz",
-          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen_linux_arm64_noselfupdate.tar.gz"
+          "url": "https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen_linux_arm64_noselfupdate.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2462,17 +2462,17 @@
       "description": "Describe what you need \u2014 a presentation, lesson, or story \u2014 and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/arcsin1/oh-my-ppt",
-      "release": "v2.2.0",
-      "updatedAt": "2026-08-03T06:06:19Z",
+      "release": "v2.3.0",
+      "updatedAt": "2026-08-09T07:34:59Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "oh-my-ppt-2.2.1-mac_arm64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.1-mac_arm64.dmg"
+          "name": "oh-my-ppt-2.3.0-mac_arm64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.3.0/oh-my-ppt-2.3.0-mac_arm64.dmg"
         },
         {
-          "name": "oh-my-ppt-2.2.1-mac_x64.dmg",
-          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.2.0/oh-my-ppt-2.2.1-mac_x64.dmg"
+          "name": "oh-my-ppt-2.3.0-mac_x64.dmg",
+          "url": "https://github.com/arcsin1/oh-my-ppt/releases/download/v2.3.0/oh-my-ppt-2.3.0-mac_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2752,29 +2752,29 @@
       "description": "Open-source AI agent harness in native Rust \u2014 GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/thClaws/thClaws",
-      "release": "v0.109.0",
-      "updatedAt": "2026-08-03T10:22:58Z",
+      "release": "v0.110.0",
+      "updatedAt": "2026-08-09T07:36:47Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "thclaws-v0.109.0-aarch64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-aarch64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.110.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.110.0/thclaws-v0.110.0-aarch64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.109.0-aarch64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-aarch64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.110.0-aarch64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.110.0/thclaws-v0.110.0-aarch64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "thclaws-v0.109.0-universal-apple-darwin.dmg",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-universal-apple-darwin.dmg"
+          "name": "thclaws-v0.110.0-universal-apple-darwin.dmg",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.110.0/thclaws-v0.110.0-universal-apple-darwin.dmg"
         },
         {
-          "name": "thclaws-v0.109.0-x86_64-apple-darwin.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-x86_64-apple-darwin.tar.gz"
+          "name": "thclaws-v0.110.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.110.0/thclaws-v0.110.0-x86_64-apple-darwin.tar.gz"
         },
         {
-          "name": "thclaws-v0.109.0-x86_64-unknown-linux-gnu.tar.gz",
-          "url": "https://github.com/thClaws/thClaws/releases/download/v0.109.0/thclaws-v0.109.0-x86_64-unknown-linux-gnu.tar.gz"
+          "name": "thclaws-v0.110.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/thClaws/thClaws/releases/download/v0.110.0/thclaws-v0.110.0-x86_64-unknown-linux-gnu.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3061,25 +3061,25 @@
       "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "release": "v2.6.3",
-      "updatedAt": "2026-08-08T22:56:36Z",
+      "release": "v2.6.4",
+      "updatedAt": "2026-08-10T00:19:54Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Locally.Uncensored-2.6.3-1.x86_64.rpm",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.3/Locally.Uncensored-2.6.3-1.x86_64.rpm"
+          "name": "Locally.Uncensored-2.6.4-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored-2.6.4-1.x86_64.rpm"
         },
         {
-          "name": "Locally.Uncensored_2.6.3_amd64.AppImage",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.3/Locally.Uncensored_2.6.3_amd64.AppImage"
+          "name": "Locally.Uncensored_2.6.4_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored_2.6.4_amd64.AppImage"
         },
         {
-          "name": "Locally.Uncensored_2.6.3_amd64.AppImage.tar.gz",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.3/Locally.Uncensored_2.6.3_amd64.AppImage.tar.gz"
+          "name": "Locally.Uncensored_2.6.4_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored_2.6.4_amd64.AppImage.tar.gz"
         },
         {
-          "name": "Locally.Uncensored_2.6.3_amd64.deb",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.3/Locally.Uncensored_2.6.3_amd64.deb"
+          "name": "Locally.Uncensored_2.6.4_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored_2.6.4_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3198,25 +3198,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.7",
+      "release": "5.0.8",
       "updatedAt": "2026-07-18T01:30:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.7-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.8-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.8/Pixeval-5.0.8-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.7-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.8-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.8/Pixeval-5.0.8-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.7-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.8-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.8/Pixeval-5.0.8-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.7-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.7/Pixeval-5.0.7-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.8-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.8/Pixeval-5.0.8-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3227,37 +3227,37 @@
       "description": "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Stack-Cairn/LiveAgent",
-      "release": "v1.2.3",
-      "updatedAt": "2026-07-27T21:15:58Z",
+      "release": "v1.2.4",
+      "updatedAt": "2026-08-09T13:03:52Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "LiveAgent-v1.2.3-Linux-x86_64.AppImage",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-Linux-x86_64.AppImage"
+          "name": "LiveAgent-v1.2.4-Linux-x86_64.AppImage",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-Linux-x86_64.AppImage"
         },
         {
-          "name": "LiveAgent-v1.2.3-Linux-x86_64.deb",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-Linux-x86_64.deb"
+          "name": "LiveAgent-v1.2.4-Linux-x86_64.deb",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-Linux-x86_64.deb"
         },
         {
-          "name": "LiveAgent-v1.2.3-Linux-x86_64.rpm",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-Linux-x86_64.rpm"
+          "name": "LiveAgent-v1.2.4-Linux-x86_64.rpm",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-Linux-x86_64.rpm"
         },
         {
-          "name": "LiveAgent-v1.2.3-macOS-aarch64.app.tar.gz",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-macOS-aarch64.app.tar.gz"
+          "name": "LiveAgent-v1.2.4-macOS-aarch64.app.tar.gz",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-macOS-aarch64.app.tar.gz"
         },
         {
-          "name": "LiveAgent-v1.2.3-macOS-aarch64.dmg",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-macOS-aarch64.dmg"
+          "name": "LiveAgent-v1.2.4-macOS-aarch64.dmg",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-macOS-aarch64.dmg"
         },
         {
-          "name": "LiveAgent-v1.2.3-macOS-x64.app.tar.gz",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-macOS-x64.app.tar.gz"
+          "name": "LiveAgent-v1.2.4-macOS-x64.app.tar.gz",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-macOS-x64.app.tar.gz"
         },
         {
-          "name": "LiveAgent-v1.2.3-macOS-x64.dmg",
-          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.3/LiveAgent-v1.2.3-macOS-x64.dmg"
+          "name": "LiveAgent-v1.2.4-macOS-x64.dmg",
+          "url": "https://github.com/Stack-Cairn/LiveAgent/releases/download/v1.2.4/LiveAgent-v1.2.4-macOS-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3440,25 +3440,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.12.0",
-      "updatedAt": "2026-08-08T16:23:39Z",
+      "release": "v0.12.1",
+      "updatedAt": "2026-08-09T07:52:37Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.12.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.0/aipoch-open-science-0.12.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.12.1-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.1/aipoch-open-science-0.12.1-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.12.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.0/aipoch-open-science-0.12.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.12.1-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.1/aipoch-open-science-0.12.1-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.12.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.0/aipoch-open-science-0.12.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.12.1-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.1/aipoch-open-science-0.12.1-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.12.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.0/aipoch-open-science_0.12.0_amd64.deb"
+          "name": "aipoch-open-science_0.12.1_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.12.1/aipoch-open-science_0.12.1_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3579,6 +3579,35 @@
         {
           "name": "Tutti-0.2.22-mac-x64.dmg",
           "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.22/Tutti-0.2.22-mac-x64.dmg"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "xuzhougeng--wisp-science",
+      "name": "wisp-science",
+      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/xuzhougeng/wisp-science",
+      "release": "v0.36.0",
+      "updatedAt": "2026-08-09T05:53:10Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "wisp-science_0.36.0_aarch64.app.tar.gz",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v0.36.0/wisp-science_0.36.0_aarch64.app.tar.gz"
+        },
+        {
+          "name": "wisp-science_0.36.0_aarch64.dmg",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v0.36.0/wisp-science_0.36.0_aarch64.dmg"
+        },
+        {
+          "name": "wisp-science_0.36.0_x64.app.tar.gz",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v0.36.0/wisp-science_0.36.0_x64.app.tar.gz"
+        },
+        {
+          "name": "wisp-science_0.36.0_x64.dmg",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v0.36.0/wisp-science_0.36.0_x64.dmg"
         }
       ],
       "accent": "#6e7681"
