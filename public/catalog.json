@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T05:29:26Z",
+  "generatedAt": "2026-08-12T05:46:50Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -8,37 +8,37 @@
       "description": "A secure, local-first workspace for notes, tasks, and team collaboration.",
       "category": "Productivity",
       "repositoryUrl": "https://github.com/AppFlowy-IO/AppFlowy",
-      "release": "0.13.1",
-      "updatedAt": "2026-08-09T02:32:35Z",
+      "release": "0.13.2",
+      "updatedAt": "2026-08-11T13:01:19Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "AppFlowy-0.13.1-linux-x86_64.AppImage",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-linux-x86_64.AppImage"
+          "name": "AppFlowy-0.13.2-linux-x86_64.AppImage",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-linux-x86_64.AppImage"
         },
         {
-          "name": "AppFlowy-0.13.1-linux-x86_64.deb",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-linux-x86_64.deb"
+          "name": "AppFlowy-0.13.2-linux-x86_64.deb",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-linux-x86_64.deb"
         },
         {
-          "name": "AppFlowy-0.13.1-linux-x86_64.rpm",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-linux-x86_64.rpm"
+          "name": "AppFlowy-0.13.2-linux-x86_64.rpm",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-linux-x86_64.rpm"
         },
         {
-          "name": "AppFlowy-0.13.1-linux-x86_64.tar.gz",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-linux-x86_64.tar.gz"
+          "name": "AppFlowy-0.13.2-linux-x86_64.tar.gz",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-linux-x86_64.tar.gz"
         },
         {
-          "name": "AppFlowy-0.13.1-macos-arm64.dmg",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-macos-arm64.dmg"
+          "name": "AppFlowy-0.13.2-macos-arm64.dmg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-macos-arm64.dmg"
         },
         {
-          "name": "AppFlowy-0.13.1-macos-universal.dmg",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-macos-universal.dmg"
+          "name": "AppFlowy-0.13.2-macos-universal.dmg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-macos-universal.dmg"
         },
         {
-          "name": "AppFlowy-0.13.1-macos-x86_64.dmg",
-          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.1/AppFlowy-0.13.1-macos-x86_64.dmg"
+          "name": "AppFlowy-0.13.2-macos-x86_64.dmg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-macos-x86_64.dmg"
         }
       ],
       "accent": "#7856ff",
@@ -565,17 +565,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.18.1",
-      "updatedAt": "2026-08-07T03:17:32Z",
+      "release": "open-design-v0.19.0",
+      "updatedAt": "2026-08-11T15:43:42Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.18.1-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.18.1/open-design-0.18.1-mac-arm64.dmg"
+          "name": "open-design-0.19.0-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.19.0/open-design-0.19.0-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.18.1-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.18.1/open-design-0.18.1-mac-x64.dmg"
+          "name": "open-design-0.19.0-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.19.0/open-design-0.19.0-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1297,41 +1297,41 @@
       "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/beekeeper-studio/beekeeper-studio",
-      "release": "v5.9.3",
-      "updatedAt": "2026-07-31T17:34:28Z",
+      "release": "v6.0.0",
+      "updatedAt": "2026-08-11T18:20:07Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Beekeeper-Studio-5.9.3-arm64.AppImage",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3-arm64.AppImage"
+          "name": "Beekeeper-Studio-6.0.0-arm64.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/Beekeeper-Studio-6.0.0-arm64.AppImage"
         },
         {
-          "name": "Beekeeper-Studio-5.9.3-arm64.dmg",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3-arm64.dmg"
+          "name": "Beekeeper-Studio-6.0.0-arm64.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/Beekeeper-Studio-6.0.0-arm64.dmg"
         },
         {
-          "name": "beekeeper-studio-5.9.3.aarch64.rpm",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio-5.9.3.aarch64.rpm"
+          "name": "beekeeper-studio-6.0.0.aarch64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/beekeeper-studio-6.0.0.aarch64.rpm"
         },
         {
-          "name": "Beekeeper-Studio-5.9.3.AppImage",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3.AppImage"
+          "name": "Beekeeper-Studio-6.0.0.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/Beekeeper-Studio-6.0.0.AppImage"
         },
         {
-          "name": "Beekeeper-Studio-5.9.3.dmg",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/Beekeeper-Studio-5.9.3.dmg"
+          "name": "Beekeeper-Studio-6.0.0.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/Beekeeper-Studio-6.0.0.dmg"
         },
         {
-          "name": "beekeeper-studio-5.9.3.x86_64.rpm",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio-5.9.3.x86_64.rpm"
+          "name": "beekeeper-studio-6.0.0.x86_64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/beekeeper-studio-6.0.0.x86_64.rpm"
         },
         {
-          "name": "beekeeper-studio_5.9.3_amd64.deb",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio_5.9.3_amd64.deb"
+          "name": "beekeeper-studio_6.0.0_amd64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/beekeeper-studio_6.0.0_amd64.deb"
         },
         {
-          "name": "beekeeper-studio_5.9.3_arm64.deb",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.3/beekeeper-studio_5.9.3_arm64.deb"
+          "name": "beekeeper-studio_6.0.0_arm64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.0/beekeeper-studio_6.0.0_arm64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -1710,17 +1710,17 @@
       "description": "Open-source, desktop-grade AI agent that gets real work done \u2014 data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/netease-youdao/LobsterAI",
-      "release": "2026.8.7",
-      "updatedAt": "2026-08-07T17:02:59Z",
+      "release": "2026.8.11",
+      "updatedAt": "2026-08-11T13:53:31Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "LobsterAI--mac-arm64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.7/LobsterAI--mac-arm64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.11/LobsterAI--mac-arm64.dmg"
         },
         {
           "name": "LobsterAI--mac-x64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.7/LobsterAI--mac-x64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.11/LobsterAI--mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2809,53 +2809,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.31.0",
-      "updatedAt": "2026-08-08T07:39:33Z",
+      "release": "v0.32.0",
+      "updatedAt": "2026-08-12T05:39:12Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.31.0-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/hope-agent-0.31.0-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.32.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/hope-agent-0.32.0-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.31.0-linux-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/hope-agent-0.31.0-linux-aarch64.tar.gz"
+          "name": "hope-agent-0.32.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/hope-agent-0.32.0-linux-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.31.0-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/hope-agent-0.31.0-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.32.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/hope-agent-0.32.0-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.31.0-1.aarch64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent-0.31.0-1.aarch64.rpm"
+          "name": "Hope.Agent-0.32.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent-0.32.0-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent-0.31.0-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent-0.31.0-1.x86_64.rpm"
+          "name": "Hope.Agent-0.32.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent-0.32.0-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.31.0_aarch64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent_0.31.0_aarch64.AppImage"
+          "name": "Hope.Agent_0.32.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_aarch64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.31.0_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent_0.31.0_aarch64.dmg"
+          "name": "Hope.Agent_0.32.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_aarch64.dmg"
         },
         {
-          "name": "Hope.Agent_0.31.0_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent_0.31.0_amd64.AppImage"
+          "name": "Hope.Agent_0.32.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_amd64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.31.0_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent_0.31.0_amd64.deb"
+          "name": "Hope.Agent_0.32.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_amd64.deb"
         },
         {
-          "name": "Hope.Agent_0.31.0_arm64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent_0.31.0_arm64.deb"
+          "name": "Hope.Agent_0.32.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.31.0/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3223,7 +3223,7 @@
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
       "release": "5.0.9",
-      "updatedAt": "2026-07-18T01:30:03Z",
+      "updatedAt": "2026-08-11T16:39:46Z",
       "verification": "discovered",
       "assets": [
         {
@@ -3464,25 +3464,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.13.0",
-      "updatedAt": "2026-08-10T10:51:33Z",
+      "release": "v0.13.1",
+      "updatedAt": "2026-08-11T15:50:19Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.13.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.0/aipoch-open-science-0.13.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.13.1-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.1/aipoch-open-science-0.13.1-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.13.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.0/aipoch-open-science-0.13.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.13.1-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.1/aipoch-open-science-0.13.1-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.13.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.0/aipoch-open-science-0.13.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.13.1-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.1/aipoch-open-science-0.13.1-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.13.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.0/aipoch-open-science_0.13.0_amd64.deb"
+          "name": "aipoch-open-science_0.13.1_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.13.1/aipoch-open-science_0.13.1_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3534,17 +3534,17 @@
       "description": "Open-source multi-agent AI desktop client \u2014 build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude \u00b7 OpenAI \u00b7 Gemini \u00b7 DeepSeek \u00b7 Kimi \u00b7 GLM \u00b7 Qwen). macOS / Windows / Linux.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Orkas-AI/Orkas",
-      "release": "v2026.7.29",
-      "updatedAt": "2026-07-29T11:53:21Z",
+      "release": "v2026.8.11",
+      "updatedAt": "2026-08-11T08:41:37Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Orkas-1.6.2-arm64.dmg",
-          "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.7.29/Orkas-1.6.2-arm64.dmg"
+          "name": "Orkas-1.6.5-arm64.dmg",
+          "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.8.11/Orkas-1.6.5-arm64.dmg"
         },
         {
-          "name": "Orkas-1.6.2.dmg",
-          "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.7.29/Orkas-1.6.2.dmg"
+          "name": "Orkas-1.6.5.dmg",
+          "url": "https://github.com/Orkas-AI/Orkas/releases/download/v2026.8.11/Orkas-1.6.5.dmg"
         }
       ],
       "accent": "#6e7681"
