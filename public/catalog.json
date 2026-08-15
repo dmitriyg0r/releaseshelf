@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T05:46:46Z",
+  "generatedAt": "2026-08-15T04:47:29Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -565,17 +565,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.19.0",
-      "updatedAt": "2026-08-11T15:43:42Z",
+      "release": "open-design-v0.19.2",
+      "updatedAt": "2026-08-14T16:17:47Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.19.0-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.19.0/open-design-0.19.0-mac-arm64.dmg"
+          "name": "open-design-0.19.2-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.19.2/open-design-0.19.2-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.19.0-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.19.0/open-design-0.19.0-mac-x64.dmg"
+          "name": "open-design-0.19.2-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.19.2/open-design-0.19.2-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -741,37 +741,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.46.3",
-      "updatedAt": "2026-08-13T15:44:54Z",
+      "release": "player@1.47.0",
+      "updatedAt": "2026-08-14T23:35:51Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.46.3-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear-1.46.3-1.x86_64.rpm"
+          "name": "Nuclear-1.47.0-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear-1.47.0-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.46.3_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear_1.46.3_aarch64.dmg"
+          "name": "Nuclear_1.47.0_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.46.3_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear_1.46.3_amd64.AppImage"
+          "name": "Nuclear_1.47.0_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.46.3_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear_1.46.3_amd64.deb"
+          "name": "Nuclear_1.47.0_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_amd64.deb"
         },
         {
-          "name": "Nuclear_1.46.3_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear_1.46.3_x64.dmg"
+          "name": "Nuclear_1.47.0_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.46.3/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -856,33 +856,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.21.0",
-      "updatedAt": "2026-08-13T19:52:23Z",
+      "release": "desktop-v1.22.0",
+      "updatedAt": "2026-08-14T21:31:02Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.21.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.21.0/Superset-1.21.0-arm64.dmg"
+          "name": "Superset-1.22.0-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-1.22.0-arm64.dmg"
         },
         {
-          "name": "superset-1.21.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.21.0/superset-1.21.0-x86_64.AppImage"
+          "name": "superset-1.22.0-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/superset-1.22.0-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.21.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.21.0/Superset-1.21.0.dmg"
+          "name": "Superset-1.22.0.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-1.22.0.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.21.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.21.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.21.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1396,161 +1396,161 @@
       "description": "\ud83d\udcfbTerminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/electerm/electerm",
-      "release": "v5.1.16",
-      "updatedAt": "2026-08-14T02:39:50Z",
+      "release": "v5.1.20",
+      "updatedAt": "2026-08-14T12:28:54Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "electerm-5.1.16-linux-aarch64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-aarch64-legacy.rpm"
+          "name": "electerm-5.1.20-linux-aarch64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-aarch64-legacy.rpm"
         },
         {
-          "name": "electerm-5.1.16-linux-aarch64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-aarch64.rpm"
+          "name": "electerm-5.1.20-linux-aarch64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-aarch64.rpm"
         },
         {
-          "name": "electerm-5.1.16-linux-amd64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-amd64-legacy.deb"
+          "name": "electerm-5.1.20-linux-amd64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-amd64-legacy.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-amd64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-amd64.deb"
+          "name": "electerm-5.1.20-linux-amd64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-amd64.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-arm64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-arm64-legacy.AppImage"
+          "name": "electerm-5.1.20-linux-arm64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-arm64-legacy.AppImage"
         },
         {
-          "name": "electerm-5.1.16-linux-arm64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-arm64-legacy.deb"
+          "name": "electerm-5.1.20-linux-arm64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-arm64-legacy.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-arm64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-arm64-legacy.tar.gz"
+          "name": "electerm-5.1.20-linux-arm64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-arm64-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-arm64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-arm64.AppImage"
+          "name": "electerm-5.1.20-linux-arm64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-arm64.AppImage"
         },
         {
-          "name": "electerm-5.1.16-linux-arm64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-arm64.deb"
+          "name": "electerm-5.1.20-linux-arm64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-arm64.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-arm64.tar.gz"
+          "name": "electerm-5.1.20-linux-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-arm64.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l-legacy.AppImage"
+          "name": "electerm-5.1.20-linux-armv7l-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l-legacy.AppImage"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l-legacy.deb"
+          "name": "electerm-5.1.20-linux-armv7l-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l-legacy.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l-legacy.rpm"
+          "name": "electerm-5.1.20-linux-armv7l-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l-legacy.rpm"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l-legacy.tar.gz"
+          "name": "electerm-5.1.20-linux-armv7l-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l.AppImage"
+          "name": "electerm-5.1.20-linux-armv7l.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l.AppImage"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l.deb"
+          "name": "electerm-5.1.20-linux-armv7l.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l.rpm"
+          "name": "electerm-5.1.20-linux-armv7l.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l.rpm"
         },
         {
-          "name": "electerm-5.1.16-linux-armv7l.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-armv7l.tar.gz"
+          "name": "electerm-5.1.20-linux-armv7l.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-armv7l.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-loong64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-loong64-legacy.deb"
+          "name": "electerm-5.1.20-linux-loong64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-loong64-legacy.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-loong64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-loong64-legacy.tar.gz"
+          "name": "electerm-5.1.20-linux-loong64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-loong64-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-loong64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-loong64.deb"
+          "name": "electerm-5.1.20-linux-loong64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-loong64.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-loong64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-loong64.tar.gz"
+          "name": "electerm-5.1.20-linux-loong64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-loong64.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-loongarch64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-loongarch64-legacy.deb"
+          "name": "electerm-5.1.20-linux-loongarch64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-loongarch64-legacy.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-loongarch64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-loongarch64.deb"
+          "name": "electerm-5.1.20-linux-loongarch64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-loongarch64.deb"
         },
         {
-          "name": "electerm-5.1.16-linux-x64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-x64-legacy.tar.gz"
+          "name": "electerm-5.1.20-linux-x64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-x64-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-x64.tar.gz"
+          "name": "electerm-5.1.20-linux-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-x64.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-linux-x86_64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-x86_64-legacy.AppImage"
+          "name": "electerm-5.1.20-linux-x86_64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-x86_64-legacy.AppImage"
         },
         {
-          "name": "electerm-5.1.16-linux-x86_64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-x86_64-legacy.rpm"
+          "name": "electerm-5.1.20-linux-x86_64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-x86_64-legacy.rpm"
         },
         {
-          "name": "electerm-5.1.16-linux-x86_64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-x86_64.AppImage"
+          "name": "electerm-5.1.20-linux-x86_64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-x86_64.AppImage"
         },
         {
-          "name": "electerm-5.1.16-linux-x86_64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-linux-x86_64.rpm"
+          "name": "electerm-5.1.20-linux-x86_64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-linux-x86_64.rpm"
         },
         {
-          "name": "electerm-5.1.16-mac-arm64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-mac-arm64.dmg"
+          "name": "electerm-5.1.20-mac-arm64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-mac-arm64.dmg"
         },
         {
-          "name": "electerm-5.1.16-mac-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-mac-x64.dmg"
+          "name": "electerm-5.1.20-mac-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-mac-x64.dmg"
         },
         {
-          "name": "electerm-5.1.16-mac10-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-mac10-x64.dmg"
+          "name": "electerm-5.1.20-mac10-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-mac10-x64.dmg"
         },
         {
-          "name": "electerm-5.1.16-win-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-win-arm64.tar.gz"
+          "name": "electerm-5.1.20-win-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-win-arm64.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-win-x64-loose.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-win-x64-loose.tar.gz"
+          "name": "electerm-5.1.20-win-x64-loose.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-win-x64-loose.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-win-x64-portable.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-win-x64-portable.tar.gz"
+          "name": "electerm-5.1.20-win-x64-portable.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-win-x64-portable.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-win-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-win-x64.tar.gz"
+          "name": "electerm-5.1.20-win-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-win-x64.tar.gz"
         },
         {
-          "name": "electerm-5.1.16-win7.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.1.16/electerm-5.1.16-win7.tar.gz"
+          "name": "electerm-5.1.20-win7.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.1.20/electerm-5.1.20-win7.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1710,17 +1710,17 @@
       "description": "Open-source, desktop-grade AI agent that gets real work done \u2014 data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/netease-youdao/LobsterAI",
-      "release": "2026.8.11",
-      "updatedAt": "2026-08-11T13:53:31Z",
+      "release": "2026.8.14",
+      "updatedAt": "2026-08-14T15:18:20Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "LobsterAI--mac-arm64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.11/LobsterAI--mac-arm64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.14/LobsterAI--mac-arm64.dmg"
         },
         {
           "name": "LobsterAI--mac-x64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.11/LobsterAI--mac-x64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.14/LobsterAI--mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2408,6 +2408,10 @@
       "verification": "discovered",
       "assets": [
         {
+          "name": "PyGPT-2.8.1-aarch64.AppImage",
+          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.1/PyGPT-2.8.1-aarch64.AppImage"
+        },
+        {
           "name": "PyGPT-2.8.1-x86_64.AppImage",
           "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.1/PyGPT-2.8.1-x86_64.AppImage"
         }
@@ -2615,29 +2619,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.127.0",
-      "updatedAt": "2026-08-13T14:49:40Z",
+      "release": "v1.128.0",
+      "updatedAt": "2026-08-14T15:31:13Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.127.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.127.0/lime-1.127.0-darwin-amd64.tar.gz"
+          "name": "lime-1.128.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/lime-1.128.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.127.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.127.0/lime-1.127.0-darwin-arm64.tar.gz"
+          "name": "lime-1.128.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/lime-1.128.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.127.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.127.0/lime-1.127.0-linux-amd64.tar.gz"
+          "name": "lime-1.128.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/lime-1.128.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.127.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.127.0/macos-arm64-Lime-1.127.0.dmg"
+          "name": "macos-arm64-Lime-1.128.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/macos-arm64-Lime-1.128.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.127.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.127.0/macos-x64-Lime-1.127.0.dmg"
+          "name": "macos-x64-Lime-1.128.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/macos-x64-Lime-1.128.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2944,21 +2948,21 @@
       "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally \u2014 private, 100% offline on your computer.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AtomicBot-ai/Atomic-Chat",
-      "release": "v2.0.7",
-      "updatedAt": "2026-08-05T15:13:13Z",
+      "release": "v2.0.14",
+      "updatedAt": "2026-08-14T19:36:04Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Atomic.Chat.app.tar.gz",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.7/Atomic.Chat.app.tar.gz"
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.14/Atomic.Chat.app.tar.gz"
         },
         {
-          "name": "Atomic.Chat_2.0.7_amd64.AppImage",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.7/Atomic.Chat_2.0.7_amd64.AppImage"
+          "name": "Atomic.Chat_2.0.14_amd64.AppImage",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.14/Atomic.Chat_2.0.14_amd64.AppImage"
         },
         {
-          "name": "Atomic.Chat_2.0.7_universal.dmg",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.7/Atomic.Chat_2.0.7_universal.dmg"
+          "name": "Atomic.Chat_2.0.14_universal.dmg",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.14/Atomic.Chat_2.0.14_universal.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3222,25 +3226,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.9",
+      "release": "5.0.10",
       "updatedAt": "2026-08-11T16:39:46Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.9-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.9/Pixeval-5.0.9-linux-aarch64.AppImage"
+          "name": "Pixeval-5.0.10-linux-aarch64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-aarch64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.9-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.9/Pixeval-5.0.9-linux-arm64.tar.gz"
+          "name": "Pixeval-5.0.10-linux-arm64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-arm64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.9-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.9/Pixeval-5.0.9-linux-x64.tar.gz"
+          "name": "Pixeval-5.0.10-linux-x64.tar.gz",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-x64.tar.gz"
         },
         {
-          "name": "Pixeval-5.0.9-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.9/Pixeval-5.0.9-linux-x86_64.AppImage"
+          "name": "Pixeval-5.0.10-linux-x86_64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3292,33 +3296,33 @@
       "description": "Next-gen, source-available alternative to Codex and Claude Code \u2014 one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Devin-AXIS/iPolloWork",
-      "release": "v0.21.0",
-      "updatedAt": "2026-08-13T04:10:59Z",
+      "release": "v0.21.1",
+      "updatedAt": "2026-08-14T09:50:09Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ipollowork-linux-arm64-0.21.0.AppImage",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.0/ipollowork-linux-arm64-0.21.0.AppImage"
+          "name": "ipollowork-linux-arm64-0.21.1.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.1/ipollowork-linux-arm64-0.21.1.AppImage"
         },
         {
-          "name": "ipollowork-linux-arm64-0.21.0.tar.gz",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.0/ipollowork-linux-arm64-0.21.0.tar.gz"
+          "name": "ipollowork-linux-arm64-0.21.1.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.1/ipollowork-linux-arm64-0.21.1.tar.gz"
         },
         {
-          "name": "ipollowork-linux-x64-0.21.0.tar.gz",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.0/ipollowork-linux-x64-0.21.0.tar.gz"
+          "name": "ipollowork-linux-x64-0.21.1.tar.gz",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.1/ipollowork-linux-x64-0.21.1.tar.gz"
         },
         {
-          "name": "ipollowork-linux-x86_64-0.21.0.AppImage",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.0/ipollowork-linux-x86_64-0.21.0.AppImage"
+          "name": "ipollowork-linux-x86_64-0.21.1.AppImage",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.1/ipollowork-linux-x86_64-0.21.1.AppImage"
         },
         {
-          "name": "ipollowork-mac-arm64-0.21.0.dmg",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.0/ipollowork-mac-arm64-0.21.0.dmg"
+          "name": "ipollowork-mac-arm64-0.21.1.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.1/ipollowork-mac-arm64-0.21.1.dmg"
         },
         {
-          "name": "ipollowork-mac-x64-0.21.0.dmg",
-          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.0/ipollowork-mac-x64-0.21.0.dmg"
+          "name": "ipollowork-mac-x64-0.21.1.dmg",
+          "url": "https://github.com/Devin-AXIS/iPolloWork/releases/download/v0.21.1/ipollowork-mac-x64-0.21.1.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3427,41 +3431,41 @@
       "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/NanmiCoder/cc-haha",
-      "release": "v0.5.3",
-      "updatedAt": "2026-08-04T20:46:43Z",
+      "release": "v0.5.4",
+      "updatedAt": "2026-08-14T10:21:26Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Claude-Code-Haha-0.5.3-linux-aarch64.rpm",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-aarch64.rpm"
+          "name": "Claude-Code-Haha-0.5.4-linux-aarch64.rpm",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-linux-aarch64.rpm"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-linux-amd64.deb",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-amd64.deb"
+          "name": "Claude-Code-Haha-0.5.4-linux-amd64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-linux-amd64.deb"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-linux-arm64.AppImage",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-arm64.AppImage"
+          "name": "Claude-Code-Haha-0.5.4-linux-arm64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-linux-arm64.AppImage"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-linux-arm64.deb",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-arm64.deb"
+          "name": "Claude-Code-Haha-0.5.4-linux-arm64.deb",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-linux-arm64.deb"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-linux-x86_64.AppImage",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-x86_64.AppImage"
+          "name": "Claude-Code-Haha-0.5.4-linux-x86_64.AppImage",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-linux-x86_64.AppImage"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-linux-x86_64.rpm",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-linux-x86_64.rpm"
+          "name": "Claude-Code-Haha-0.5.4-linux-x86_64.rpm",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-linux-x86_64.rpm"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-mac-arm64.dmg",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-mac-arm64.dmg"
+          "name": "Claude-Code-Haha-0.5.4-mac-arm64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-mac-arm64.dmg"
         },
         {
-          "name": "Claude-Code-Haha-0.5.3-mac-x64.dmg",
-          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.3/Claude-Code-Haha-0.5.3-mac-x64.dmg"
+          "name": "Claude-Code-Haha-0.5.4-mac-x64.dmg",
+          "url": "https://github.com/NanmiCoder/cc-haha/releases/download/v0.5.4/Claude-Code-Haha-0.5.4-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3472,25 +3476,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.14.1",
-      "updatedAt": "2026-08-13T10:47:47Z",
+      "release": "v0.15.0",
+      "updatedAt": "2026-08-14T16:39:05Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.14.1-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.14.1/aipoch-open-science-0.14.1-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.15.0-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science-0.15.0-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.14.1-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.14.1/aipoch-open-science-0.14.1-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.15.0-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science-0.15.0-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.14.1-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.14.1/aipoch-open-science-0.14.1-mac-x64.dmg"
+          "name": "aipoch-open-science-0.15.0-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science-0.15.0-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.14.1_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.14.1/aipoch-open-science_0.14.1_amd64.deb"
+          "name": "aipoch-open-science_0.15.0_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science_0.15.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3501,37 +3505,37 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.2.37",
-      "updatedAt": "2026-08-07T18:13:55Z",
+      "release": "v0.3.0",
+      "updatedAt": "2026-08-14T17:22:45Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.2.37-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-0.2.37-linux-amd64.deb"
+          "name": "Kun-0.3.0-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.2.37-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-0.2.37-linux-x86_64.AppImage"
+          "name": "Kun-0.3.0-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-0.2.37-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-0.2.37-mac-arm64.dmg"
+          "name": "Kun-0.3.0-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-mac-arm64.dmg"
         },
         {
-          "name": "Kun-0.2.37-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-0.2.37-mac-x64.dmg"
+          "name": "Kun-0.3.0-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.2.37-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-TUI-0.2.37-linux-x64.tar.gz"
+          "name": "Kun-TUI-0.3.0-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-TUI-0.3.0-linux-x64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.37-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-TUI-0.2.37-mac-arm64.tar.gz"
+          "name": "Kun-TUI-0.3.0-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-TUI-0.3.0-mac-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.2.37-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.2.37/Kun-TUI-0.2.37-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.3.0-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-TUI-0.3.0-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3703,21 +3707,21 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/0xsline/OpenChatCut",
-      "release": "v0.2.2",
-      "updatedAt": "2026-08-13T14:18:23Z",
+      "release": "v0.2.3",
+      "updatedAt": "2026-08-14T09:09:01Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "OpenChatCut-0.2.2-arm64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.2/OpenChatCut-0.2.2-arm64.dmg"
+          "name": "OpenChatCut-0.2.3-arm64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.3/OpenChatCut-0.2.3-arm64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.2-x64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.2/OpenChatCut-0.2.2-x64.dmg"
+          "name": "OpenChatCut-0.2.3-x64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.3/OpenChatCut-0.2.3-x64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.2-x86_64.AppImage",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.2/OpenChatCut-0.2.2-x86_64.AppImage"
+          "name": "OpenChatCut-0.2.3-x86_64.AppImage",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.3/OpenChatCut-0.2.3-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
