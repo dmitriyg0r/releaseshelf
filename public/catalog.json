@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T04:47:29Z",
+  "generatedAt": "2026-08-16T04:50:31Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -741,37 +741,37 @@
       "description": "Streaming music player that finds free music for you",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nukeop/nuclear",
-      "release": "player@1.47.0",
-      "updatedAt": "2026-08-14T23:35:51Z",
+      "release": "player@1.47.1",
+      "updatedAt": "2026-08-16T00:57:39Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Nuclear-1.47.0-1.x86_64.rpm",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear-1.47.0-1.x86_64.rpm"
+          "name": "Nuclear-1.47.1-1.x86_64.rpm",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear-1.47.1-1.x86_64.rpm"
         },
         {
-          "name": "Nuclear_1.47.0_aarch64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_aarch64.dmg"
+          "name": "Nuclear_1.47.1_aarch64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear_1.47.1_aarch64.dmg"
         },
         {
-          "name": "Nuclear_1.47.0_amd64.AppImage",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_amd64.AppImage"
+          "name": "Nuclear_1.47.1_amd64.AppImage",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear_1.47.1_amd64.AppImage"
         },
         {
-          "name": "Nuclear_1.47.0_amd64.deb",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_amd64.deb"
+          "name": "Nuclear_1.47.1_amd64.deb",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear_1.47.1_amd64.deb"
         },
         {
-          "name": "Nuclear_1.47.0_x64.dmg",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_1.47.0_x64.dmg"
+          "name": "Nuclear_1.47.1_x64.dmg",
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear_1.47.1_x64.dmg"
         },
         {
           "name": "Nuclear_aarch64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_aarch64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear_aarch64.app.tar.gz"
         },
         {
           "name": "Nuclear_x64.app.tar.gz",
-          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.0/Nuclear_x64.app.tar.gz"
+          "url": "https://github.com/nukeop/nuclear/releases/download/player%401.47.1/Nuclear_x64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -1665,41 +1665,41 @@
       "description": "A multi-model AI agent desktop client \u2014 connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/op7418/CodePilot",
-      "release": "v0.66.2",
-      "updatedAt": "2026-08-12T16:32:00Z",
+      "release": "v0.67.1",
+      "updatedAt": "2026-08-15T17:54:12Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CodePilot-0.66.2-aarch64.rpm",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-aarch64.rpm"
+          "name": "CodePilot-0.67.1-aarch64.rpm",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-aarch64.rpm"
         },
         {
-          "name": "CodePilot-0.66.2-amd64.deb",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-amd64.deb"
+          "name": "CodePilot-0.67.1-amd64.deb",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-amd64.deb"
         },
         {
-          "name": "CodePilot-0.66.2-arm64.AppImage",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-arm64.AppImage"
+          "name": "CodePilot-0.67.1-arm64.AppImage",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-arm64.AppImage"
         },
         {
-          "name": "CodePilot-0.66.2-arm64.deb",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-arm64.deb"
+          "name": "CodePilot-0.67.1-arm64.deb",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-arm64.deb"
         },
         {
-          "name": "CodePilot-0.66.2-arm64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-arm64.dmg"
+          "name": "CodePilot-0.67.1-arm64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-arm64.dmg"
         },
         {
-          "name": "CodePilot-0.66.2-x64.dmg",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-x64.dmg"
+          "name": "CodePilot-0.67.1-x64.dmg",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-x64.dmg"
         },
         {
-          "name": "CodePilot-0.66.2-x86_64.AppImage",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-x86_64.AppImage"
+          "name": "CodePilot-0.67.1-x86_64.AppImage",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-x86_64.AppImage"
         },
         {
-          "name": "CodePilot-0.66.2-x86_64.rpm",
-          "url": "https://github.com/op7418/CodePilot/releases/download/v0.66.2/CodePilot-0.66.2-x86_64.rpm"
+          "name": "CodePilot-0.67.1-x86_64.rpm",
+          "url": "https://github.com/op7418/CodePilot/releases/download/v0.67.1/CodePilot-0.67.1-x86_64.rpm"
         }
       ],
       "accent": "#6e7681"
@@ -2403,17 +2403,17 @@
       "description": "Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/szczyglis-dev/py-gpt",
-      "release": "v2.8.1",
-      "updatedAt": "2026-08-13T19:53:38Z",
+      "release": "v2.8.2",
+      "updatedAt": "2026-08-15T17:30:25Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "PyGPT-2.8.1-aarch64.AppImage",
-          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.1/PyGPT-2.8.1-aarch64.AppImage"
+          "name": "PyGPT-2.8.2-aarch64.AppImage",
+          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.2/PyGPT-2.8.2-aarch64.AppImage"
         },
         {
-          "name": "PyGPT-2.8.1-x86_64.AppImage",
-          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.1/PyGPT-2.8.1-x86_64.AppImage"
+          "name": "PyGPT-2.8.2-x86_64.AppImage",
+          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.2/PyGPT-2.8.2-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2424,45 +2424,45 @@
       "description": "desktop app to browse and analyze your Claude Code conversation history",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/jhlee0409/claude-code-history-viewer",
-      "release": "v1.22.0",
-      "updatedAt": "2026-07-22T04:49:32Z",
+      "release": "v1.23.0",
+      "updatedAt": "2026-08-15T17:54:46Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "cchv-server-linux-arm64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/cchv-server-linux-arm64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-linux-arm64.tar.gz"
         },
         {
           "name": "cchv-server-linux-x64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/cchv-server-linux-x64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-linux-x64.tar.gz"
         },
         {
           "name": "cchv-server-macos-arm64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/cchv-server-macos-arm64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-macos-arm64.tar.gz"
         },
         {
           "name": "cchv-server-macos-x64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/cchv-server-macos-x64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-macos-x64.tar.gz"
         },
         {
-          "name": "Claude.Code.History.Viewer-1.22.0-1.x86_64.rpm",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/Claude.Code.History.Viewer-1.22.0-1.x86_64.rpm"
+          "name": "Claude.Code.History.Viewer-1.23.0-1.x86_64.rpm",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer-1.23.0-1.x86_64.rpm"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.22.0_amd64.AppImage",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/Claude.Code.History.Viewer_1.22.0_amd64.AppImage"
+          "name": "Claude.Code.History.Viewer_1.23.0_amd64.AppImage",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_1.23.0_amd64.AppImage"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.22.0_amd64.deb",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/Claude.Code.History.Viewer_1.22.0_amd64.deb"
+          "name": "Claude.Code.History.Viewer_1.23.0_amd64.deb",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_1.23.0_amd64.deb"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.22.0_universal.dmg",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/Claude.Code.History.Viewer_1.22.0_universal.dmg"
+          "name": "Claude.Code.History.Viewer_1.23.0_universal.dmg",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_1.23.0_universal.dmg"
         },
         {
           "name": "Claude.Code.History.Viewer_universal.app.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.22.0/Claude.Code.History.Viewer_universal.app.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_universal.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2619,29 +2619,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.128.0",
-      "updatedAt": "2026-08-14T15:31:13Z",
+      "release": "v1.129.0",
+      "updatedAt": "2026-08-16T02:05:39Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.128.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/lime-1.128.0-darwin-amd64.tar.gz"
+          "name": "lime-1.129.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/lime-1.129.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.128.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/lime-1.128.0-darwin-arm64.tar.gz"
+          "name": "lime-1.129.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/lime-1.129.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.128.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/lime-1.128.0-linux-amd64.tar.gz"
+          "name": "lime-1.129.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/lime-1.129.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.128.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/macos-arm64-Lime-1.128.0.dmg"
+          "name": "macos-arm64-Lime-1.129.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/macos-arm64-Lime-1.129.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.128.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.128.0/macos-x64-Lime-1.128.0.dmg"
+          "name": "macos-x64-Lime-1.129.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/macos-x64-Lime-1.129.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2718,25 +2718,25 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.7.45",
-      "updatedAt": "2026-08-13T16:24:30Z",
+      "release": "v12.8.0",
+      "updatedAt": "2026-08-15T11:17:49Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.7.45-amd64.deb",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.7.45/Skales-12.7.45-amd64.deb"
+          "name": "Skales-12.8.0-amd64.deb",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.0/Skales-12.8.0-amd64.deb"
         },
         {
-          "name": "Skales-12.7.45-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.7.45/Skales-12.7.45-arm64.dmg"
+          "name": "Skales-12.8.0-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.0/Skales-12.8.0-arm64.dmg"
         },
         {
-          "name": "Skales-12.7.45-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.7.45/Skales-12.7.45-x64.dmg"
+          "name": "Skales-12.8.0-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.0/Skales-12.8.0-x64.dmg"
         },
         {
-          "name": "Skales-12.7.45-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.7.45/Skales-12.7.45-x86_64.AppImage"
+          "name": "Skales-12.8.0-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.0/Skales-12.8.0-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -3201,21 +3201,21 @@
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "release": "v0.7.3",
-      "updatedAt": "2026-08-08T10:45:15Z",
+      "release": "v0.7.4",
+      "updatedAt": "2026-08-15T11:36:43Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "GitHub.Stars.Manager-0.7.3-arm64.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.3/GitHub.Stars.Manager-0.7.3-arm64.dmg"
+          "name": "GitHub.Stars.Manager-0.7.4-arm64.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.4/GitHub.Stars.Manager-0.7.4-arm64.dmg"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.3.AppImage",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.3/GitHub.Stars.Manager-0.7.3.AppImage"
+          "name": "GitHub.Stars.Manager-0.7.4.AppImage",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.4/GitHub.Stars.Manager-0.7.4.AppImage"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.3.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.3/GitHub.Stars.Manager-0.7.3.dmg"
+          "name": "GitHub.Stars.Manager-0.7.4.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.4/GitHub.Stars.Manager-0.7.4.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3394,33 +3394,25 @@
       "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/ai4s-research/open-science",
-      "release": "v0.4.0",
-      "updatedAt": "2026-08-13T12:43:36Z",
+      "release": "v0.4.1",
+      "updatedAt": "2026-08-15T13:47:40Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Open.Science-0.4.0-1.x86_64.rpm",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.0/Open.Science-0.4.0-1.x86_64.rpm"
+          "name": "Open.Science-0.4.1-1.x86_64.rpm",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science-0.4.1-1.x86_64.rpm"
         },
         {
-          "name": "Open.Science_0.4.0_aarch64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.0/Open.Science_0.4.0_aarch64.dmg"
+          "name": "Open.Science_0.4.1_aarch64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science_0.4.1_aarch64.dmg"
         },
         {
-          "name": "Open.Science_0.4.0_amd64.deb",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.0/Open.Science_0.4.0_amd64.deb"
+          "name": "Open.Science_0.4.1_amd64.deb",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science_0.4.1_amd64.deb"
         },
         {
-          "name": "Open.Science_0.4.0_x64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.0/Open.Science_0.4.0_x64.dmg"
-        },
-        {
-          "name": "Open.Science_aarch64.app.tar.gz",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.0/Open.Science_aarch64.app.tar.gz"
-        },
-        {
-          "name": "Open.Science_x64.app.tar.gz",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.0/Open.Science_x64.app.tar.gz"
+          "name": "Open.Science_0.4.1_x64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science_0.4.1_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3476,25 +3468,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.15.0",
-      "updatedAt": "2026-08-14T16:39:05Z",
+      "release": "v0.15.1",
+      "updatedAt": "2026-08-15T13:09:11Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.15.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science-0.15.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.15.1-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science-0.15.1-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.15.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science-0.15.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.15.1-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science-0.15.1-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.15.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science-0.15.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.15.1-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science-0.15.1-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.15.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.0/aipoch-open-science_0.15.0_amd64.deb"
+          "name": "aipoch-open-science_0.15.1_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science_0.15.1_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3505,37 +3497,49 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.3.0",
-      "updatedAt": "2026-08-14T17:22:45Z",
+      "release": "v0.3.4",
+      "updatedAt": "2026-08-16T03:27:34Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.3.0-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-linux-amd64.deb"
+          "name": "Kun-0.3.4-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.3.0-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-linux-x86_64.AppImage"
+          "name": "Kun-0.3.4-linux-arm64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-arm64.AppImage"
         },
         {
-          "name": "Kun-0.3.0-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-mac-arm64.dmg"
+          "name": "Kun-0.3.4-linux-arm64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-arm64.deb"
         },
         {
-          "name": "Kun-0.3.0-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-0.3.0-mac-x64.dmg"
+          "name": "Kun-0.3.4-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-TUI-0.3.0-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-TUI-0.3.0-linux-x64.tar.gz"
+          "name": "Kun-0.3.4-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-mac-arm64.dmg"
         },
         {
-          "name": "Kun-TUI-0.3.0-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-TUI-0.3.0-mac-arm64.tar.gz"
+          "name": "Kun-0.3.4-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.3.0-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.0/Kun-TUI-0.3.0-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.3.4-linux-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-linux-arm64.tar.gz"
+        },
+        {
+          "name": "Kun-TUI-0.3.4-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-linux-x64.tar.gz"
+        },
+        {
+          "name": "Kun-TUI-0.3.4-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-mac-arm64.tar.gz"
+        },
+        {
+          "name": "Kun-TUI-0.3.4-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3616,21 +3620,21 @@
       "description": "Where people and agents build in tune.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/tutti-os/tutti",
-      "release": "v0.2.25",
-      "updatedAt": "2026-08-14T05:17:06Z",
+      "release": "v0.2.26",
+      "updatedAt": "2026-08-15T12:49:02Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Tutti-0.2.25-mac-arm64.dmg",
-          "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.25/Tutti-0.2.25-mac-arm64.dmg"
+          "name": "Tutti-0.2.26-mac-arm64.dmg",
+          "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.26/Tutti-0.2.26-mac-arm64.dmg"
         },
         {
-          "name": "Tutti-0.2.25-mac-universal.dmg",
-          "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.25/Tutti-0.2.25-mac-universal.dmg"
+          "name": "Tutti-0.2.26-mac-universal.dmg",
+          "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.26/Tutti-0.2.26-mac-universal.dmg"
         },
         {
-          "name": "Tutti-0.2.25-mac-x64.dmg",
-          "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.25/Tutti-0.2.25-mac-x64.dmg"
+          "name": "Tutti-0.2.26-mac-x64.dmg",
+          "url": "https://github.com/tutti-os/tutti/releases/download/v0.2.26/Tutti-0.2.26-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3686,17 +3690,17 @@
       "description": "\u98de\u9f20\u683c\u5f0f FlyingMouse Format - Windows \u4e07\u80fd\u6587\u4ef6\u683c\u5f0f\u8f6c\u6362\u5de5\u5177\uff08\u79bb\u7ebf\u53ef\u7528\uff0c\u5185\u7f6e FFmpeg/LibreOffice/Poppler/Tesseract\uff09\u3002\u56fe\u7247/\u6587\u6863/\u8868\u683c/PPT/PDF/\u97f3\u89c6\u9891/WPS \u683c\u5f0f\u4e92\u8f6c + OCR + \u6279\u91cf\u8f6c\u6362",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "release": "v0.5.1",
-      "updatedAt": "2026-08-13T12:50:30Z",
+      "release": "v0.6.1",
+      "updatedAt": "2026-08-15T09:29:20Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "FlyingMouse.Format-Setup-0.5.1-mac-arm64.dmg",
-          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.5.1/FlyingMouse.Format-Setup-0.5.1-mac-arm64.dmg"
+          "name": "FlyingMouse.Format-Setup-0.6.1-mac-arm64.dmg",
+          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.6.1/FlyingMouse.Format-Setup-0.6.1-mac-arm64.dmg"
         },
         {
-          "name": "FlyingMouse.Format-Setup-0.5.1-mac-x64.dmg",
-          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.5.1/FlyingMouse.Format-Setup-0.5.1-mac-x64.dmg"
+          "name": "FlyingMouse.Format-Setup-0.6.1-mac-x64.dmg",
+          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.6.1/FlyingMouse.Format-Setup-0.6.1-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
