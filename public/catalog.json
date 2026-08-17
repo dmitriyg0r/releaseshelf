@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T04:50:31Z",
+  "generatedAt": "2026-08-17T04:58:18Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -415,101 +415,101 @@
       "description": "A command-line fuzzy finder for files, history, and processes.",
       "category": "Developer tools",
       "repositoryUrl": "https://github.com/junegunn/fzf",
-      "release": "v0.74.2",
-      "updatedAt": "2026-08-01T00:17:03Z",
+      "release": "v0.74.3",
+      "updatedAt": "2026-08-17T03:10:34Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "fzf-0.74.2-android_arm64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-android_arm64.tar.gz"
+          "name": "fzf-0.74.3-android_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-android_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-darwin_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-darwin_amd64.tar.gz"
+          "name": "fzf-0.74.3-darwin_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-darwin_amd64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-darwin_arm64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-darwin_arm64.tar.gz"
+          "name": "fzf-0.74.3-darwin_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-darwin_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-freebsd_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-freebsd_amd64.tar.gz"
+          "name": "fzf-0.74.3-freebsd_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-freebsd_amd64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_amd64.tar.gz"
+          "name": "fzf-0.74.3-linux_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_amd64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_arm64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_arm64.tar.gz"
+          "name": "fzf-0.74.3-linux_arm64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_arm64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_armv5.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_armv5.tar.gz"
+          "name": "fzf-0.74.3-linux_armv5.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_armv5.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_armv6.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_armv6.tar.gz"
+          "name": "fzf-0.74.3-linux_armv6.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_armv6.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_armv7.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_armv7.tar.gz"
+          "name": "fzf-0.74.3-linux_armv7.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_armv7.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_loong64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_loong64.tar.gz"
+          "name": "fzf-0.74.3-linux_loong64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_loong64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_ppc64le.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_ppc64le.tar.gz"
+          "name": "fzf-0.74.3-linux_ppc64le.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_ppc64le.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_riscv64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_riscv64.tar.gz"
+          "name": "fzf-0.74.3-linux_riscv64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_riscv64.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-linux_s390x.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-linux_s390x.tar.gz"
+          "name": "fzf-0.74.3-linux_s390x.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-linux_s390x.tar.gz"
         },
         {
-          "name": "fzf-0.74.2-openbsd_amd64.tar.gz",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf-0.74.2-openbsd_amd64.tar.gz"
+          "name": "fzf-0.74.3-openbsd_amd64.tar.gz",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf-0.74.3-openbsd_amd64.tar.gz"
         },
         {
-          "name": "fzf_0.74.2_amd64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_amd64.deb"
+          "name": "fzf_0.74.3_amd64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_amd64.deb"
         },
         {
-          "name": "fzf_0.74.2_arm64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_arm64.deb"
+          "name": "fzf_0.74.3_arm64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_arm64.deb"
         },
         {
-          "name": "fzf_0.74.2_armv5.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_armv5.deb"
+          "name": "fzf_0.74.3_armv5.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_armv5.deb"
         },
         {
-          "name": "fzf_0.74.2_armv6.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_armv6.deb"
+          "name": "fzf_0.74.3_armv6.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_armv6.deb"
         },
         {
-          "name": "fzf_0.74.2_armv7.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_armv7.deb"
+          "name": "fzf_0.74.3_armv7.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_armv7.deb"
         },
         {
-          "name": "fzf_0.74.2_loong64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_loong64.deb"
+          "name": "fzf_0.74.3_loong64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_loong64.deb"
         },
         {
-          "name": "fzf_0.74.2_ppc64le.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_ppc64le.deb"
+          "name": "fzf_0.74.3_ppc64le.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_ppc64le.deb"
         },
         {
-          "name": "fzf_0.74.2_riscv64.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_riscv64.deb"
+          "name": "fzf_0.74.3_riscv64.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_riscv64.deb"
         },
         {
-          "name": "fzf_0.74.2_s390x.deb",
-          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.2/fzf_0.74.2_s390x.deb"
+          "name": "fzf_0.74.3_s390x.deb",
+          "url": "https://github.com/junegunn/fzf/releases/download/v0.74.3/fzf_0.74.3_s390x.deb"
         }
       ],
       "accent": "#ff79c6"
@@ -2403,17 +2403,17 @@
       "description": "Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/szczyglis-dev/py-gpt",
-      "release": "v2.8.2",
-      "updatedAt": "2026-08-15T17:30:25Z",
+      "release": "v2.8.3",
+      "updatedAt": "2026-08-16T20:19:43Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "PyGPT-2.8.2-aarch64.AppImage",
-          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.2/PyGPT-2.8.2-aarch64.AppImage"
+          "name": "PyGPT-2.8.3-aarch64.AppImage",
+          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.3/PyGPT-2.8.3-aarch64.AppImage"
         },
         {
-          "name": "PyGPT-2.8.2-x86_64.AppImage",
-          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.2/PyGPT-2.8.2-x86_64.AppImage"
+          "name": "PyGPT-2.8.3-x86_64.AppImage",
+          "url": "https://github.com/szczyglis-dev/py-gpt/releases/download/v2.8.3/PyGPT-2.8.3-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2424,45 +2424,45 @@
       "description": "desktop app to browse and analyze your Claude Code conversation history",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/jhlee0409/claude-code-history-viewer",
-      "release": "v1.23.0",
-      "updatedAt": "2026-08-15T17:54:46Z",
+      "release": "v1.24.1",
+      "updatedAt": "2026-08-16T07:05:34Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "cchv-server-linux-arm64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-linux-arm64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-linux-arm64.tar.gz"
         },
         {
           "name": "cchv-server-linux-x64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-linux-x64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-linux-x64.tar.gz"
         },
         {
           "name": "cchv-server-macos-arm64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-macos-arm64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-macos-arm64.tar.gz"
         },
         {
           "name": "cchv-server-macos-x64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/cchv-server-macos-x64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-macos-x64.tar.gz"
         },
         {
-          "name": "Claude.Code.History.Viewer-1.23.0-1.x86_64.rpm",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer-1.23.0-1.x86_64.rpm"
+          "name": "Claude.Code.History.Viewer-1.24.1-1.x86_64.rpm",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer-1.24.1-1.x86_64.rpm"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.23.0_amd64.AppImage",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_1.23.0_amd64.AppImage"
+          "name": "Claude.Code.History.Viewer_1.24.1_amd64.AppImage",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_1.24.1_amd64.AppImage"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.23.0_amd64.deb",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_1.23.0_amd64.deb"
+          "name": "Claude.Code.History.Viewer_1.24.1_amd64.deb",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_1.24.1_amd64.deb"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.23.0_universal.dmg",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_1.23.0_universal.dmg"
+          "name": "Claude.Code.History.Viewer_1.24.1_universal.dmg",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_1.24.1_universal.dmg"
         },
         {
           "name": "Claude.Code.History.Viewer_universal.app.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.23.0/Claude.Code.History.Viewer_universal.app.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_universal.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2619,29 +2619,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.129.0",
-      "updatedAt": "2026-08-16T02:05:39Z",
+      "release": "v1.130.0",
+      "updatedAt": "2026-08-16T23:27:42Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.129.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/lime-1.129.0-darwin-amd64.tar.gz"
+          "name": "lime-1.130.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.130.0/lime-1.130.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.129.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/lime-1.129.0-darwin-arm64.tar.gz"
+          "name": "lime-1.130.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.130.0/lime-1.130.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.129.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/lime-1.129.0-linux-amd64.tar.gz"
+          "name": "lime-1.130.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.130.0/lime-1.130.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.129.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/macos-arm64-Lime-1.129.0.dmg"
+          "name": "macos-arm64-Lime-1.130.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.130.0/macos-arm64-Lime-1.130.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.129.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.129.0/macos-x64-Lime-1.129.0.dmg"
+          "name": "macos-x64-Lime-1.130.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.130.0/macos-x64-Lime-1.130.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3089,25 +3089,25 @@
       "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "release": "v2.6.4",
-      "updatedAt": "2026-08-10T00:19:54Z",
+      "release": "v2.6.5",
+      "updatedAt": "2026-08-14T10:55:09Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Locally.Uncensored-2.6.4-1.x86_64.rpm",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored-2.6.4-1.x86_64.rpm"
+          "name": "Locally.Uncensored-2.6.5-1.x86_64.rpm",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.5/Locally.Uncensored-2.6.5-1.x86_64.rpm"
         },
         {
-          "name": "Locally.Uncensored_2.6.4_amd64.AppImage",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored_2.6.4_amd64.AppImage"
+          "name": "Locally.Uncensored_2.6.5_amd64.AppImage",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.5/Locally.Uncensored_2.6.5_amd64.AppImage"
         },
         {
-          "name": "Locally.Uncensored_2.6.4_amd64.AppImage.tar.gz",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored_2.6.4_amd64.AppImage.tar.gz"
+          "name": "Locally.Uncensored_2.6.5_amd64.AppImage.tar.gz",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.5/Locally.Uncensored_2.6.5_amd64.AppImage.tar.gz"
         },
         {
-          "name": "Locally.Uncensored_2.6.4_amd64.deb",
-          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.4/Locally.Uncensored_2.6.4_amd64.deb"
+          "name": "Locally.Uncensored_2.6.5_amd64.deb",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v2.6.5/Locally.Uncensored_2.6.5_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3394,25 +3394,25 @@
       "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/ai4s-research/open-science",
-      "release": "v0.4.1",
-      "updatedAt": "2026-08-15T13:47:40Z",
+      "release": "v0.4.2",
+      "updatedAt": "2026-08-16T15:22:07Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Open.Science-0.4.1-1.x86_64.rpm",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science-0.4.1-1.x86_64.rpm"
+          "name": "Open.Science-0.4.2-1.x86_64.rpm",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science-0.4.2-1.x86_64.rpm"
         },
         {
-          "name": "Open.Science_0.4.1_aarch64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science_0.4.1_aarch64.dmg"
+          "name": "Open.Science_0.4.2_aarch64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science_0.4.2_aarch64.dmg"
         },
         {
-          "name": "Open.Science_0.4.1_amd64.deb",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science_0.4.1_amd64.deb"
+          "name": "Open.Science_0.4.2_amd64.deb",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science_0.4.2_amd64.deb"
         },
         {
-          "name": "Open.Science_0.4.1_x64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.1/Open.Science_0.4.1_x64.dmg"
+          "name": "Open.Science_0.4.2_x64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science_0.4.2_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3468,25 +3468,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.15.1",
-      "updatedAt": "2026-08-15T13:09:11Z",
+      "release": "v0.16.0",
+      "updatedAt": "2026-08-16T13:29:07Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.15.1-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science-0.15.1-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.16.0-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science-0.16.0-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.15.1-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science-0.15.1-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.16.0-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science-0.16.0-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.15.1-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science-0.15.1-mac-x64.dmg"
+          "name": "aipoch-open-science-0.16.0-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science-0.16.0-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.15.1_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.15.1/aipoch-open-science_0.15.1_amd64.deb"
+          "name": "aipoch-open-science_0.16.0_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science_0.16.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3497,49 +3497,49 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.3.4",
-      "updatedAt": "2026-08-16T03:27:34Z",
+      "release": "v0.3.5",
+      "updatedAt": "2026-08-16T11:18:17Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.3.4-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-amd64.deb"
+          "name": "Kun-0.3.5-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.3.4-linux-arm64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-arm64.AppImage"
+          "name": "Kun-0.3.5-linux-arm64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-arm64.AppImage"
         },
         {
-          "name": "Kun-0.3.4-linux-arm64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-arm64.deb"
+          "name": "Kun-0.3.5-linux-arm64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-arm64.deb"
         },
         {
-          "name": "Kun-0.3.4-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-linux-x86_64.AppImage"
+          "name": "Kun-0.3.5-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-0.3.4-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-mac-arm64.dmg"
+          "name": "Kun-0.3.5-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-mac-arm64.dmg"
         },
         {
-          "name": "Kun-0.3.4-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-0.3.4-mac-x64.dmg"
+          "name": "Kun-0.3.5-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.3.4-linux-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-linux-arm64.tar.gz"
+          "name": "Kun-TUI-0.3.5-linux-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-linux-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.3.4-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-linux-x64.tar.gz"
+          "name": "Kun-TUI-0.3.5-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-linux-x64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.3.4-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-mac-arm64.tar.gz"
+          "name": "Kun-TUI-0.3.5-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-mac-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.3.4-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.4/Kun-TUI-0.3.4-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.3.5-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3645,41 +3645,41 @@
       "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/xuzhougeng/wisp-science",
-      "release": "v1.3.0",
-      "updatedAt": "2026-08-14T04:10:49Z",
+      "release": "v1.4.0",
+      "updatedAt": "2026-08-17T02:27:15Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "wisp-science_1.3.0_aarch64.app.tar.gz",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_aarch64.app.tar.gz"
+          "name": "wisp-science_1.4.0_aarch64.app.tar.gz",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_aarch64.app.tar.gz"
         },
         {
-          "name": "wisp-science_1.3.0_aarch64.AppImage",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_aarch64.AppImage"
+          "name": "wisp-science_1.4.0_aarch64.AppImage",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_aarch64.AppImage"
         },
         {
-          "name": "wisp-science_1.3.0_aarch64.dmg",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_aarch64.dmg"
+          "name": "wisp-science_1.4.0_aarch64.dmg",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_aarch64.dmg"
         },
         {
-          "name": "wisp-science_1.3.0_amd64.AppImage",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_amd64.AppImage"
+          "name": "wisp-science_1.4.0_amd64.AppImage",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_amd64.AppImage"
         },
         {
-          "name": "wisp-science_1.3.0_amd64.deb",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_amd64.deb"
+          "name": "wisp-science_1.4.0_amd64.deb",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_amd64.deb"
         },
         {
-          "name": "wisp-science_1.3.0_arm64.deb",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_arm64.deb"
+          "name": "wisp-science_1.4.0_arm64.deb",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_arm64.deb"
         },
         {
-          "name": "wisp-science_1.3.0_x64.app.tar.gz",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_x64.app.tar.gz"
+          "name": "wisp-science_1.4.0_x64.app.tar.gz",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_x64.app.tar.gz"
         },
         {
-          "name": "wisp-science_1.3.0_x64.dmg",
-          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.3.0/wisp-science_1.3.0_x64.dmg"
+          "name": "wisp-science_1.4.0_x64.dmg",
+          "url": "https://github.com/xuzhougeng/wisp-science/releases/download/v1.4.0/wisp-science_1.4.0_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3711,21 +3711,54 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/0xsline/OpenChatCut",
-      "release": "v0.2.3",
-      "updatedAt": "2026-08-14T09:09:01Z",
+      "release": "v0.2.4",
+      "updatedAt": "2026-08-17T03:45:19Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "OpenChatCut-0.2.3-arm64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.3/OpenChatCut-0.2.3-arm64.dmg"
+          "name": "OpenChatCut-0.2.4-arm64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.4/OpenChatCut-0.2.4-arm64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.3-x64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.3/OpenChatCut-0.2.3-x64.dmg"
+          "name": "OpenChatCut-0.2.4-x64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.4/OpenChatCut-0.2.4-x64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.3-x86_64.AppImage",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.3/OpenChatCut-0.2.3-x86_64.AppImage"
+          "name": "OpenChatCut-0.2.4-x86_64.AppImage",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.4/OpenChatCut-0.2.4-x86_64.AppImage"
+        }
+      ],
+      "accent": "#6e7681"
+    },
+    {
+      "slug": "zhukunpenglinyutong--desktop-cc-gui",
+      "name": "desktop-cc-gui",
+      "description": "Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.",
+      "category": "Uncategorized",
+      "repositoryUrl": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+      "release": "v0.8.9",
+      "updatedAt": "2026-08-15T13:39:41Z",
+      "verification": "discovered",
+      "assets": [
+        {
+          "name": "ccgui_0.8.9_aarch64.dmg",
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.9/ccgui_0.8.9_aarch64.dmg"
+        },
+        {
+          "name": "ccgui_0.8.9_amd64.AppImage",
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.9/ccgui_0.8.9_amd64.AppImage"
+        },
+        {
+          "name": "ccgui_0.8.9_x86_64.dmg",
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.9/ccgui_0.8.9_x86_64.dmg"
+        },
+        {
+          "name": "ccgui_aarch64.app.tar.gz",
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.9/ccgui_aarch64.app.tar.gz"
+        },
+        {
+          "name": "ccgui_x86_64.app.tar.gz",
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.9/ccgui_x86_64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
