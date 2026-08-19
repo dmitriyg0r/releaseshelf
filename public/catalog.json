@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T04:53:12Z",
+  "generatedAt": "2026-08-19T04:52:47Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -520,41 +520,41 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/farion1231/cc-switch",
-      "release": "v3.19.2",
-      "updatedAt": "2026-08-06T04:39:34Z",
+      "release": "v3.20.0",
+      "updatedAt": "2026-08-18T09:11:14Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "CC-Switch-v3.19.2-Linux-arm64.AppImage",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.AppImage"
+          "name": "CC-Switch-v3.20.0-Linux-arm64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.AppImage"
         },
         {
-          "name": "CC-Switch-v3.19.2-Linux-arm64.deb",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.deb"
+          "name": "CC-Switch-v3.20.0-Linux-arm64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.deb"
         },
         {
-          "name": "CC-Switch-v3.19.2-Linux-arm64.rpm",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.rpm"
+          "name": "CC-Switch-v3.20.0-Linux-arm64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.rpm"
         },
         {
-          "name": "CC-Switch-v3.19.2-Linux-x86_64.AppImage",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-x86_64.AppImage"
+          "name": "CC-Switch-v3.20.0-Linux-x86_64.AppImage",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.AppImage"
         },
         {
-          "name": "CC-Switch-v3.19.2-Linux-x86_64.deb",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-x86_64.deb"
+          "name": "CC-Switch-v3.20.0-Linux-x86_64.deb",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.deb"
         },
         {
-          "name": "CC-Switch-v3.19.2-Linux-x86_64.rpm",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-x86_64.rpm"
+          "name": "CC-Switch-v3.20.0-Linux-x86_64.rpm",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.rpm"
         },
         {
-          "name": "CC-Switch-v3.19.2-macOS.dmg",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-macOS.dmg"
+          "name": "CC-Switch-v3.20.0-macOS.dmg",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-macOS.dmg"
         },
         {
-          "name": "CC-Switch-v3.19.2-macOS.tar.gz",
-          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-macOS.tar.gz"
+          "name": "CC-Switch-v3.20.0-macOS.tar.gz",
+          "url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-macOS.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -856,33 +856,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.22.0",
-      "updatedAt": "2026-08-14T21:31:02Z",
+      "release": "desktop-v1.23.0",
+      "updatedAt": "2026-08-18T22:13:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.22.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-1.22.0-arm64.dmg"
+          "name": "Superset-1.23.0-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-1.23.0-arm64.dmg"
         },
         {
-          "name": "superset-1.22.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/superset-1.22.0-x86_64.AppImage"
+          "name": "superset-1.23.0-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/superset-1.23.0-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.22.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-1.22.0.dmg"
+          "name": "Superset-1.23.0.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-1.23.0.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.22.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1297,41 +1297,41 @@
       "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/beekeeper-studio/beekeeper-studio",
-      "release": "v6.0.1",
-      "updatedAt": "2026-08-14T05:04:51Z",
+      "release": "v6.0.4",
+      "updatedAt": "2026-08-18T16:47:03Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Beekeeper-Studio-6.0.1-arm64.AppImage",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64.AppImage"
+          "name": "Beekeeper-Studio-6.0.4-arm64.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-arm64.AppImage"
         },
         {
-          "name": "Beekeeper-Studio-6.0.1-arm64.dmg",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64.dmg"
+          "name": "Beekeeper-Studio-6.0.4-arm64.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-arm64.dmg"
         },
         {
-          "name": "beekeeper-studio-6.0.1.aarch64.rpm",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio-6.0.1.aarch64.rpm"
+          "name": "beekeeper-studio-6.0.4.aarch64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio-6.0.4.aarch64.rpm"
         },
         {
-          "name": "Beekeeper-Studio-6.0.1.AppImage",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1.AppImage"
+          "name": "Beekeeper-Studio-6.0.4.AppImage",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4.AppImage"
         },
         {
-          "name": "Beekeeper-Studio-6.0.1.dmg",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1.dmg"
+          "name": "Beekeeper-Studio-6.0.4.dmg",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4.dmg"
         },
         {
-          "name": "beekeeper-studio-6.0.1.x86_64.rpm",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio-6.0.1.x86_64.rpm"
+          "name": "beekeeper-studio-6.0.4.x86_64.rpm",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio-6.0.4.x86_64.rpm"
         },
         {
-          "name": "beekeeper-studio_6.0.1_amd64.deb",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio_6.0.1_amd64.deb"
+          "name": "beekeeper-studio_6.0.4_amd64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio_6.0.4_amd64.deb"
         },
         {
-          "name": "beekeeper-studio_6.0.1_arm64.deb",
-          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio_6.0.1_arm64.deb"
+          "name": "beekeeper-studio_6.0.4_arm64.deb",
+          "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio_6.0.4_arm64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -1710,17 +1710,17 @@
       "description": "Open-source, desktop-grade AI agent that gets real work done \u2014 data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/netease-youdao/LobsterAI",
-      "release": "2026.8.14",
-      "updatedAt": "2026-08-14T15:18:20Z",
+      "release": "2026.8.18",
+      "updatedAt": "2026-08-18T12:31:16Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "LobsterAI--mac-arm64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.14/LobsterAI--mac-arm64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.18/LobsterAI--mac-arm64.dmg"
         },
         {
           "name": "LobsterAI--mac-x64.dmg",
-          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.14/LobsterAI--mac-x64.dmg"
+          "url": "https://github.com/netease-youdao/LobsterAI/releases/download/2026.8.18/LobsterAI--mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1986,17 +1986,17 @@
       "description": "Fast, free and customizable picture viewer",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Ruben2776/PicView",
-      "release": "5.0.3",
-      "updatedAt": "2026-08-13T16:57:58Z",
+      "release": "5.0.4",
+      "updatedAt": "2026-08-18T08:31:41Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "PicView-5.0.3-macOS-arm64.dmg",
-          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.3/PicView-5.0.3-macOS-arm64.dmg"
+          "name": "PicView-5.0.4-macOS-arm64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.4/PicView-5.0.4-macOS-arm64.dmg"
         },
         {
-          "name": "PicView-5.0.3-macOS-x64.dmg",
-          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.3/PicView-5.0.3-macOS-x64.dmg"
+          "name": "PicView-5.0.4-macOS-x64.dmg",
+          "url": "https://github.com/Ruben2776/PicView/releases/download/5.0.4/PicView-5.0.4-macOS-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2349,25 +2349,25 @@
       "description": "Handy tool set for developers",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/rememberber/MooTool",
-      "release": "next-electron-v1.1.0",
-      "updatedAt": "2026-07-28T08:58:49Z",
+      "release": "next-electron-v1.1.1",
+      "updatedAt": "2026-08-18T09:59:44Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "MooTool-Next-Electron-1.1.0-linux-x64.AppImage",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-linux-x64.AppImage"
+          "name": "MooTool-Next-Electron-1.1.1-linux-x64.AppImage",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.1/MooTool-Next-Electron-1.1.1-linux-x64.AppImage"
         },
         {
-          "name": "MooTool-Next-Electron-1.1.0-linux-x64.deb",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-linux-x64.deb"
+          "name": "MooTool-Next-Electron-1.1.1-linux-x64.deb",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.1/MooTool-Next-Electron-1.1.1-linux-x64.deb"
         },
         {
-          "name": "MooTool-Next-Electron-1.1.0-mac-arm64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-mac-arm64.dmg"
+          "name": "MooTool-Next-Electron-1.1.1-mac-arm64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.1/MooTool-Next-Electron-1.1.1-mac-arm64.dmg"
         },
         {
-          "name": "MooTool-Next-Electron-1.1.0-mac-x64.dmg",
-          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.0/MooTool-Next-Electron-1.1.0-mac-x64.dmg"
+          "name": "MooTool-Next-Electron-1.1.1-mac-x64.dmg",
+          "url": "https://github.com/rememberber/MooTool/releases/download/next-electron-v1.1.1/MooTool-Next-Electron-1.1.1-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2424,45 +2424,45 @@
       "description": "desktop app to browse and analyze your Claude Code conversation history",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/jhlee0409/claude-code-history-viewer",
-      "release": "v1.24.1",
-      "updatedAt": "2026-08-16T07:05:34Z",
+      "release": "v1.25.0",
+      "updatedAt": "2026-08-18T19:52:49Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "cchv-server-linux-arm64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-linux-arm64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/cchv-server-linux-arm64.tar.gz"
         },
         {
           "name": "cchv-server-linux-x64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-linux-x64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/cchv-server-linux-x64.tar.gz"
         },
         {
           "name": "cchv-server-macos-arm64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-macos-arm64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/cchv-server-macos-arm64.tar.gz"
         },
         {
           "name": "cchv-server-macos-x64.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/cchv-server-macos-x64.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/cchv-server-macos-x64.tar.gz"
         },
         {
-          "name": "Claude.Code.History.Viewer-1.24.1-1.x86_64.rpm",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer-1.24.1-1.x86_64.rpm"
+          "name": "Claude.Code.History.Viewer-1.25.0-1.x86_64.rpm",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/Claude.Code.History.Viewer-1.25.0-1.x86_64.rpm"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.24.1_amd64.AppImage",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_1.24.1_amd64.AppImage"
+          "name": "Claude.Code.History.Viewer_1.25.0_amd64.AppImage",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/Claude.Code.History.Viewer_1.25.0_amd64.AppImage"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.24.1_amd64.deb",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_1.24.1_amd64.deb"
+          "name": "Claude.Code.History.Viewer_1.25.0_amd64.deb",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/Claude.Code.History.Viewer_1.25.0_amd64.deb"
         },
         {
-          "name": "Claude.Code.History.Viewer_1.24.1_universal.dmg",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_1.24.1_universal.dmg"
+          "name": "Claude.Code.History.Viewer_1.25.0_universal.dmg",
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/Claude.Code.History.Viewer_1.25.0_universal.dmg"
         },
         {
           "name": "Claude.Code.History.Viewer_universal.app.tar.gz",
-          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.24.1/Claude.Code.History.Viewer_universal.app.tar.gz"
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer/releases/download/v1.25.0/Claude.Code.History.Viewer_universal.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2652,41 +2652,41 @@
       "description": "An offline-first photo manager for large local libraries",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/julyx10/lap",
-      "release": "v0.3.0",
-      "updatedAt": "2026-07-17T06:10:32Z",
+      "release": "v0.3.1",
+      "updatedAt": "2026-08-18T14:12:24Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Lap_0.3.0_aarch64.AppImage",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_aarch64.AppImage"
+          "name": "Lap_0.3.1_aarch64.AppImage",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_0.3.1_aarch64.AppImage"
         },
         {
-          "name": "Lap_0.3.0_aarch64.dmg",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_aarch64.dmg"
+          "name": "Lap_0.3.1_aarch64.dmg",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_0.3.1_aarch64.dmg"
         },
         {
-          "name": "Lap_0.3.0_amd64.AppImage",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_amd64.AppImage"
+          "name": "Lap_0.3.1_amd64.AppImage",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_0.3.1_amd64.AppImage"
         },
         {
-          "name": "Lap_0.3.0_amd64.deb",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_amd64.deb"
+          "name": "Lap_0.3.1_amd64.deb",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_0.3.1_amd64.deb"
         },
         {
-          "name": "Lap_0.3.0_arm64.deb",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_arm64.deb"
+          "name": "Lap_0.3.1_arm64.deb",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_0.3.1_arm64.deb"
         },
         {
-          "name": "Lap_0.3.0_x64.dmg",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_0.3.0_x64.dmg"
+          "name": "Lap_0.3.1_x64.dmg",
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_0.3.1_x64.dmg"
         },
         {
           "name": "Lap_aarch64.app.tar.gz",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_aarch64.app.tar.gz"
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_aarch64.app.tar.gz"
         },
         {
           "name": "Lap_x86_64.app.tar.gz",
-          "url": "https://github.com/julyx10/lap/releases/download/v0.3.0/Lap_x86_64.app.tar.gz"
+          "url": "https://github.com/julyx10/lap/releases/download/v0.3.1/Lap_x86_64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2813,53 +2813,53 @@
       "description": "\ud83e\uddad\u8de8\u7aef\u4ea4\u63a5\u3001\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u684c\u9762 AI \u52a9\u624b\u2014\u2014\u4e5f\u80fd\u670d\u52a1\u5316\u5e38\u9a7b\u3001\u8dd1\u5728\u4e91\u4e0a | Desktop AI that hands off across your devices and gets to know you better \u2014 also runs headless on a NAS or in the cloud",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/shiwenwen/hope-agent",
-      "release": "v0.32.0",
-      "updatedAt": "2026-08-12T05:39:12Z",
+      "release": "v0.33.0",
+      "updatedAt": "2026-08-18T12:00:05Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "hope-agent-0.32.0-darwin-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/hope-agent-0.32.0-darwin-aarch64.tar.gz"
+          "name": "hope-agent-0.33.0-darwin-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/hope-agent-0.33.0-darwin-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.32.0-linux-aarch64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/hope-agent-0.32.0-linux-aarch64.tar.gz"
+          "name": "hope-agent-0.33.0-linux-aarch64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/hope-agent-0.33.0-linux-aarch64.tar.gz"
         },
         {
-          "name": "hope-agent-0.32.0-linux-x86_64.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/hope-agent-0.32.0-linux-x86_64.tar.gz"
+          "name": "hope-agent-0.33.0-linux-x86_64.tar.gz",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/hope-agent-0.33.0-linux-x86_64.tar.gz"
         },
         {
-          "name": "Hope.Agent-0.32.0-1.aarch64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent-0.32.0-1.aarch64.rpm"
+          "name": "Hope.Agent-0.33.0-1.aarch64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent-0.33.0-1.aarch64.rpm"
         },
         {
-          "name": "Hope.Agent-0.32.0-1.x86_64.rpm",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent-0.32.0-1.x86_64.rpm"
+          "name": "Hope.Agent-0.33.0-1.x86_64.rpm",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent-0.33.0-1.x86_64.rpm"
         },
         {
-          "name": "Hope.Agent_0.32.0_aarch64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_aarch64.AppImage"
+          "name": "Hope.Agent_0.33.0_aarch64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent_0.33.0_aarch64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.32.0_aarch64.dmg",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_aarch64.dmg"
+          "name": "Hope.Agent_0.33.0_aarch64.dmg",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent_0.33.0_aarch64.dmg"
         },
         {
-          "name": "Hope.Agent_0.32.0_amd64.AppImage",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_amd64.AppImage"
+          "name": "Hope.Agent_0.33.0_amd64.AppImage",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent_0.33.0_amd64.AppImage"
         },
         {
-          "name": "Hope.Agent_0.32.0_amd64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_amd64.deb"
+          "name": "Hope.Agent_0.33.0_amd64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent_0.33.0_amd64.deb"
         },
         {
-          "name": "Hope.Agent_0.32.0_arm64.deb",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_0.32.0_arm64.deb"
+          "name": "Hope.Agent_0.33.0_arm64.deb",
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent_0.33.0_arm64.deb"
         },
         {
           "name": "Hope.Agent_aarch64.app.tar.gz",
-          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.32.0/Hope.Agent_aarch64.app.tar.gz"
+          "url": "https://github.com/shiwenwen/hope-agent/releases/download/v0.33.0/Hope.Agent_aarch64.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2915,29 +2915,29 @@
       "description": "Agentic desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB & EasySearch. Natural language queries, visual management, and monitoring. Privacy-first. Open source.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/geek-fun/dockit",
-      "release": "v1.4.1",
-      "updatedAt": "2026-08-11T03:44:39Z",
+      "release": "v1.4.2",
+      "updatedAt": "2026-08-18T05:39:35Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "DocKit-1.4.1-1.x86_64.rpm",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.1/DocKit-1.4.1-1.x86_64.rpm"
+          "name": "DocKit-1.4.2-1.x86_64.rpm",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit-1.4.2-1.x86_64.rpm"
         },
         {
-          "name": "DocKit_1.4.1_amd64.AppImage",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.1/DocKit_1.4.1_amd64.AppImage"
+          "name": "DocKit_1.4.2_amd64.AppImage",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_1.4.2_amd64.AppImage"
         },
         {
-          "name": "DocKit_1.4.1_amd64.deb",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.1/DocKit_1.4.1_amd64.deb"
+          "name": "DocKit_1.4.2_amd64.deb",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_1.4.2_amd64.deb"
         },
         {
-          "name": "DocKit_1.4.1_universal.dmg",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.1/DocKit_1.4.1_universal.dmg"
+          "name": "DocKit_1.4.2_universal.dmg",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_1.4.2_universal.dmg"
         },
         {
           "name": "DocKit_universal.app.tar.gz",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.1/DocKit_universal.app.tar.gz"
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_universal.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3201,21 +3201,21 @@
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AmintaCCCP/GithubStarsManager",
-      "release": "v0.7.4",
-      "updatedAt": "2026-08-15T11:36:43Z",
+      "release": "v0.7.5",
+      "updatedAt": "2026-08-18T08:30:28Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "GitHub.Stars.Manager-0.7.4-arm64.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.4/GitHub.Stars.Manager-0.7.4-arm64.dmg"
+          "name": "GitHub.Stars.Manager-0.7.5-arm64.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.5/GitHub.Stars.Manager-0.7.5-arm64.dmg"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.4.AppImage",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.4/GitHub.Stars.Manager-0.7.4.AppImage"
+          "name": "GitHub.Stars.Manager-0.7.5.AppImage",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.5/GitHub.Stars.Manager-0.7.5.AppImage"
         },
         {
-          "name": "GitHub.Stars.Manager-0.7.4.dmg",
-          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.4/GitHub.Stars.Manager-0.7.4.dmg"
+          "name": "GitHub.Stars.Manager-0.7.5.dmg",
+          "url": "https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.7.5/GitHub.Stars.Manager-0.7.5.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3394,25 +3394,37 @@
       "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/ai4s-research/open-science",
-      "release": "v0.4.2",
-      "updatedAt": "2026-08-16T15:22:07Z",
+      "release": "v0.5.0",
+      "updatedAt": "2026-08-19T02:30:21Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Open.Science-0.4.2-1.x86_64.rpm",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science-0.4.2-1.x86_64.rpm"
+          "name": "Open.Science-0.5.0-1.x86_64.rpm",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/Open.Science-0.5.0-1.x86_64.rpm"
         },
         {
-          "name": "Open.Science_0.4.2_aarch64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science_0.4.2_aarch64.dmg"
+          "name": "Open.Science_0.5.0_aarch64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/Open.Science_0.5.0_aarch64.dmg"
         },
         {
-          "name": "Open.Science_0.4.2_amd64.deb",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science_0.4.2_amd64.deb"
+          "name": "Open.Science_0.5.0_amd64.deb",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/Open.Science_0.5.0_amd64.deb"
         },
         {
-          "name": "Open.Science_0.4.2_x64.dmg",
-          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.4.2/Open.Science_0.4.2_x64.dmg"
+          "name": "Open.Science_0.5.0_x64.dmg",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/Open.Science_0.5.0_x64.dmg"
+        },
+        {
+          "name": "osd-0.5.0-aarch64-apple-darwin.tar.gz",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/osd-0.5.0-aarch64-apple-darwin.tar.gz"
+        },
+        {
+          "name": "osd-0.5.0-x86_64-apple-darwin.tar.gz",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/osd-0.5.0-x86_64-apple-darwin.tar.gz"
+        },
+        {
+          "name": "osd-0.5.0-x86_64-unknown-linux-gnu.tar.gz",
+          "url": "https://github.com/ai4s-research/open-science/releases/download/v0.5.0/osd-0.5.0-x86_64-unknown-linux-gnu.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3468,25 +3480,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.16.0",
-      "updatedAt": "2026-08-16T13:29:07Z",
+      "release": "v0.17.0",
+      "updatedAt": "2026-08-18T09:28:42Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.16.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science-0.16.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.17.0-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.17.0/aipoch-open-science-0.17.0-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.16.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science-0.16.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.17.0-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.17.0/aipoch-open-science-0.17.0-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.16.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science-0.16.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.17.0-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.17.0/aipoch-open-science-0.17.0-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.16.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.16.0/aipoch-open-science_0.16.0_amd64.deb"
+          "name": "aipoch-open-science_0.17.0_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.17.0/aipoch-open-science_0.17.0_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3711,21 +3723,21 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/0xsline/OpenChatCut",
-      "release": "v0.2.6",
-      "updatedAt": "2026-08-17T10:27:05Z",
+      "release": "v0.2.7",
+      "updatedAt": "2026-08-18T13:56:20Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "OpenChatCut-0.2.6-arm64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.6/OpenChatCut-0.2.6-arm64.dmg"
+          "name": "OpenChatCut-0.2.7-arm64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.7/OpenChatCut-0.2.7-arm64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.6-x64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.6/OpenChatCut-0.2.6-x64.dmg"
+          "name": "OpenChatCut-0.2.7-x64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.7/OpenChatCut-0.2.7-x64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.6-x86_64.AppImage",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.6/OpenChatCut-0.2.6-x86_64.AppImage"
+          "name": "OpenChatCut-0.2.7-x86_64.AppImage",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.7/OpenChatCut-0.2.7-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
