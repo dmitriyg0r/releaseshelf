@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T04:54:11Z",
+  "generatedAt": "2026-08-21T04:55:15Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -565,17 +565,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.20.0",
-      "updatedAt": "2026-08-19T17:55:39Z",
+      "release": "open-design-v0.20.1",
+      "updatedAt": "2026-08-20T16:04:05Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.20.0-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.0/open-design-0.20.0-mac-arm64.dmg"
+          "name": "open-design-0.20.1-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.1/open-design-0.20.1-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.20.0-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.0/open-design-0.20.0-mac-x64.dmg"
+          "name": "open-design-0.20.1-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.1/open-design-0.20.1-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -856,33 +856,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.23.0",
-      "updatedAt": "2026-08-18T22:13:03Z",
+      "release": "desktop-v1.24.0",
+      "updatedAt": "2026-08-20T21:03:07Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.23.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-1.23.0-arm64.dmg"
+          "name": "Superset-1.24.0-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-1.24.0-arm64.dmg"
         },
         {
-          "name": "superset-1.23.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/superset-1.23.0-x86_64.AppImage"
+          "name": "superset-1.24.0-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/superset-1.24.0-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.23.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-1.23.0.dmg"
+          "name": "Superset-1.24.0.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-1.24.0.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.23.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2718,25 +2718,25 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.8.2",
-      "updatedAt": "2026-08-19T20:33:53Z",
+      "release": "v12.8.3",
+      "updatedAt": "2026-08-20T19:41:21Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.8.2-amd64.deb",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.2/Skales-12.8.2-amd64.deb"
+          "name": "Skales-12.8.3-amd64.deb",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-amd64.deb"
         },
         {
-          "name": "Skales-12.8.2-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.2/Skales-12.8.2-arm64.dmg"
+          "name": "Skales-12.8.3-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-arm64.dmg"
         },
         {
-          "name": "Skales-12.8.2-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.2/Skales-12.8.2-x64.dmg"
+          "name": "Skales-12.8.3-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-x64.dmg"
         },
         {
-          "name": "Skales-12.8.2-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.2/Skales-12.8.2-x86_64.AppImage"
+          "name": "Skales-12.8.3-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2915,29 +2915,29 @@
       "description": "Agentic desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB & EasySearch. Natural language queries, visual management, and monitoring. Privacy-first. Open source.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/geek-fun/dockit",
-      "release": "v1.4.2",
-      "updatedAt": "2026-08-18T05:39:35Z",
+      "release": "v1.4.3",
+      "updatedAt": "2026-08-20T15:57:12Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "DocKit-1.4.2-1.x86_64.rpm",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit-1.4.2-1.x86_64.rpm"
+          "name": "DocKit-1.4.3-1.x86_64.rpm",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.3/DocKit-1.4.3-1.x86_64.rpm"
         },
         {
-          "name": "DocKit_1.4.2_amd64.AppImage",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_1.4.2_amd64.AppImage"
+          "name": "DocKit_1.4.3_amd64.AppImage",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.3/DocKit_1.4.3_amd64.AppImage"
         },
         {
-          "name": "DocKit_1.4.2_amd64.deb",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_1.4.2_amd64.deb"
+          "name": "DocKit_1.4.3_amd64.deb",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.3/DocKit_1.4.3_amd64.deb"
         },
         {
-          "name": "DocKit_1.4.2_universal.dmg",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_1.4.2_universal.dmg"
+          "name": "DocKit_1.4.3_universal.dmg",
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.3/DocKit_1.4.3_universal.dmg"
         },
         {
           "name": "DocKit_universal.app.tar.gz",
-          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.2/DocKit_universal.app.tar.gz"
+          "url": "https://github.com/geek-fun/dockit/releases/download/v1.4.3/DocKit_universal.app.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3480,25 +3480,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.18.0",
-      "updatedAt": "2026-08-19T15:35:10Z",
+      "release": "v0.18.1",
+      "updatedAt": "2026-08-20T13:58:56Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.18.0-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.0/aipoch-open-science-0.18.0-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.18.1-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science-0.18.1-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.18.0-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.0/aipoch-open-science-0.18.0-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.18.1-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science-0.18.1-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.18.0-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.0/aipoch-open-science-0.18.0-mac-x64.dmg"
+          "name": "aipoch-open-science-0.18.1-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science-0.18.1-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.18.0_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.0/aipoch-open-science_0.18.0_amd64.deb"
+          "name": "aipoch-open-science_0.18.1_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science_0.18.1_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -3509,49 +3509,49 @@
       "description": "Local-first AI agent workspace for coding, writing, design, research, and automation \u2014 one runtime for desktop GUI and TUI.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/KunAgent/Kun",
-      "release": "v0.3.5",
-      "updatedAt": "2026-08-16T11:18:17Z",
+      "release": "v0.3.6",
+      "updatedAt": "2026-08-21T01:24:38Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Kun-0.3.5-linux-amd64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-amd64.deb"
+          "name": "Kun-0.3.6-linux-amd64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-0.3.6-linux-amd64.deb"
         },
         {
-          "name": "Kun-0.3.5-linux-arm64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-arm64.AppImage"
+          "name": "Kun-0.3.6-linux-arm64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-0.3.6-linux-arm64.AppImage"
         },
         {
-          "name": "Kun-0.3.5-linux-arm64.deb",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-arm64.deb"
+          "name": "Kun-0.3.6-linux-arm64.deb",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-0.3.6-linux-arm64.deb"
         },
         {
-          "name": "Kun-0.3.5-linux-x86_64.AppImage",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-linux-x86_64.AppImage"
+          "name": "Kun-0.3.6-linux-x86_64.AppImage",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-0.3.6-linux-x86_64.AppImage"
         },
         {
-          "name": "Kun-0.3.5-mac-arm64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-mac-arm64.dmg"
+          "name": "Kun-0.3.6-mac-arm64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-0.3.6-mac-arm64.dmg"
         },
         {
-          "name": "Kun-0.3.5-mac-x64.dmg",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-0.3.5-mac-x64.dmg"
+          "name": "Kun-0.3.6-mac-x64.dmg",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-0.3.6-mac-x64.dmg"
         },
         {
-          "name": "Kun-TUI-0.3.5-linux-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-linux-arm64.tar.gz"
+          "name": "Kun-TUI-0.3.6-linux-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-TUI-0.3.6-linux-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.3.5-linux-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-linux-x64.tar.gz"
+          "name": "Kun-TUI-0.3.6-linux-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-TUI-0.3.6-linux-x64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.3.5-mac-arm64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-mac-arm64.tar.gz"
+          "name": "Kun-TUI-0.3.6-mac-arm64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-TUI-0.3.6-mac-arm64.tar.gz"
         },
         {
-          "name": "Kun-TUI-0.3.5-mac-x64.tar.gz",
-          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.5/Kun-TUI-0.3.5-mac-x64.tar.gz"
+          "name": "Kun-TUI-0.3.6-mac-x64.tar.gz",
+          "url": "https://github.com/KunAgent/Kun/releases/download/v0.3.6/Kun-TUI-0.3.6-mac-x64.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -3702,17 +3702,17 @@
       "description": "\u98de\u9f20\u683c\u5f0f FlyingMouse Format - Windows \u4e07\u80fd\u6587\u4ef6\u683c\u5f0f\u8f6c\u6362\u5de5\u5177\uff08\u79bb\u7ebf\u53ef\u7528\uff0c\u5185\u7f6e FFmpeg/LibreOffice/Poppler/Tesseract\uff09\u3002\u56fe\u7247/\u6587\u6863/\u8868\u683c/PPT/PDF/\u97f3\u89c6\u9891/WPS \u683c\u5f0f\u4e92\u8f6c + OCR + \u6279\u91cf\u8f6c\u6362",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "release": "v0.6.2",
-      "updatedAt": "2026-08-20T04:32:35Z",
+      "release": "v0.6.4",
+      "updatedAt": "2026-08-20T13:16:18Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "FlyingMouse.Format-Setup-0.6.2-mac-arm64.dmg",
-          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.6.2/FlyingMouse.Format-Setup-0.6.2-mac-arm64.dmg"
+          "name": "FlyingMouse.Format-Setup-0.6.4-mac-arm64.dmg",
+          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.6.4/FlyingMouse.Format-Setup-0.6.4-mac-arm64.dmg"
         },
         {
-          "name": "FlyingMouse.Format-Setup-0.6.2-mac-x64.dmg",
-          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.6.2/FlyingMouse.Format-Setup-0.6.2-mac-x64.dmg"
+          "name": "FlyingMouse.Format-Setup-0.6.4-mac-x64.dmg",
+          "url": "https://github.com/LaoFeng-mouse/flyingmouse-format/releases/download/v0.6.4/FlyingMouse.Format-Setup-0.6.4-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3723,21 +3723,21 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/0xsline/OpenChatCut",
-      "release": "v0.2.8",
-      "updatedAt": "2026-08-19T18:31:48Z",
+      "release": "v0.2.9",
+      "updatedAt": "2026-08-20T12:58:44Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "OpenChatCut-0.2.8-arm64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.8/OpenChatCut-0.2.8-arm64.dmg"
+          "name": "OpenChatCut-0.2.9-arm64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.9/OpenChatCut-0.2.9-arm64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.8-x64.dmg",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.8/OpenChatCut-0.2.8-x64.dmg"
+          "name": "OpenChatCut-0.2.9-x64.dmg",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.9/OpenChatCut-0.2.9-x64.dmg"
         },
         {
-          "name": "OpenChatCut-0.2.8-x86_64.AppImage",
-          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.8/OpenChatCut-0.2.8-x86_64.AppImage"
+          "name": "OpenChatCut-0.2.9-x86_64.AppImage",
+          "url": "https://github.com/0xsline/OpenChatCut/releases/download/v0.2.9/OpenChatCut-0.2.9-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
