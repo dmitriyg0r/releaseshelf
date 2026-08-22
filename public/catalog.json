@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T04:55:15Z",
+  "generatedAt": "2026-08-22T04:50:46Z",
   "apps": [
     {
       "slug": "appflowy",
@@ -50,49 +50,49 @@
       "description": "Share files securely with nearby devices on your local network.",
       "category": "Utilities",
       "repositoryUrl": "https://github.com/localsend/localsend",
-      "release": "v1.18.0",
-      "updatedAt": "2026-08-10T22:04:13Z",
+      "release": "v1.18.2",
+      "updatedAt": "2026-08-21T14:02:01Z",
       "verification": "verified",
       "assets": [
         {
-          "name": "LocalSend-1.18.0-linux-arm-64.deb",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-1.18.0-linux-arm-64.deb"
+          "name": "LocalSend-1.18.2-linux-arm-64.deb",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb"
         },
         {
-          "name": "LocalSend-1.18.0-linux-arm-64.tar.gz",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-1.18.0-linux-arm-64.tar.gz"
+          "name": "LocalSend-1.18.2-linux-arm-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.tar.gz"
         },
         {
-          "name": "LocalSend-1.18.0-linux-x86-64.AppImage",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-1.18.0-linux-x86-64.AppImage"
+          "name": "LocalSend-1.18.2-linux-x86-64.AppImage",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage"
         },
         {
-          "name": "LocalSend-1.18.0-linux-x86-64.deb",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-1.18.0-linux-x86-64.deb"
+          "name": "LocalSend-1.18.2-linux-x86-64.deb",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb"
         },
         {
-          "name": "LocalSend-1.18.0-linux-x86-64.tar.gz",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-1.18.0-linux-x86-64.tar.gz"
+          "name": "LocalSend-1.18.2-linux-x86-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.tar.gz"
         },
         {
-          "name": "LocalSend-1.18.0.dmg",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-1.18.0.dmg"
+          "name": "LocalSend-1.18.2.dmg",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg"
         },
         {
-          "name": "LocalSend-CLI-1.18.0-linux-arm-64.tar.gz",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-CLI-1.18.0-linux-arm-64.tar.gz"
+          "name": "LocalSend-CLI-1.18.2-linux-arm-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-arm-64.tar.gz"
         },
         {
-          "name": "LocalSend-CLI-1.18.0-linux-x86-64.tar.gz",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-CLI-1.18.0-linux-x86-64.tar.gz"
+          "name": "LocalSend-CLI-1.18.2-linux-x86-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz"
         },
         {
-          "name": "LocalSend-CLI-1.18.0-macos-arm-64.tar.gz",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-CLI-1.18.0-macos-arm-64.tar.gz"
+          "name": "LocalSend-CLI-1.18.2-macos-arm-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-arm-64.tar.gz"
         },
         {
-          "name": "LocalSend-CLI-1.18.0-macos-x86-64.tar.gz",
-          "url": "https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-CLI-1.18.0-macos-x86-64.tar.gz"
+          "name": "LocalSend-CLI-1.18.2-macos-x86-64.tar.gz",
+          "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-x86-64.tar.gz"
         }
       ],
       "accent": "#35a5e7",
@@ -565,17 +565,17 @@
       "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/PDF/PPTX/MP4 export. \ud83e\udd16 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
-      "release": "open-design-v0.20.1",
-      "updatedAt": "2026-08-20T16:04:05Z",
+      "release": "open-design-v0.20.2",
+      "updatedAt": "2026-08-21T16:54:40Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "open-design-0.20.1-mac-arm64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.1/open-design-0.20.1-mac-arm64.dmg"
+          "name": "open-design-0.20.2-mac-arm64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.2/open-design-0.20.2-mac-arm64.dmg"
         },
         {
-          "name": "open-design-0.20.1-mac-x64.dmg",
-          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.1/open-design-0.20.1-mac-x64.dmg"
+          "name": "open-design-0.20.2-mac-x64.dmg",
+          "url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.20.2/open-design-0.20.2-mac-x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -856,33 +856,33 @@
       "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/superset-sh/superset",
-      "release": "desktop-v1.24.0",
-      "updatedAt": "2026-08-20T21:03:07Z",
+      "release": "desktop-v1.24.2",
+      "updatedAt": "2026-08-21T23:02:49Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Superset-1.24.0-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-1.24.0-arm64.dmg"
+          "name": "Superset-1.24.2-arm64.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.2/Superset-1.24.2-arm64.dmg"
         },
         {
-          "name": "superset-1.24.0-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/superset-1.24.0-x86_64.AppImage"
+          "name": "superset-1.24.2-x86_64.AppImage",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.2/superset-1.24.2-x86_64.AppImage"
         },
         {
-          "name": "Superset-1.24.0.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-1.24.0.dmg"
+          "name": "Superset-1.24.2.dmg",
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.2/Superset-1.24.2.dmg"
         },
         {
           "name": "Superset-arm64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-arm64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.2/Superset-arm64.dmg"
         },
         {
           "name": "Superset-x64.dmg",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-x64.dmg"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.2/Superset-x64.dmg"
         },
         {
           "name": "Superset-x86_64.AppImage",
-          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.0/Superset-x86_64.AppImage"
+          "url": "https://github.com/superset-sh/superset/releases/download/desktop-v1.24.2/Superset-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -1042,57 +1042,57 @@
       "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/tonyantony300/alt-sendme",
-      "release": "v0.6.2",
-      "updatedAt": "2026-07-30T17:00:25Z",
+      "release": "v0.7.0",
+      "updatedAt": "2026-08-21T12:52:16Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "DashBeam-0.6.2-1.aarch64.rpm",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam-0.6.2-1.aarch64.rpm"
+          "name": "DashBeam-0.7.0-1.aarch64.rpm",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam-0.7.0-1.aarch64.rpm"
         },
         {
-          "name": "DashBeam-0.6.2-1.x86_64.rpm",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam-0.6.2-1.x86_64.rpm"
+          "name": "DashBeam-0.7.0-1.x86_64.rpm",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam-0.7.0-1.x86_64.rpm"
         },
         {
-          "name": "DashBeam_0.6.2_aarch64.app.tar.gz",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_aarch64.app.tar.gz"
+          "name": "DashBeam_0.7.0_aarch64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_aarch64.app.tar.gz"
         },
         {
-          "name": "DashBeam_0.6.2_aarch64.AppImage",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_aarch64.AppImage"
+          "name": "DashBeam_0.7.0_aarch64.AppImage",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_aarch64.AppImage"
         },
         {
-          "name": "DashBeam_0.6.2_aarch64.dmg",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_aarch64.dmg"
+          "name": "DashBeam_0.7.0_aarch64.dmg",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_aarch64.dmg"
         },
         {
-          "name": "DashBeam_0.6.2_amd64.AppImage",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_amd64.AppImage"
+          "name": "DashBeam_0.7.0_amd64.AppImage",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_amd64.AppImage"
         },
         {
-          "name": "DashBeam_0.6.2_amd64.deb",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_amd64.deb"
+          "name": "DashBeam_0.7.0_amd64.deb",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_amd64.deb"
         },
         {
-          "name": "DashBeam_0.6.2_arm64.deb",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_arm64.deb"
+          "name": "DashBeam_0.7.0_arm64.deb",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_arm64.deb"
         },
         {
-          "name": "DashBeam_0.6.2_universal.app.tar.gz",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_universal.app.tar.gz"
+          "name": "DashBeam_0.7.0_universal.app.tar.gz",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_universal.app.tar.gz"
         },
         {
-          "name": "DashBeam_0.6.2_universal.dmg",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_universal.dmg"
+          "name": "DashBeam_0.7.0_universal.dmg",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_universal.dmg"
         },
         {
-          "name": "DashBeam_0.6.2_x64.app.tar.gz",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_x64.app.tar.gz"
+          "name": "DashBeam_0.7.0_x64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_x64.app.tar.gz"
         },
         {
-          "name": "DashBeam_0.6.2_x64.dmg",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_x64.dmg"
+          "name": "DashBeam_0.7.0_x64.dmg",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -1396,161 +1396,161 @@
       "description": "\ud83d\udcfbTerminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/electerm/electerm",
-      "release": "v5.2.0",
-      "updatedAt": "2026-08-17T12:16:20Z",
+      "release": "v5.3.0",
+      "updatedAt": "2026-08-21T23:18:25Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "electerm-5.2.0-linux-aarch64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-aarch64-legacy.rpm"
+          "name": "electerm-5.3.0-linux-aarch64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-aarch64-legacy.rpm"
         },
         {
-          "name": "electerm-5.2.0-linux-aarch64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-aarch64.rpm"
+          "name": "electerm-5.3.0-linux-aarch64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-aarch64.rpm"
         },
         {
-          "name": "electerm-5.2.0-linux-amd64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-amd64-legacy.deb"
+          "name": "electerm-5.3.0-linux-amd64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-amd64-legacy.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-amd64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-amd64.deb"
+          "name": "electerm-5.3.0-linux-amd64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-amd64.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-arm64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-arm64-legacy.AppImage"
+          "name": "electerm-5.3.0-linux-arm64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-arm64-legacy.AppImage"
         },
         {
-          "name": "electerm-5.2.0-linux-arm64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-arm64-legacy.deb"
+          "name": "electerm-5.3.0-linux-arm64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-arm64-legacy.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-arm64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-arm64-legacy.tar.gz"
+          "name": "electerm-5.3.0-linux-arm64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-arm64-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-arm64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-arm64.AppImage"
+          "name": "electerm-5.3.0-linux-arm64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-arm64.AppImage"
         },
         {
-          "name": "electerm-5.2.0-linux-arm64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-arm64.deb"
+          "name": "electerm-5.3.0-linux-arm64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-arm64.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-arm64.tar.gz"
+          "name": "electerm-5.3.0-linux-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-arm64.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l-legacy.AppImage"
+          "name": "electerm-5.3.0-linux-armv7l-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l-legacy.AppImage"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l-legacy.deb"
+          "name": "electerm-5.3.0-linux-armv7l-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l-legacy.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l-legacy.rpm"
+          "name": "electerm-5.3.0-linux-armv7l-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l-legacy.rpm"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l-legacy.tar.gz"
+          "name": "electerm-5.3.0-linux-armv7l-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l.AppImage"
+          "name": "electerm-5.3.0-linux-armv7l.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l.AppImage"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l.deb"
+          "name": "electerm-5.3.0-linux-armv7l.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l.rpm"
+          "name": "electerm-5.3.0-linux-armv7l.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l.rpm"
         },
         {
-          "name": "electerm-5.2.0-linux-armv7l.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-armv7l.tar.gz"
+          "name": "electerm-5.3.0-linux-armv7l.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-armv7l.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-loong64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-loong64-legacy.deb"
+          "name": "electerm-5.3.0-linux-loong64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-loong64-legacy.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-loong64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-loong64-legacy.tar.gz"
+          "name": "electerm-5.3.0-linux-loong64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-loong64-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-loong64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-loong64.deb"
+          "name": "electerm-5.3.0-linux-loong64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-loong64.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-loong64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-loong64.tar.gz"
+          "name": "electerm-5.3.0-linux-loong64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-loong64.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-loongarch64-legacy.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-loongarch64-legacy.deb"
+          "name": "electerm-5.3.0-linux-loongarch64-legacy.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-loongarch64-legacy.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-loongarch64.deb",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-loongarch64.deb"
+          "name": "electerm-5.3.0-linux-loongarch64.deb",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-loongarch64.deb"
         },
         {
-          "name": "electerm-5.2.0-linux-x64-legacy.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-x64-legacy.tar.gz"
+          "name": "electerm-5.3.0-linux-x64-legacy.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-x64-legacy.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-x64.tar.gz"
+          "name": "electerm-5.3.0-linux-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-x64.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-linux-x86_64-legacy.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-x86_64-legacy.AppImage"
+          "name": "electerm-5.3.0-linux-x86_64-legacy.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-x86_64-legacy.AppImage"
         },
         {
-          "name": "electerm-5.2.0-linux-x86_64-legacy.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-x86_64-legacy.rpm"
+          "name": "electerm-5.3.0-linux-x86_64-legacy.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-x86_64-legacy.rpm"
         },
         {
-          "name": "electerm-5.2.0-linux-x86_64.AppImage",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-x86_64.AppImage"
+          "name": "electerm-5.3.0-linux-x86_64.AppImage",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-x86_64.AppImage"
         },
         {
-          "name": "electerm-5.2.0-linux-x86_64.rpm",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-linux-x86_64.rpm"
+          "name": "electerm-5.3.0-linux-x86_64.rpm",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-linux-x86_64.rpm"
         },
         {
-          "name": "electerm-5.2.0-mac-arm64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-mac-arm64.dmg"
+          "name": "electerm-5.3.0-mac-arm64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-mac-arm64.dmg"
         },
         {
-          "name": "electerm-5.2.0-mac-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-mac-x64.dmg"
+          "name": "electerm-5.3.0-mac-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-mac-x64.dmg"
         },
         {
-          "name": "electerm-5.2.0-mac10-x64.dmg",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-mac10-x64.dmg"
+          "name": "electerm-5.3.0-mac10-x64.dmg",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-mac10-x64.dmg"
         },
         {
-          "name": "electerm-5.2.0-win-arm64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-win-arm64.tar.gz"
+          "name": "electerm-5.3.0-win-arm64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-win-arm64.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-win-x64-loose.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-win-x64-loose.tar.gz"
+          "name": "electerm-5.3.0-win-x64-loose.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-win-x64-loose.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-win-x64-portable.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-win-x64-portable.tar.gz"
+          "name": "electerm-5.3.0-win-x64-portable.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-win-x64-portable.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-win-x64.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-win-x64.tar.gz"
+          "name": "electerm-5.3.0-win-x64.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-win-x64.tar.gz"
         },
         {
-          "name": "electerm-5.2.0-win7.tar.gz",
-          "url": "https://github.com/electerm/electerm/releases/download/v5.2.0/electerm-5.2.0-win7.tar.gz"
+          "name": "electerm-5.3.0-win7.tar.gz",
+          "url": "https://github.com/electerm/electerm/releases/download/v5.3.0/electerm-5.3.0-win7.tar.gz"
         }
       ],
       "accent": "#6e7681"
@@ -2102,29 +2102,29 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/szTheory/exifcleaner",
-      "release": "v4.2.0",
-      "updatedAt": "2026-08-03T17:52:38Z",
+      "release": "v4.2.1",
+      "updatedAt": "2026-08-22T00:50:38Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "ExifCleaner-4.2.0-arm64.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/ExifCleaner-4.2.0-arm64.dmg"
+          "name": "ExifCleaner-4.2.1-arm64.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/ExifCleaner-4.2.1-arm64.dmg"
         },
         {
-          "name": "ExifCleaner-4.2.0.AppImage",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/ExifCleaner-4.2.0.AppImage"
+          "name": "ExifCleaner-4.2.1.AppImage",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/ExifCleaner-4.2.1.AppImage"
         },
         {
-          "name": "ExifCleaner-4.2.0.dmg",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/ExifCleaner-4.2.0.dmg"
+          "name": "ExifCleaner-4.2.1.dmg",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/ExifCleaner-4.2.1.dmg"
         },
         {
-          "name": "exifcleaner-4.2.0.x86_64.rpm",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/exifcleaner-4.2.0.x86_64.rpm"
+          "name": "exifcleaner-4.2.1.x86_64.rpm",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/exifcleaner-4.2.1.x86_64.rpm"
         },
         {
-          "name": "exifcleaner_4.2.0_amd64.deb",
-          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.0/exifcleaner_4.2.0_amd64.deb"
+          "name": "exifcleaner_4.2.1_amd64.deb",
+          "url": "https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/exifcleaner_4.2.1_amd64.deb"
         }
       ],
       "accent": "#6e7681"
@@ -2619,29 +2619,29 @@
       "description": "  AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/limecloud/lime",
-      "release": "v1.132.0",
-      "updatedAt": "2026-08-19T06:06:59Z",
+      "release": "v1.133.0",
+      "updatedAt": "2026-08-21T22:47:10Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "lime-1.132.0-darwin-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.132.0/lime-1.132.0-darwin-amd64.tar.gz"
+          "name": "lime-1.133.0-darwin-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.133.0/lime-1.133.0-darwin-amd64.tar.gz"
         },
         {
-          "name": "lime-1.132.0-darwin-arm64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.132.0/lime-1.132.0-darwin-arm64.tar.gz"
+          "name": "lime-1.133.0-darwin-arm64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.133.0/lime-1.133.0-darwin-arm64.tar.gz"
         },
         {
-          "name": "lime-1.132.0-linux-amd64.tar.gz",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.132.0/lime-1.132.0-linux-amd64.tar.gz"
+          "name": "lime-1.133.0-linux-amd64.tar.gz",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.133.0/lime-1.133.0-linux-amd64.tar.gz"
         },
         {
-          "name": "macos-arm64-Lime-1.132.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.132.0/macos-arm64-Lime-1.132.0.dmg"
+          "name": "macos-arm64-Lime-1.133.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.133.0/macos-arm64-Lime-1.133.0.dmg"
         },
         {
-          "name": "macos-x64-Lime-1.132.0.dmg",
-          "url": "https://github.com/limecloud/lime/releases/download/v1.132.0/macos-x64-Lime-1.132.0.dmg"
+          "name": "macos-x64-Lime-1.133.0.dmg",
+          "url": "https://github.com/limecloud/lime/releases/download/v1.133.0/macos-x64-Lime-1.133.0.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -2718,25 +2718,25 @@
       "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/skalesapp/skales",
-      "release": "v12.8.3",
-      "updatedAt": "2026-08-20T19:41:21Z",
+      "release": "v12.8.4",
+      "updatedAt": "2026-08-21T12:51:00Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Skales-12.8.3-amd64.deb",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-amd64.deb"
+          "name": "Skales-12.8.4-amd64.deb",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.4/Skales-12.8.4-amd64.deb"
         },
         {
-          "name": "Skales-12.8.3-arm64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-arm64.dmg"
+          "name": "Skales-12.8.4-arm64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.4/Skales-12.8.4-arm64.dmg"
         },
         {
-          "name": "Skales-12.8.3-x64.dmg",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-x64.dmg"
+          "name": "Skales-12.8.4-x64.dmg",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.4/Skales-12.8.4-x64.dmg"
         },
         {
-          "name": "Skales-12.8.3-x86_64.AppImage",
-          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.3/Skales-12.8.3-x86_64.AppImage"
+          "name": "Skales-12.8.4-x86_64.AppImage",
+          "url": "https://github.com/skalesapp/skales/releases/download/v12.8.4/Skales-12.8.4-x86_64.AppImage"
         }
       ],
       "accent": "#6e7681"
@@ -2948,21 +2948,21 @@
       "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally \u2014 private, 100% offline on your computer.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/AtomicBot-ai/Atomic-Chat",
-      "release": "v2.0.19",
-      "updatedAt": "2026-08-19T19:03:39Z",
+      "release": "v2.0.23",
+      "updatedAt": "2026-08-21T19:45:20Z",
       "verification": "discovered",
       "assets": [
         {
           "name": "Atomic.Chat.app.tar.gz",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.19/Atomic.Chat.app.tar.gz"
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.23/Atomic.Chat.app.tar.gz"
         },
         {
-          "name": "Atomic.Chat_2.0.19_amd64.AppImage",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.19/Atomic.Chat_2.0.19_amd64.AppImage"
+          "name": "Atomic.Chat_2.0.23_amd64.AppImage",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.23/Atomic.Chat_2.0.23_amd64.AppImage"
         },
         {
-          "name": "Atomic.Chat_2.0.19_universal.dmg",
-          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.19/Atomic.Chat_2.0.19_universal.dmg"
+          "name": "Atomic.Chat_2.0.23_universal.dmg",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat/releases/download/v2.0.23/Atomic.Chat_2.0.23_universal.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3226,25 +3226,25 @@
       "description": "Wow. Yet another Pixiv client!",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/Pixeval/Pixeval",
-      "release": "5.0.10",
-      "updatedAt": "2026-08-11T16:39:46Z",
+      "release": "5.0.11",
+      "updatedAt": "2026-08-21T09:13:26Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "Pixeval-5.0.10-linux-aarch64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-aarch64.AppImage"
+          "name": "Pixeval-linux-arm64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.11/Pixeval-linux-arm64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.10-linux-arm64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-arm64.tar.gz"
+          "name": "Pixeval-linux-x64.AppImage",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.11/Pixeval-linux-x64.AppImage"
         },
         {
-          "name": "Pixeval-5.0.10-linux-x64.tar.gz",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-x64.tar.gz"
+          "name": "Pixeval-osx-arm64-Setup.pkg",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.11/Pixeval-osx-arm64-Setup.pkg"
         },
         {
-          "name": "Pixeval-5.0.10-linux-x86_64.AppImage",
-          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.10/Pixeval-5.0.10-linux-x86_64.AppImage"
+          "name": "Pixeval-osx-x64-Setup.pkg",
+          "url": "https://github.com/Pixeval/Pixeval/releases/download/5.0.11/Pixeval-osx-x64-Setup.pkg"
         }
       ],
       "accent": "#6e7681"
@@ -3333,57 +3333,57 @@
       "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/tonyantony300/dashbeam",
-      "release": "v0.6.2",
-      "updatedAt": "2026-07-30T17:00:25Z",
+      "release": "v0.7.0",
+      "updatedAt": "2026-08-21T12:52:16Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "DashBeam-0.6.2-1.aarch64.rpm",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam-0.6.2-1.aarch64.rpm"
+          "name": "DashBeam-0.7.0-1.aarch64.rpm",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam-0.7.0-1.aarch64.rpm"
         },
         {
-          "name": "DashBeam-0.6.2-1.x86_64.rpm",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam-0.6.2-1.x86_64.rpm"
+          "name": "DashBeam-0.7.0-1.x86_64.rpm",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam-0.7.0-1.x86_64.rpm"
         },
         {
-          "name": "DashBeam_0.6.2_aarch64.app.tar.gz",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_aarch64.app.tar.gz"
+          "name": "DashBeam_0.7.0_aarch64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_aarch64.app.tar.gz"
         },
         {
-          "name": "DashBeam_0.6.2_aarch64.AppImage",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_aarch64.AppImage"
+          "name": "DashBeam_0.7.0_aarch64.AppImage",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_aarch64.AppImage"
         },
         {
-          "name": "DashBeam_0.6.2_aarch64.dmg",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_aarch64.dmg"
+          "name": "DashBeam_0.7.0_aarch64.dmg",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_aarch64.dmg"
         },
         {
-          "name": "DashBeam_0.6.2_amd64.AppImage",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_amd64.AppImage"
+          "name": "DashBeam_0.7.0_amd64.AppImage",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_amd64.AppImage"
         },
         {
-          "name": "DashBeam_0.6.2_amd64.deb",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_amd64.deb"
+          "name": "DashBeam_0.7.0_amd64.deb",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_amd64.deb"
         },
         {
-          "name": "DashBeam_0.6.2_arm64.deb",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_arm64.deb"
+          "name": "DashBeam_0.7.0_arm64.deb",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_arm64.deb"
         },
         {
-          "name": "DashBeam_0.6.2_universal.app.tar.gz",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_universal.app.tar.gz"
+          "name": "DashBeam_0.7.0_universal.app.tar.gz",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_universal.app.tar.gz"
         },
         {
-          "name": "DashBeam_0.6.2_universal.dmg",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_universal.dmg"
+          "name": "DashBeam_0.7.0_universal.dmg",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_universal.dmg"
         },
         {
-          "name": "DashBeam_0.6.2_x64.app.tar.gz",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_x64.app.tar.gz"
+          "name": "DashBeam_0.7.0_x64.app.tar.gz",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_x64.app.tar.gz"
         },
         {
-          "name": "DashBeam_0.6.2_x64.dmg",
-          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.6.2/DashBeam_0.6.2_x64.dmg"
+          "name": "DashBeam_0.7.0_x64.dmg",
+          "url": "https://github.com/tonyantony300/dashbeam/releases/download/v0.7.0/DashBeam_0.7.0_x64.dmg"
         }
       ],
       "accent": "#6e7681"
@@ -3480,25 +3480,25 @@
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
       "category": "Uncategorized",
       "repositoryUrl": "https://github.com/aipoch/open-science",
-      "release": "v0.18.1",
-      "updatedAt": "2026-08-20T13:58:56Z",
+      "release": "v0.18.2",
+      "updatedAt": "2026-08-21T10:23:29Z",
       "verification": "discovered",
       "assets": [
         {
-          "name": "aipoch-open-science-0.18.1-linux-x86_64.AppImage",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science-0.18.1-linux-x86_64.AppImage"
+          "name": "aipoch-open-science-0.18.2-linux-x86_64.AppImage",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.2/aipoch-open-science-0.18.2-linux-x86_64.AppImage"
         },
         {
-          "name": "aipoch-open-science-0.18.1-mac-arm64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science-0.18.1-mac-arm64.dmg"
+          "name": "aipoch-open-science-0.18.2-mac-arm64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.2/aipoch-open-science-0.18.2-mac-arm64.dmg"
         },
         {
-          "name": "aipoch-open-science-0.18.1-mac-x64.dmg",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science-0.18.1-mac-x64.dmg"
+          "name": "aipoch-open-science-0.18.2-mac-x64.dmg",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.2/aipoch-open-science-0.18.2-mac-x64.dmg"
         },
         {
-          "name": "aipoch-open-science_0.18.1_amd64.deb",
-          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.1/aipoch-open-science_0.18.1_amd64.deb"
+          "name": "aipoch-open-science_0.18.2_amd64.deb",
+          "url": "https://github.com/aipoch/open-science/releases/download/v0.18.2/aipoch-open-science_0.18.2_amd64.deb"
         }
       ],
       "accent": "#6e7681"
